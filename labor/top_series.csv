@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+UNRATE,Unemployment Rate,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
+PAYEMS,"All Employees, Total Nonfarm",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
+CIVPART,Labor Force Participation Rate,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
+ICSA,Initial Claims,Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-07,2026-10-08
+CES0500000003,"Average Hourly Earnings of All Employees, Total Private",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
+LES1252881600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-07-21
+JTSJOL,Job Openings: Total Nonfarm,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
+MANEMP,"All Employees, Manufacturing",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
+U6RATE,"Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)",Percent,Monthly,Seasonally Adjusted,1994-01-01,2026-10-02
+CCSA,Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-07,2026-10-08
+LNS11300060,Labor Force Participation Rate - 25-54 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
+OPHNFB,Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-08-06

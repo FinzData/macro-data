@@ -1,0 +1,167 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+PSAVERT,Personal Saving Rate,Percent,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+PCE,Personal Consumption Expenditures,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+TOTALSA,Total Vehicle Sales,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1976-01-01,2026-10-02
+GASDESW,US Diesel Sales Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1994-03-21,2026-10-06
+PCEC96,Real Personal Consumption Expenditures,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+DSPIC96,Real Disposable Personal Income,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+TDSP,Household Debt Service Payments as a Percent of Disposable Personal Income,Percent,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-22
+RSXFS,Advance Retail Sales: Retail Trade,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+HTRUCKSSAAR,Motor Vehicle Retail Sales: Heavy Weight Trucks,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1967-01-01,2026-10-02
+RSAFS,Advance Retail Sales: Retail Trade and Food Services,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+ALTSALES,Light Weight Vehicle Sales: Autos and Light Trucks,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1976-01-01,2026-10-02
+DSPI,Disposable Personal Income,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+WRMFNS,Retail Money Market Funds,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1980-02-04,2026-09-22
+A229RX0,Real Disposable Personal Income: Per Capita,Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+MSPNHSUS,Median Sales Price for New Houses Sold in the United States,Dollars,Monthly,Not Seasonally Adjusted,1963-01-01,2026-09-24
+RRSFS,Advance Real Retail and Food Services Sales,Millions of 1982-84 CPI Adjusted Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+ECOMPCTSA,E-Commerce Retail Sales as a Percent of Total Sales,Percent,Quarterly,Seasonally Adjusted,1999-10-01,2026-08-18
+PI,Personal Income,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+ECOMSA,E-Commerce Retail Sales,Millions of Dollars,Quarterly,Seasonally Adjusted,1999-10-01,2026-08-18
+MRTSSM44000USS,Retail Sales: Retail Trade,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RETAILIRSA,Retailers: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+CDSP,Consumer Debt Service Payments as a Percent of Disposable Personal Income,Percent,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-22
+PMSAVE,Personal Saving,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+RPI,Real Personal Income,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+SNDR,National Rate: Savings,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-09-21
+A053RC1Q027SBEA,National income: Corporate profits before tax (without IVA and CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+BOGZ1FA895050005Q,"All Sectors; Total Capital Expenditures, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
+W875RX1,Real personal income excluding current transfer receipts,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+CPATAX,Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+W068RCQ027SBEA,Government total expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-30
+AISRSA,Auto Inventory/Sales Ratio,Ratio,Monthly,Seasonally Adjusted,1993-01-01,2026-09-30
+LB0000031Q020SBEA,Real Final Sales to Private Domestic Purchasers,Billions of 2017 US Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+MRTSSM4453USN,"Retail Sales: Beer, Wine, and Liquor Stores",Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM44X72USS,Retail Sales: Retail Trade and Food Services,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM448USN,Retail Sales: Clothing and Clothing Accessory Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+A072RC1Q156SBEA,Personal saving as a percentage of disposable personal income,Percent,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+MRTSSM7225USN,Retail Sales: Restaurants and Other Eating Places,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+PSAVE,Personal Saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
+RSFSDP,Advance Retail Sales: Food Services and Drinking Places,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+RSXFSN,Advance Retail Sales: Retail Trade,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-29
+A792RC0Q052SBEA,Personal income per capita,Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+CPROFIT,Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+MRTSSM44000USN,Retail Sales: Retail Trade,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+PB0000031Q225SBEA,Real final sales to private domestic purchasers,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
+CEFDFSA066MSFRBPHI,Future Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia,Index,Monthly,Seasonally Adjusted,1968-05-01,2026-09-17
+TOTALNSA,Total Vehicle Sales,Thousands of Units,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-02
+LTOTALNSA,Light Weight Vehicle Sales,Thousands of Units,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-02
+RSAFSNA,Advance Retail Sales: Retail Trade and Food Services,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-29
+CMRMTSPL,Real Manufacturing and Trade Industries Sales,Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted,1967-01-01,2026-09-30
+DPI,Disposable Personal Income,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
+MRTSSM44112USN,Retail Sales: Used Car Dealers,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+NICUR,National Income,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+RMFSL,Retail Money Market Funds,Billions of Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-09-22
+HNONWPDPI,"Households and Nonprofit Organizations; Net Worth as a Percentage of Disposable Personal Income, Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1946-10-01,2026-09-11
+TOTBUSSMSA,Total Business Sales,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RETAILIMSA,Retailers Inventories,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+W019RCQ027SBEA,Federal government total expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-07-01,2026-09-30
+WHLSLRIRSA,Merchant Wholesalers: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+ASPNHSUS,Average Sales Price for New Houses Sold in the United States,Dollars,Monthly,Not Seasonally Adjusted,1975-01-01,2026-09-24
+MRTSSM44X72USN,Retail Sales: Retail Trade and Food Services,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+RSCCAS,Advance Retail Sales: Clothing and Clothing Accessory Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+RSFSXMV,"Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+MRTSSM4451USS,Retail Sales: Grocery Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+GASDESM,US Diesel Sales Price,Dollars per Gallon,"Monthly, End of Period",Not Seasonally Adjusted,1994-03-01,2026-09-29
+GPSAVE,Gross Private Saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+LTRUCKSA,Motor Vehicle Retail Sales: Light Weight Trucks,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1976-01-01,2026-10-02
+RETAILSMNSA,Retailers Sales,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+RSBMGESD,"Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+DAUTOSAAR,Motor Vehicle Retail Sales: Domestic Autos,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1967-01-01,2026-10-02
+LAUTOSA,Motor Vehicle Retail Sales: Domestic and Foreign Autos,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1976-01-01,2026-10-02
+MRTSSM722USS,Retail Sales: Food Services and Drinking Places,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+BOGZ1FA105050005Q,"Nonfinancial Corporate Business; Total Capital Expenditures, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
+GSAVE,Gross Saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+MRTSSM448USS,Retail Sales: Clothing and Clothing Accessory Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+DPIC96,Real Disposable Personal Income,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+GASDESLSW,US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price,Dollars per Gallon,Weekly,Not Seasonally Adjusted,2007-02-05,2026-10-06
+HTRUCKSSA,Motor Vehicle Retail Sales: Heavy Weight Trucks,Thousands of Units,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
+MARTSMPCSM44000USS,Advance Retail Sales: Retail Trade,Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1992-02-01,2026-09-29
+ATLSBUSRGEP,Business Expectations: Sales Revenue Growth,Percent,Monthly,Not Seasonally Adjusted,2016-12-01,2026-09-30
+DSERRG3M086SBEA,Personal consumption expenditures: Services (chain-type price index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
+QBPQYNTIY,Income and Expense: Net Interest Income,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
+GASDESMWW,PADD II (Midwest District) Diesel Sales Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1994-03-21,2026-10-06
+MRTSIR448USS,Retail Inventories/Sales Ratio: Clothing and Clothing Accessory Stores,Ratio,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM4453USS,"Retail Sales: Beer, Wine, and Liquor Stores",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RETAILSMSA,Retailers Sales,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RSCCASN,Advance Retail Sales: Clothing and Clothing Accessory Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-29
+RSEAS,Advance Retail Sales: Electronics and Appliance Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+A067RO1Q156NBEA,Real Disposable Personal Income,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-30
+DDURRG3M086SBEA,Personal consumption expenditures: Durable goods (chain-type price index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
+MARTSMPCSM44X72USS,Advance Retail Sales: Retail Trade and Food Services,Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1992-02-01,2026-09-29
+PINCOME,Personal Income,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
+QBPQYNUMINST,Income and Expense: Number of Institutions Reporting,Number of Institutions,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
+W986RC1Q027SBEA,Net private saving: Households and institutions,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+GGSAVE,Gross Government Saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+MIOTOT,Total Personal Income in Michigan,Millions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1948-01-01,2026-09-30
+MRTSSM44111USN,Retail Sales: New Car Dealers,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+USASLRTCR03GPSAM,Sales: Retail Trade: Car Registration: Passenger Cars for United States,Growth rate previous period,Monthly,Seasonally Adjusted,1959-02-01,2026-09-15
+A229RC0Q052SBEA,Disposable personal income: Per capita,Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+A229RX0Q048SBEA,Real Disposable Personal Income: Per Capita,Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+MRTSMPCSM44000USN,Retail Sales: Retail Trade,Percent Change from Preceding Period,Monthly,Not Seasonally Adjusted,1992-02-01,2026-09-16
+MRTSSM45111USN,Retail Sales: Sporting Goods Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+RSMVPD,Advance Retail Sales: Motor Vehicle and Parts Dealers,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+CAOTOT,Total Personal Income in California,Millions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1948-01-01,2026-09-30
+RSNSR,Advance Retail Sales: Nonstore Retailers,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+A445RC1Q027SBEA,Corporate profits with inventory valuation and capital consumption adjustments: Domestic industries,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+MRTSSM4413USS,"Retail Sales: Automotive Parts, Accessory, and Tire Stores",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+WHLSLRSMSA,Merchant Wholesalers Sales,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+FCEXPSAMFRBDAL,Future Capital Expenditures; Diffusion Index for Texas,Index,Monthly,Seasonally Adjusted,2004-06-01,2026-09-28
+HTRUCKSNSA,Motor Vehicle Retail Sales: Heavy Weight Trucks,Thousands of Units,Monthly,Not Seasonally Adjusted,1967-01-01,2026-10-02
+MRTSSM4441USS,Retail Sales: Building Materials and Supplies Dealers,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RSGCS,Advance Retail Sales: Grocery Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+DAUTOSA,Motor Vehicle Retail Sales: Domestic Autos,Thousands of Units,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
+LA0000031Q027SBEA,Final Sales to Private Domestic Purchasers,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+MRTSSM444USS,Retail Sales: Building Materials and Garden Equipment and Supplies Dealers,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RMFNS,Retail Money Market Funds,Billions of Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-09-22
+RSDBS,Advance Retail Sales: Food and Beverage Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+RSFSDPN,Advance Retail Sales: Food Services and Drinking Places,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-29
+RSSGHBMS,"Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+DPCERA3M086SBEA,Real personal consumption expenditures (chain-type quantity index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
+ECOMNSA,E-Commerce Retail Sales,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1999-10-01,2026-08-18
+MRTSIM448USN,Retail Inventories: Clothing and Clothing Accessory Stores,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSMPCSM44000USS,Retail Sales: Retail Trade,Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1992-02-01,2026-09-16
+MRTSSM445USS,Retail Sales: Food and Beverage Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM45112USN,"Retail Sales: Hobby, Toy, and Game Stores",Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+A713RX1Q020SBEA,Real final sales to domestic purchasers,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+FINSALESDOMPRIVPUR,Nowcast for Real Final Sales of Private Domestic Purchasers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2015-10-01,2026-10-08
+IEABCPI,Balance on primary income,Millions of Dollars,Quarterly,Seasonally Adjusted,1999-01-01,2026-09-24
+MRTSSM4400AUSS,"Retail Sales: Retail Trade, Excluding Motor Vehicle and Parts Dealers",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM444USN,Retail Sales: Building Materials and Garden Equipment and Supplies Dealers,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM722USN,Retail Sales: Food Services and Drinking Places,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+W201RC1Q027SBEA,Net saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-01
+A463RC1Q027SBEA,Corporate profits with inventory valuation and capital consumption adjustments: Domestic industries: Nonfinancial,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+CEFDISA066MSFRBNY,Future Capital Expenditures; Diffusion Index for New York,Index,Monthly,Seasonally Adjusted,2001-07-01,2026-09-15
+FSDP,Final Sales to Domestic Purchasers,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+MRTSSM4451USN,Retail Sales: Grocery Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+RSGMS,Advance Retail Sales: General Merchandise Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+TGDEF,Net Government Saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+X032RC1Q027SBEA,Net national factor income,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+AUSSLRTCR03GPSAM,Sales: Retail Trade: Car Registration: Passenger Cars for Australia,Growth rate previous period,Monthly,Seasonally Adjusted,1994-01-01,2026-09-15
+FINSLC1,Real Final Sales of Domestic Product,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+LAUTONSA,Motor Vehicle Retail Sales: Domestic and Foreign Autos,Thousands of Units,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-02
+MRTSIR441USS,Retail Inventories/Sales Ratio: Motor Vehicle and Parts Dealers,Ratio,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+FINSAL,Final Sales of Domestic Product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+GASDESGCW,PADD III (Gulf Coast District) Diesel Sales Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1994-03-21,2026-10-06
+MRTSIM448USS,Retail Inventories: Clothing and Clothing Accessory Stores,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM443USS,Retail Sales: Electronics and Appliance Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM44511USN,Retail Sales: Supermarkets and Other Grocery (Except Convenience) Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,2001-01-01,2026-09-16
+MRTSSM4481USN,Retail Sales: Clothing Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+PDI,Personal Income Receipts on Assets: Personal Dividend Income,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+PII,Personal Income Receipts on Assets: Personal Interest Income,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
+QFR101385USNO,"Quarterly Financial Report: U.S. Corporations: Pharmaceuticals and Medicines: Net Sales, Receipts, and Operating Revenues",Millions of Dollars,Quarterly,Not Seasonally Adjusted,2000-10-01,2026-09-08
+RSHPCS,Advance Retail Sales: Health and Personal Care Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+A067RL1Q156SBEA,Real Disposable Personal Income,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
+DLTRUCKSSAAR,Motor Vehicle Retail Sales: Domestic Light Weight Trucks,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1967-01-01,2026-10-02
+DNDGRG3M086SBEA,Personal consumption expenditures: Nondurable goods (chain-type price index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
+ECOMPCTNSA,E-Commerce Retail Sales as a Percent of Total Sales,Percent,Quarterly,Not Seasonally Adjusted,1999-10-01,2026-08-18
+FGDEF,Net Federal Government Saving,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
+GASDESWCW,PADD V (West Coast District) Diesel Sales Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1994-03-21,2026-10-06
+MRTSMPCSM7225USN,Retail Sales: Restaurants and Other Eating Places,Percent Change from Preceding Period,Monthly,Not Seasonally Adjusted,1992-02-01,2026-09-16
+MRTSSM446USS,Retail Sales: Health and Personal Care Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM451211USN,Retail Sales: Book Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM4541USS,Retail Sales: Electronic Shopping and Mail-Order Houses,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+RETAILIRNSA,Retailers: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-09-16
+RSFSXMVN,"Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers",Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-29
+QBPQYLNLOSS,Income and Expense: Provision for Loan and Lease Losses,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
+QBPQYNTCGOFF,Income and Expense: Net Charge-Offs,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27

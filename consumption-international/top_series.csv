@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+NCRSAXDCAUQ,Real Final Consumption Expenditure for Australia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
+NCPHIRNSAXDCIDQ,"Real Final Consumption Expenditure, Households for Indonesia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCPRNSAXDCINQ,"Real Final Consumption Expenditure, Private Sector for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCRSAXDCDEQ,Real Final Consumption Expenditure for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
+NAEXKP03JPQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Japan,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-15
+NCGGRNSAXDCARQ,"Real Final Consumption Expenditure, General Government for Argentina",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCPHIRNSAXDCRUQ,"Real Final Consumption Expenditure, Households for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCPRSAXDCIDQ,"Real Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Seasonally Adjusted,2000-01-01,2026-09-07
+NCRNSAXDCINQ,Real Final Consumption Expenditure for India,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NAEXKP03TRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Turkey,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NCGGRNSAXDCINQ,"Real Final Consumption Expenditure, General Government for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCGGRNSAXDCMXQ,"Real Final Consumption Expenditure, General Government for Mexico",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29

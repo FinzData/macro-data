@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+CAPG2211A2SQ,"Industrial Capacity: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",Index 2017=100,Quarterly,Seasonally Adjusted,1967-01-01,2026-07-17
+COPRIMZ3351,Import Price Index by Origin (NAICS): Electric Lighting Equipment Manufacturing for Pacific Rim,Index Jun 2012=100,Monthly,Not Seasonally Adjusted,2012-06-01,2026-09-16
+CUURX000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Size Class B/C,Index Dec 1997=100,Monthly,Not Seasonally Adjusted,1997-12-01,2026-09-11
+CUUS0100SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Northeast,Index 1982-1984=100,Semiannual,Not Seasonally Adjusted,1984-01-01,2026-07-14
+CUUS0300SEHF01,Consumer Price Index for All Urban Consumers: Electricity in South,Index 1982-1984=100,Semiannual,Not Seasonally Adjusted,1984-01-01,2026-07-14
+CUUSA000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Size Class A,Index Dec 1986=100,Semiannual,Not Seasonally Adjusted,1987-01-01,2026-07-14
+CUUSX000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Size Class B/C,Index Dec 1997=100,Semiannual,Not Seasonally Adjusted,1998-01-01,2026-07-14
+IPG22111NQ,Industrial Production: Utilities: Electric Power Generation (NAICS = 22111),Index 2017=100,Quarterly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPG22111SQ,Industrial Production: Utilities: Electric Power Generation (NAICS = 22111),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPG22112SQ,"Industrial Production: Utilities: Electric Power Transmission, Control, and Distribution (NAICS = 22112)",Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPG3351NQ,Industrial Production: Manufacturing: Durable Goods: Electric Lighting Equipment (NAICS = 3351),Index 2017=100,Quarterly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPG3351SQ,Industrial Production: Manufacturing: Durable Goods: Electric Lighting Equipment (NAICS = 3351),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18

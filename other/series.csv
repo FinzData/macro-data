@@ -1,0 +1,92 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+CAPG2211A2SQ,"Industrial Capacity: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",Index 2017=100,Quarterly,Seasonally Adjusted,1967-01-01,2026-07-17
+COPRIMZ3351,Import Price Index by Origin (NAICS): Electric Lighting Equipment Manufacturing for Pacific Rim,Index Jun 2012=100,Monthly,Not Seasonally Adjusted,2012-06-01,2026-09-16
+CUURX000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Size Class B/C,Index Dec 1997=100,Monthly,Not Seasonally Adjusted,1997-12-01,2026-09-11
+CUUS0100SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Northeast,Index 1982-1984=100,Semiannual,Not Seasonally Adjusted,1984-01-01,2026-07-14
+CUUS0300SEHF01,Consumer Price Index for All Urban Consumers: Electricity in South,Index 1982-1984=100,Semiannual,Not Seasonally Adjusted,1984-01-01,2026-07-14
+CUUSA000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Size Class A,Index Dec 1986=100,Semiannual,Not Seasonally Adjusted,1987-01-01,2026-07-14
+CUUSX000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Size Class B/C,Index Dec 1997=100,Semiannual,Not Seasonally Adjusted,1998-01-01,2026-07-14
+IPG22111NQ,Industrial Production: Utilities: Electric Power Generation (NAICS = 22111),Index 2017=100,Quarterly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPG22111SQ,Industrial Production: Utilities: Electric Power Generation (NAICS = 22111),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPG22112SQ,"Industrial Production: Utilities: Electric Power Transmission, Control, and Distribution (NAICS = 22112)",Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPG3351NQ,Industrial Production: Manufacturing: Durable Goods: Electric Lighting Equipment (NAICS = 3351),Index 2017=100,Quarterly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPG3351SQ,Industrial Production: Manufacturing: Durable Goods: Electric Lighting Equipment (NAICS = 3351),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPG33521N,Industrial Production: Manufacturing: Durable Goods: Small Electrical Appliance (NAICS = 33521),Index 2017=100,Monthly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPG33521S,Industrial Production: Manufacturing: Durable Goods: Small Electrical Appliance (NAICS = 33521),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPN221112N,Industrial Production: Utilities: Fossil Fuel Electric Power Generation (NAICS = 221112),Index 2017=100,Monthly,Not Seasonally Adjusted,2001-01-01,2026-09-18
+IPN221112NQ,Industrial Production: Utilities: Fossil Fuel Electric Power Generation (NAICS = 221112),Index 2017=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-09-18
+IPN221112SQ,Industrial Production: Utilities: Fossil Fuel Electric Power Generation (NAICS = 221112),Index 2017=100,Quarterly,Seasonally Adjusted,2001-01-01,2026-09-18
+IPN221113NQ,Industrial Production: Utilities: Nuclear Electric Power Generation (NAICS = 221113),Index 2017=100,Quarterly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPN221114T8SQ,Industrial Production: Utilities: Renewables and Other Electric Power Generation (NAICS = 221114-8),Index 2017=100,Quarterly,Seasonally Adjusted,2001-01-01,2026-09-18
+IPN22112CNQ,Industrial Production: Utilities: Commercial and Other Electricity Sales (NAICS = 22112pt.),Index 2017=100,Quarterly,Not Seasonally Adjusted,1972-01-01,2026-09-18
+IPN22112CSQ,Industrial Production: Utilities: Commercial and Other Electricity Sales (NAICS = 22112pt.),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPN22112MSQ,Industrial Production: Utilities: Industrial Electricity Sales (NAICS = 22112pt.),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+IPN22112RSQ,Industrial Production: Utilities: Residential Electricity Sales (NAICS = 22112pt.),Index 2017=100,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-18
+PCU221122221122413,Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East North Central Census Division,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1990-12-01,2026-09-10
+PCU221122221122415,Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for South Atlantic Census Division,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1990-12-01,2026-09-10
+PCU3352103352105,"Producer Price Index by Industry: Small Electrical Appliance Manufacturing: Parts and Attachments for Small Electric Household Appliances, Including Fan Parts",Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1982-12-01,2026-09-10
+PCU3352103352106,Producer Price Index by Industry: Small Electrical Appliance Manufacturing: Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments),Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-09-10
+PCU3352103352107,"Producer Price Index by Industry: Small Electrical Appliance Manufacturing: Other Small Electric Household Appliances, Including Fans",Index May 2021=100,Monthly,Not Seasonally Adjusted,2021-05-01,2026-09-10
+PCU336320336320M,Producer Price Index by Industry: Motor Vehicle Electrical and Electronic Equipment Manufacturing: Miscellaneous Receipts,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-09-10
+PCU423600423600,Producer Price Index by Industry: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,Index May 2019=100,Monthly,Not Seasonally Adjusted,2009-02-01,2026-09-10
+PCU42360042360012,"Producer Price Index by Industry: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers: Wholesaling of All Other Goods, Except Appliances and Electrical and Electronic Goods",Index May 2019=100,Monthly,Not Seasonally Adjusted,2019-05-01,2026-09-10
+PRS31006022,"Manufacturing, Durable Goods Sector: Average Weekly Hours for All Workers",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
+PRS31006151,"Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Workers",Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-08-06
+PRS32006022,"Manufacturing, Nondurable Goods Sector: Average Weekly Hours for All Workers",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
+PRS32006041,"Manufacturing, Nondurable Goods Sector: Real Sectoral Output for All Workers",Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-08-06
+PRS88003022,Nonfinancial Corporations Sector: Average Weekly Hours for Employees,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
+REV2211TPSA,"Total Revenue for 2211: Electric Power Generation, Transmission and Distribution, Establishments Subject to Federal Income Tax",Percent Change,Quarterly,Seasonally Adjusted,2010-04-01,2026-09-09
+RIWG3351S,Relative Importance Weights: Manufacturing: Durable Goods: Electric Lighting Equipment (NAICS = 3351),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-09-18
+RIWN22112CS,Relative Importance Weights: Utilities: Commercial and Other Electricity Sales (NAICS = 22112pt.),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-09-18
+RIWN22112RS,Relative Importance Weights: Utilities: Residential Electricity Sales (NAICS = 22112pt.),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-09-18
+SMU01000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Alabama",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-01-28
+SMU01000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Alabama",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-01-28
+SMU06000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in California",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-01-28
+SMU06000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in California",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-01-28
+SMU20000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Kansas",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
+SMU20000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Kansas",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+SMU29000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Missouri",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
+SMU29000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Missouri",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+SMU34000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in New Jersey",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-01-28
+SMU34000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in New Jersey",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-01-28
+SMU42000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Pennsylvania",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
+SMU42000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Pennsylvania",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+SMU48000004322110001,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Texas",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
+SMU48000004322110001SA,"All Employees: Transportation and Utilities: Electric Power Generation, Transmission and Distribution in Texas",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+TX43221100M158FRBDAL,"Utilities: Electric Power Generation, Transmission and Distribution Payroll Employment in Texas",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1990-02-01,2026-08-21
+TX43221100MC175FRBDAL,"Change in Utilities: Electric Power Generation, Transmission and Distribution Payroll Employment in Texas",Thousands of Persons,Monthly,Seasonally Adjusted,1990-02-01,2026-08-21
+U35ATI,Manufacturers' Total Inventories: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-10-02
+WPS0546,Producer Price Index by Commodity: Fuels and Related Products and Power: Transportation Electric Power,Index Dec 2010=100,Monthly,Seasonally Adjusted,2011-01-01,2026-09-10
+WPS055421,Producer Price Index by Commodity: Fuels and Related Products and Power: Natural Gas to Electric Power,Index Dec 1990=100,Monthly,Seasonally Adjusted,1992-01-01,2026-09-10
+WPU054121,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1990-12-01,2026-09-10
+WPU054121011,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for New England Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121012,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for Middle Atlantic Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121013,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for East North Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121014,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for West North Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121015,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for South Atlantic Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121016,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for East South Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121017,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for West South Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121018,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for Mountain Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054121019,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power for Pacific Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221011,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for New England Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221013,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for East North Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221014,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for West North Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221015,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for South Atlantic Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221016,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for East South Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221017,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for West South Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221018,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for Mountain Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054221019,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power for Pacific Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054321014,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power for West North Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054321016,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power for East South Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054321017,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power for West South Central Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054321018,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power for Mountain Census Division,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-09-10
+WPU054621,Producer Price Index by Commodity: Fuels and Related Products and Power: Transportation Electric Power,Index Dec 2010=100,Monthly,Not Seasonally Adjusted,2010-12-01,2026-09-10
+WPU05462111,Producer Price Index by Commodity: Fuels and Related Products and Power: Transportation Electric Power,Index Dec 2010=100,Monthly,Not Seasonally Adjusted,2010-12-01,2026-09-10
+WPU05542101,Producer Price Index by Commodity: Fuels and Related Products and Power: Natural Gas to Electric Power,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1991-07-01,2026-09-10
+WPU072602052,Producer Price Index by Commodity: Rubber and Plastic Products: Electrical and Electronic Fabricated Plastics (Excluding Foam and Reinforced Plastics),Index Dec 2011=100,Monthly,Not Seasonally Adjusted,2011-12-01,2026-09-10
+WPU11680132,"Producer Price Index by Commodity: Machinery and Equipment: Commercial Electric Cooking Equipment, Including Ranges, Deep-Fat Fryers, etc.",Index Dec 2011=100,Monthly,Not Seasonally Adjusted,2011-12-01,2026-09-10
+WPU11782116,"Producer Price Index by Commodity: Machinery and Equipment: Relays for Electronic Circuitry, Industrial Control Overload, and Switchgear Type",Index Jun 1990=100,Monthly,Not Seasonally Adjusted,1991-07-01,2026-09-10
+WPU12440311,"Producer Price Index by Commodity: Furniture and Household Durables: Parts and Attachments for Small Electric Household Appliances, Including Fan Parts",Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1982-12-01,2026-09-10
+WPU12440401,"Producer Price Index by Commodity: Furniture and Household Durables: Small Electric Household Appliances, Including Fans",Index May 2021=100,Monthly,Not Seasonally Adjusted,2021-05-01,2026-09-10
+WPU1412051424,Producer Price Index by Commodity: Transportation Equipment: Parts for Electrical and Electronic Engine Equipment,Index Jun 2000=100,Monthly,Not Seasonally Adjusted,2000-06-01,2026-09-10
+WPU1412051425,Producer Price Index by Commodity: Transportation Equipment: All Other Miscellaneous Non-Engine Electrical and Electronic Equipment,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-09-10

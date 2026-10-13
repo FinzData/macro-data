@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+DTWEXBGS,Nominal Broad U.S. Dollar Index,Index Jan 2006=100,Daily,Not Seasonally Adjusted,2006-01-02,2026-10-13
+DEXJPUS,Japanese Yen to U.S. Dollar Spot Exchange Rate,Japanese Yen to One U.S. Dollar,Daily,Not Seasonally Adjusted,1971-01-04,2026-10-13
+DEXUSEU,U.S. Dollars to Euro Spot Exchange Rate,U.S. Dollars to One Euro,Daily,Not Seasonally Adjusted,1999-01-04,2026-10-13
+DEXCHUS,Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,Chinese Yuan Renminbi to One U.S. Dollar,Daily,Not Seasonally Adjusted,1981-01-02,2026-10-13
+DEXKOUS,South Korean Won to U.S. Dollar Spot Exchange Rate,South Korean Won to One U.S. Dollar,Daily,Not Seasonally Adjusted,1981-04-13,2026-10-13
+DEXUSUK,U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate,U.S. Dollars to One U.K. Pound Sterling,Daily,Not Seasonally Adjusted,1971-01-04,2026-10-13
+DEXCAUS,Canadian Dollars to U.S. Dollar Spot Exchange Rate,Canadian Dollars to One U.S. Dollar,Daily,Not Seasonally Adjusted,1971-01-04,2026-10-13
+EXJPUS,Japanese Yen to U.S. Dollar Spot Exchange Rate,Japanese Yen to One U.S. Dollar,Monthly,Not Seasonally Adjusted,1971-01-01,2026-10-01
+DEXINUS,Indian Rupees to U.S. Dollar Spot Exchange Rate,Indian Rupees to One U.S. Dollar,Daily,Not Seasonally Adjusted,1973-01-02,2026-10-13
+RTWEXBGS,Real Broad Dollar Index,Index Jan 2006=100,Monthly,Not Seasonally Adjusted,2006-01-01,2026-10-01
+DEXMXUS,Mexican Pesos to U.S. Dollar Spot Exchange Rate,Mexican Pesos to One U.S. Dollar,Daily,Not Seasonally Adjusted,1993-11-08,2026-10-13
+EXCHUS,Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,Chinese Yuan Renminbi to One U.S. Dollar,Monthly,Not Seasonally Adjusted,1981-01-01,2026-10-01

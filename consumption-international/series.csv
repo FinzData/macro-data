@@ -1,0 +1,327 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+NCRSAXDCAUQ,Real Final Consumption Expenditure for Australia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
+NCPHIRNSAXDCIDQ,"Real Final Consumption Expenditure, Households for Indonesia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCPRNSAXDCINQ,"Real Final Consumption Expenditure, Private Sector for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCRSAXDCDEQ,Real Final Consumption Expenditure for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
+NAEXKP03JPQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Japan,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-15
+NCGGRNSAXDCARQ,"Real Final Consumption Expenditure, General Government for Argentina",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCPHIRNSAXDCRUQ,"Real Final Consumption Expenditure, Households for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCPRSAXDCIDQ,"Real Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Seasonally Adjusted,2000-01-01,2026-09-07
+NCRNSAXDCINQ,Real Final Consumption Expenditure for India,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NAEXKP03TRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Turkey,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NCGGRNSAXDCINQ,"Real Final Consumption Expenditure, General Government for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCGGRNSAXDCMXQ,"Real Final Consumption Expenditure, General Government for Mexico",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29
+NCPHIRNSAXDCJPQ,"Real Final Consumption Expenditure, Households for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCPRSAXDCARQ,"Real Final Consumption Expenditure, Private Sector for Argentina",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,2004-01-01,2026-06-29
+NCPRSAXDCBRQ,"Real Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-07
+NCPRSAXDCITQ,"Real Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-10-12
+NCPRSAXDCMXQ,"Real Final Consumption Expenditure, Private Sector for Mexico",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-29
+NCRSAXDCFRQ,Real Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCRSAXDCGBQ,Real Final Consumption Expenditure for United Kingdom,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-07
+NAEXKP02DEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Germany,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1971-01-01,2026-09-15
+NAEXKP02GBQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United Kingdom,Growth rate previous period,Quarterly,Seasonally Adjusted,1955-04-01,2026-09-15
+NAEXKP02INQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for India,Growth rate previous period,Quarterly,Seasonally Adjusted,2004-07-01,2026-09-15
+NAEXKP02JPQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Japan,Growth rate previous period,Quarterly,Seasonally Adjusted,1994-04-01,2026-09-15
+NCGGRNSAXDCRUQ,"Real Final Consumption Expenditure, General Government for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCGGRNSAXDCZAQ,"Real Final Consumption Expenditure, General Government for South Africa",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
+NCPRSAXDCAUQ,"Real Final Consumption Expenditure, Private Sector for Australia",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
+NCPRSAXDCDEQ,"Real Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
+NCPRSAXDCGBQ,"Real Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-07
+NCRNSAXDCAUQ,Real Final Consumption Expenditure for Australia,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
+NCRSAXDCCAQ,Real Final Consumption Expenditure for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
+NCRSAXDCKRQ,Real Final Consumption Expenditure for Republic of Korea,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1960-01-01,2026-07-27
+NCSAXDCARQ,Nominal Final Consumption Expenditure for Argentina,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,2004-01-01,2026-06-29
+NAEXKP02BRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Brazil,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1997-01-01,2026-09-15
+NAEXKP02CLQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Chile,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02FRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for France,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP02GBQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United Kingdom,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1956-01-01,2026-09-15
+NAEXKP02IDQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Indonesia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-15
+NAEXKP02ILQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Israel,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02JPQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Japan,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-15
+NAEXKP02TRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Turkey,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03AUQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Australia,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP03DKQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Denmark,Growth rate previous period,Quarterly,Seasonally Adjusted,1990-04-01,2026-09-15
+NAEXKP03ESQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Spain,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-08-17
+NAEXKP03NLQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Netherlands,Growth rate previous period,Quarterly,Seasonally Adjusted,1988-04-01,2026-08-17
+NCGGRNSAXDCGBQ,"Real Final Consumption Expenditure, General Government for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCGGRNSAXDCIDQ,"Real Final Consumption Expenditure, General Government for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCGGRNSAXDCPLQ,"Real Final Consumption Expenditure, General Government for Republic of Poland",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-14
+NCGGRNSAXDCSAQ,"Real Final Consumption Expenditure, General Government for Saudi Arabia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-06-15
+NCPHIRNSAXDCKRQ,"Real Final Consumption Expenditure, Households for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1970-01-01,2026-07-27
+NCPNSAXDCINQ,"Nominal Final Consumption Expenditure, Private Sector for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCPRNSAXDCBRQ,"Real Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NCPRNSAXDCJPQ,"Real Final Consumption Expenditure, Private Sector for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCPRNSAXDCKRQ,"Real Final Consumption Expenditure, Private Sector for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-27
+NCPRNSAXDCRUQ,"Real Final Consumption Expenditure, Private Sector for Russian Federation",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCPRNSAXDCSAQ,"Real Final Consumption Expenditure, Private Sector for Saudi Arabia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-06-15
+NCPRSAXDCCAQ,"Real Final Consumption Expenditure, Private Sector for Canada",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
+NCPRSAXDCKRQ,"Real Final Consumption Expenditure, Private Sector for Republic of Korea",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1960-01-01,2026-07-27
+NCPRSAXDCZAQ,"Real Final Consumption Expenditure, Private Sector for South Africa",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-15
+NCPSAXDCITQ,"Nominal Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-12
+NCRNSAXDCDEQ,Real Final Consumption Expenditure for Germany,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
+NCRNSAXDCMXQ,Real Final Consumption Expenditure for Mexico,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29
+NCRSAXDCBRQ,Real Final Consumption Expenditure for Brazil,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-07
+NCRSAXDCITQ,Real Final Consumption Expenditure for Italy,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-10-12
+NCRSAXDCJPQ,Real Final Consumption Expenditure for Japan,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-07
+NCSAXDCDEQ,Nominal Final Consumption Expenditure for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
+NCSAXDCIDQ,Nominal Final Consumption Expenditure for Indonesia,Billions of Domestic Currency,Quarterly,Seasonally Adjusted,2008-01-01,2026-09-07
+NAEXKP02ATQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Austria,Growth rate previous period,Quarterly,Seasonally Adjusted,1988-04-01,2026-09-15
+NAEXKP02ATQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Austria,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1989-01-01,2026-09-15
+NAEXKP02AUQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Australia,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP02AUQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Australia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP02BEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Belgium,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02BEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Belgium,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02BRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Brazil,Growth rate previous period,Quarterly,Seasonally Adjusted,1996-04-01,2026-09-15
+NAEXKP02CAQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Canada,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP02CAQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Canada,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP02CHQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Switzerland,Growth rate previous period,Quarterly,Seasonally Adjusted,1980-04-01,2026-09-15
+NAEXKP02CHQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Switzerland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1981-01-01,2026-09-15
+NAEXKP02CLQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Chile,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02CZQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Czech Republic,Growth rate previous period,Quarterly,Seasonally Adjusted,1996-04-01,2026-09-15
+NAEXKP02CZQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Czech Republic,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1997-01-01,2026-09-15
+NAEXKP02DEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Germany,Growth rate previous period,Quarterly,Seasonally Adjusted,1970-04-01,2026-09-15
+NAEXKP02DKQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Denmark,Growth rate previous period,Quarterly,Seasonally Adjusted,1990-04-01,2026-09-15
+NAEXKP02DKQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Denmark,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-15
+NAEXKP02EEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Estonia,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02EEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Estonia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02ESQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Spain,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-08-17
+NAEXKP02ESQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Spain,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-08-17
+NAEXKP02FIQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Finland,Growth rate previous period,Quarterly,Seasonally Adjusted,1990-04-01,2026-09-15
+NAEXKP02FIQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Finland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-15
+NAEXKP02FRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for France,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP02GRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Greece,Growth rate previous period,Quarterly,Seasonally Adjusted,1970-04-01,2026-09-15
+NAEXKP02GRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Greece,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1971-01-01,2026-09-15
+NAEXKP02HUQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Hungary,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02HUQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Hungary,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02IDQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Indonesia,Growth rate previous period,Quarterly,Seasonally Adjusted,1990-04-01,2026-09-15
+NAEXKP02IEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Ireland,Growth rate previous period,Quarterly,Seasonally Adjusted,1997-04-01,2026-09-15
+NAEXKP02IEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Ireland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1998-01-01,2026-09-15
+NAEXKP02ILQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Israel,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02INQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for India,Growth rate same period previous year,Quarterly,Seasonally Adjusted,2005-04-01,2026-09-15
+NAEXKP02ISQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Iceland,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02ISQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Iceland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02ITQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Italy,Growth rate previous period,Quarterly,Seasonally Adjusted,1981-04-01,2026-09-15
+NAEXKP02ITQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Italy,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1982-01-01,2026-09-15
+NAEXKP02KRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Korea,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP02KRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Korea,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP02LUQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Luxembourg,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-06-15
+NAEXKP02LUQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Luxembourg,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-06-15
+NAEXKP02MXQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Mexico,Growth rate previous period,Quarterly,Seasonally Adjusted,1980-04-01,2026-07-16
+NAEXKP02MXQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Mexico,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1981-01-01,2026-07-16
+NAEXKP02NLQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Netherlands,Growth rate previous period,Quarterly,Seasonally Adjusted,1988-04-01,2026-08-17
+NAEXKP02NLQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Netherlands,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1989-01-01,2026-08-17
+NAEXKP02NOQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Norway,Growth rate previous period,Quarterly,Seasonally Adjusted,1978-04-01,2026-09-15
+NAEXKP02NOQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Norway,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1979-01-01,2026-09-15
+NAEXKP02NZQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for New Zealand,Growth rate previous period,Quarterly,Seasonally Adjusted,1988-04-01,2026-07-16
+NAEXKP02NZQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for New Zealand,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1989-01-01,2026-07-16
+NAEXKP02PLQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Poland,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02PLQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Poland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02PTQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Portugal,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02PTQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Portugal,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02SEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Sweden,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP02SEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Sweden,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP02SIQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Slovenia,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02SIQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Slovenia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP02SKQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Slovak Republic,Growth rate previous period,Quarterly,Seasonally Adjusted,1997-04-01,2026-09-15
+NAEXKP02SKQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Slovak Republic,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1998-01-01,2026-09-15
+NAEXKP02TRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Turkey,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP02ZAQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for South Africa,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP02ZAQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for South Africa,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP03ATQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Austria,Growth rate previous period,Quarterly,Seasonally Adjusted,1988-04-01,2026-09-15
+NAEXKP03ATQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Austria,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1989-01-01,2026-09-15
+NAEXKP03AUQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Australia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP03BEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Belgium,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03BEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Belgium,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03BRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Brazil,Growth rate previous period,Quarterly,Seasonally Adjusted,1996-04-01,2026-09-15
+NAEXKP03BRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Brazil,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1997-01-01,2026-09-15
+NAEXKP03CAQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Canada,Growth rate previous period,Quarterly,Seasonally Adjusted,1961-04-01,2026-09-15
+NAEXKP03CAQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Canada,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1962-01-01,2026-09-15
+NAEXKP03CHQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Switzerland,Growth rate previous period,Quarterly,Seasonally Adjusted,1980-04-01,2026-09-15
+NAEXKP03CHQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Switzerland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1981-01-01,2026-09-15
+NAEXKP03CLQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Chile,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03CLQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Chile,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03CZQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Czech Republic,Growth rate previous period,Quarterly,Seasonally Adjusted,1996-04-01,2026-09-15
+NAEXKP03CZQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Czech Republic,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1997-01-01,2026-09-15
+NAEXKP03DEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Germany,Growth rate previous period,Quarterly,Seasonally Adjusted,1970-04-01,2026-09-15
+NAEXKP03DEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Germany,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1971-01-01,2026-09-15
+NAEXKP03DKQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Denmark,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-15
+NAEXKP03EEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Estonia,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03EEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Estonia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03ESQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Spain,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-08-17
+NAEXKP03FIQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Finland,Growth rate previous period,Quarterly,Seasonally Adjusted,1990-04-01,2026-09-15
+NAEXKP03FIQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Finland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-15
+NAEXKP03FRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for France,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP03FRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for France,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP03GBQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United Kingdom,Growth rate previous period,Quarterly,Seasonally Adjusted,1955-04-01,2026-09-15
+NAEXKP03GBQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United Kingdom,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1956-01-01,2026-09-15
+NAEXKP03GRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Greece,Growth rate previous period,Quarterly,Seasonally Adjusted,1970-04-01,2026-09-15
+NAEXKP03GRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Greece,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1971-01-01,2026-09-15
+NAEXKP03HUQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Hungary,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03HUQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Hungary,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03IDQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Indonesia,Growth rate previous period,Quarterly,Seasonally Adjusted,1990-04-01,2026-09-15
+NAEXKP03IDQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Indonesia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-15
+NAEXKP03IEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Ireland,Growth rate previous period,Quarterly,Seasonally Adjusted,1997-04-01,2026-09-15
+NAEXKP03IEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Ireland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1998-01-01,2026-09-15
+NAEXKP03ILQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Israel,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03ILQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Israel,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03INQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for India,Growth rate previous period,Quarterly,Seasonally Adjusted,2004-07-01,2026-06-15
+NAEXKP03INQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for India,Growth rate same period previous year,Quarterly,Seasonally Adjusted,2005-04-01,2026-09-15
+NAEXKP03ISQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Iceland,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03ISQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Iceland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03ITQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Italy,Growth rate previous period,Quarterly,Seasonally Adjusted,1981-04-01,2026-09-15
+NAEXKP03ITQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Italy,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1982-01-01,2026-09-15
+NAEXKP03JPQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Japan,Growth rate previous period,Quarterly,Seasonally Adjusted,1994-04-01,2026-09-15
+NAEXKP03KRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Korea,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP03KRQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Korea,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP03LUQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Luxembourg,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-06-15
+NAEXKP03LUQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Luxembourg,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-06-15
+NAEXKP03MXQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Mexico,Growth rate previous period,Quarterly,Seasonally Adjusted,1980-04-01,2026-07-16
+NAEXKP03MXQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Mexico,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1981-01-01,2026-07-16
+NAEXKP03NLQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Netherlands,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1989-01-01,2026-08-17
+NAEXKP03NOQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Norway,Growth rate previous period,Quarterly,Seasonally Adjusted,1978-04-01,2026-09-15
+NAEXKP03NOQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Norway,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1979-01-01,2026-09-15
+NAEXKP03NZQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for New Zealand,Growth rate previous period,Quarterly,Seasonally Adjusted,1988-04-01,2026-07-16
+NAEXKP03NZQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for New Zealand,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1989-01-01,2026-07-16
+NAEXKP03PLQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Poland,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03PLQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Poland,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03PTQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Portugal,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03PTQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Portugal,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03SEQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Sweden,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP03SEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Sweden,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NAEXKP03SIQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Slovenia,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03SIQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Slovenia,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-15
+NAEXKP03SKQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Slovak Republic,Growth rate previous period,Quarterly,Seasonally Adjusted,1997-04-01,2026-09-15
+NAEXKP03SKQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Slovak Republic,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1998-01-01,2026-09-15
+NAEXKP03TRQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for Turkey,Growth rate previous period,Quarterly,Seasonally Adjusted,1995-04-01,2026-09-15
+NAEXKP03ZAQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for South Africa,Growth rate previous period,Quarterly,Seasonally Adjusted,1960-04-01,2026-09-15
+NAEXKP03ZAQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for South Africa,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-15
+NCGGCNSAXDCIDQ,"Nominal Collective Consumption Expenditure, General Government for Indonesia",Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-09-07
+NCGGCRNSAXDCIDQ,"Real Collective Consumption Expenditure, General Government for Indonesia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-09-07
+NCGGINSAXDCIDQ,"Nominal Individual Consumption Expenditure, General Government for Indonesia",Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-09-07
+NCGGIRNSAXDCIDQ,"Real Individual Consumption Expenditure, General Government for Indonesia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-09-07
+NCGGNSAXDCARQ,"Nominal Final Consumption Expenditure, General Government for Argentina",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCGGNSAXDCAUQ,"Nominal Final Consumption Expenditure, General Government for Australia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
+NCGGNSAXDCBRQ,"Nominal Final Consumption Expenditure, General Government for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NCGGNSAXDCCAQ,"Nominal Final Consumption Expenditure, General Government for Canada",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1961-01-01,2026-09-07
+NCGGNSAXDCDEQ,"Nominal Final Consumption Expenditure, General Government for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
+NCGGNSAXDCESQ,"Nominal Final Consumption Expenditure, General Government for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCGGNSAXDCFRQ,"Nominal Final Consumption Expenditure, General Government for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCGGNSAXDCGBQ,"Nominal Final Consumption Expenditure, General Government for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCGGNSAXDCIDQ,"Nominal Final Consumption Expenditure, General Government for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCGGNSAXDCINQ,"Nominal Final Consumption Expenditure, General Government for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCGGNSAXDCITQ,"Nominal Final Consumption Expenditure, General Government for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-12
+NCGGNSAXDCJPQ,"Nominal Final Consumption Expenditure, General Government for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCGGNSAXDCKRQ,"Nominal Final Consumption Expenditure, General Government for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-06-15
+NCGGNSAXDCMXQ,"Nominal Final Consumption Expenditure, General Government for Mexico",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29
+NCGGNSAXDCPLQ,"Nominal Final Consumption Expenditure, General Government for Republic of Poland",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-14
+NCGGNSAXDCRUQ,"Nominal Final Consumption Expenditure, General Government for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-07-01,2026-07-13
+NCGGNSAXDCSAQ,"Nominal Final Consumption Expenditure, General Government for Saudi Arabia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-06-15
+NCGGNSAXDCTRQ,"Nominal Final Consumption Expenditure, General Government for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCGGNSAXDCZAQ,"Nominal Final Consumption Expenditure, General Government for South Africa",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
+NCGGRNSAXDCAUQ,"Real Final Consumption Expenditure, General Government for Australia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
+NCGGRNSAXDCBRQ,"Real Final Consumption Expenditure, General Government for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NCGGRNSAXDCDEQ,"Real Final Consumption Expenditure, General Government for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
+NCGGRNSAXDCESQ,"Real Final Consumption Expenditure, General Government for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCGGRNSAXDCFRQ,"Real Final Consumption Expenditure, General Government for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCGGRNSAXDCITQ,"Real Final Consumption Expenditure, General Government for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-10-12
+NCGGRNSAXDCJPQ,"Real Final Consumption Expenditure, General Government for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCGGRNSAXDCKRQ,"Real Final Consumption Expenditure, General Government for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-27
+NCGGRNSAXDCTRQ,"Real Final Consumption Expenditure, General Government for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCNSAXDCARQ,Nominal Final Consumption Expenditure for Argentina,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCNSAXDCAUQ,Nominal Final Consumption Expenditure for Australia,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
+NCNSAXDCBRQ,Nominal Final Consumption Expenditure for Brazil,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NCNSAXDCCAQ,Nominal Final Consumption Expenditure for Canada,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1961-01-01,2026-09-07
+NCNSAXDCIDQ,Nominal Final Consumption Expenditure for Indonesia,Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCNSAXDCINQ,Nominal Final Consumption Expenditure for India,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
+NCNSAXDCJPQ,Nominal Final Consumption Expenditure for Japan,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCNSAXDCKRQ,Nominal Final Consumption Expenditure for Republic of Korea,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-06-15
+NCNSAXDCMXQ,Nominal Final Consumption Expenditure for Mexico,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29
+NCNSAXDCRUQ,Nominal Final Consumption Expenditure for Russian Federation,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCNSAXDCSAQ,Nominal Final Consumption Expenditure for Saudi Arabia,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-06-15
+NCNSAXDCZAQ,Nominal Final Consumption Expenditure for South Africa,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
+NCPHNNSAXDCCAQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Canada",Domestic Currency,Quarterly,Not Seasonally Adjusted,1961-01-01,2026-09-07
+NCPHNNSAXDCIDQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Indonesia",Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCPHNNSAXDCJPQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Japan",Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCPHNNSAXDCKRQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Republic of Korea",Domestic Currency,Quarterly,Not Seasonally Adjusted,1970-01-01,2026-06-15
+NCPHNNSAXDCRUQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCPHNRNSAXDCIDQ,"Real Final Consumption Expenditure, Non Profit Institutions Serving Households for Indonesia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCPHNRNSAXDCJPQ,"Real Final Consumption Expenditure, Non Profit Institutions Serving Households for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCPHNRNSAXDCKRQ,"Real Final Consumption Expenditure, Non Profit Institutions Serving Households for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1970-01-01,2026-07-27
+NCPHNRNSAXDCRUQ,"Real Final Consumption Expenditure, Non Profit Institutions Serving Households for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCPHNSAXDCCAQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Canada",Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
+NCPHNSAXDCJPQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Japan",Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
+NCPHNSAXDCKRQ,"Nominal Final Consumption Expenditure, Non Profit Institutions Serving Households for Republic of Korea",Domestic Currency,Quarterly,Seasonally Adjusted,1970-01-01,2026-06-15
+NCPNSAXDCARQ,"Nominal Final Consumption Expenditure, Private Sector for Argentina",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCPNSAXDCAUQ,"Nominal Final Consumption Expenditure, Private Sector for Australia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
+NCPNSAXDCBRQ,"Nominal Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NCPNSAXDCCAQ,"Nominal Final Consumption Expenditure, Private Sector for Canada",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1961-01-01,2026-09-07
+NCPNSAXDCDEQ,"Nominal Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
+NCPNSAXDCESQ,"Nominal Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCPNSAXDCFRQ,"Nominal Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCPNSAXDCGBQ,"Nominal Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCPNSAXDCIDQ,"Nominal Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCPNSAXDCITQ,"Nominal Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-12
+NCPNSAXDCJPQ,"Nominal Final Consumption Expenditure, Private Sector for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
+NCPNSAXDCKRQ,"Nominal Final Consumption Expenditure, Private Sector for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-06-15
+NCPNSAXDCMXQ,"Nominal Final Consumption Expenditure, Private Sector for Mexico",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29
+NCPNSAXDCPLQ,"Nominal Final Consumption Expenditure, Private Sector for Republic of Poland",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-14
+NCPNSAXDCRUQ,"Nominal Final Consumption Expenditure, Private Sector for Russian Federation",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-07-01,2026-07-13
+NCPNSAXDCSAQ,"Nominal Final Consumption Expenditure, Private Sector for Saudi Arabia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-06-15
+NCPNSAXDCTRQ,"Nominal Final Consumption Expenditure, Private Sector for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCPNSAXDCZAQ,"Nominal Final Consumption Expenditure, Private Sector for South Africa",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
+NCPRNSAXDCARQ,"Real Final Consumption Expenditure, Private Sector for Argentina",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCPRNSAXDCAUQ,"Real Final Consumption Expenditure, Private Sector for Australia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
+NCPRNSAXDCDEQ,"Real Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
+NCPRNSAXDCESQ,"Real Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCPRNSAXDCFRQ,"Real Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCPRNSAXDCGBQ,"Real Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCPRNSAXDCIDQ,"Real Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCPRNSAXDCITQ,"Real Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-10-12
+NCPRNSAXDCMXQ,"Real Final Consumption Expenditure, Private Sector for Mexico",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-29
+NCPRNSAXDCPLQ,"Real Final Consumption Expenditure, Private Sector for Republic of Poland",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-14
+NCPRNSAXDCTRQ,"Real Final Consumption Expenditure, Private Sector for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
+NCPRNSAXDCZAQ,"Real Final Consumption Expenditure, Private Sector for South Africa",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
+NCPRSAXDCESQ,"Real Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
+NCPRSAXDCFRQ,"Real Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCPRSAXDCJPQ,"Real Final Consumption Expenditure, Private Sector for Japan",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
+NCPRSAXDCPLQ,"Real Final Consumption Expenditure, Private Sector for Republic of Poland",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-14
+NCPRSAXDCTRQ,"Real Final Consumption Expenditure, Private Sector for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
+NCPSAXDCARQ,"Nominal Final Consumption Expenditure, Private Sector for Argentina",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,2004-01-01,2026-06-29
+NCPSAXDCAUQ,"Nominal Final Consumption Expenditure, Private Sector for Australia",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
+NCPSAXDCBRQ,"Nominal Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-06-22
+NCPSAXDCCAQ,"Nominal Final Consumption Expenditure, Private Sector for Canada",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
+NCPSAXDCDEQ,"Nominal Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
+NCPSAXDCESQ,"Nominal Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
+NCPSAXDCFRQ,"Nominal Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCPSAXDCGBQ,"Nominal Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1955-01-01,2026-09-07
+NCPSAXDCIDQ,"Nominal Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Seasonally Adjusted,2000-01-01,2026-09-07
+NCPSAXDCJPQ,"Nominal Final Consumption Expenditure, Private Sector for Japan",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
+NCPSAXDCKRQ,"Nominal Final Consumption Expenditure, Private Sector for Republic of Korea",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1960-01-01,2026-06-15
+NCPSAXDCMXQ,"Nominal Final Consumption Expenditure, Private Sector for Mexico",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-29
+NCPSAXDCPLQ,"Nominal Final Consumption Expenditure, Private Sector for Republic of Poland",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-14
+NCPSAXDCTRQ,"Nominal Final Consumption Expenditure, Private Sector for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
+NCPSAXDCZAQ,"Nominal Final Consumption Expenditure, Private Sector for South Africa",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-15
+NCRNSAXDCARQ,Real Final Consumption Expenditure for Argentina,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
+NCRNSAXDCBRQ,Real Final Consumption Expenditure for Brazil,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NCRNSAXDCFRQ,Real Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCRNSAXDCGBQ,Real Final Consumption Expenditure for United Kingdom,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCRNSAXDCIDQ,Real Final Consumption Expenditure for Indonesia,Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
+NCRNSAXDCITQ,Real Final Consumption Expenditure for Italy,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-10-12
+NCRNSAXDCJPQ,Real Final Consumption Expenditure for Japan,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
+NCRNSAXDCKRQ,Real Final Consumption Expenditure for Republic of Korea,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-27
+NCRNSAXDCPLQ,Real Final Consumption Expenditure for Republic of Poland,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-14
+NCRNSAXDCRUQ,Real Final Consumption Expenditure for Russian Federation,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
+NCRNSAXDCSAQ,Real Final Consumption Expenditure for Saudi Arabia,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-06-15
+NCRNSAXDCZAQ,Real Final Consumption Expenditure for South Africa,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
+NCRSAXDCPLQ,Real Final Consumption Expenditure for Republic of Poland,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-14
+NCSAXDCAUQ,Nominal Final Consumption Expenditure for Australia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
+NCSAXDCBRQ,Nominal Final Consumption Expenditure for Brazil,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-06-22
+NCSAXDCCAQ,Nominal Final Consumption Expenditure for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
+NCSAXDCFRQ,Nominal Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCSAXDCGBQ,Nominal Final Consumption Expenditure for United Kingdom,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1955-01-01,2026-09-07
+NCSAXDCITQ,Nominal Final Consumption Expenditure for Italy,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-12
+NCSAXDCJPQ,Nominal Final Consumption Expenditure for Japan,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
+NCSAXDCKRQ,Nominal Final Consumption Expenditure for Republic of Korea,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1960-01-01,2026-06-15
+NCSAXDCMXQ,Nominal Final Consumption Expenditure for Mexico,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-29
+NCSAXDCPLQ,Nominal Final Consumption Expenditure for Republic of Poland,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-14
+NCSAXDCZAQ,Nominal Final Consumption Expenditure for South Africa,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-15

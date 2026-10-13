@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+M2SL,M2,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
+GFDEBTN,Federal Debt: Total Public Debt,Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1966-01-01,2026-10-01
+GFDEGDQ188S,Federal Debt: Total Public Debt as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1966-01-01,2026-06-25
+WM2NS,M2,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1980-11-03,2026-09-22
+M2V,Velocity of M2 Money Stock,Ratio,Quarterly,Seasonally Adjusted,1959-01-01,2026-09-30
+M1SL,M1,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
+BOGMBASE,Monetary Base: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
+M2REAL,Real M2 Money Stock,Billions of 1982-84 Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
+TOTRESNS,Reserves of Depository Institutions: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
+DRTSCILM,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Large and Middle-Market Firms,Percent,Quarterly,Not Seasonally Adjusted,1990-04-01,2026-08-03
+DRCLACBS,"Delinquency Rate on Consumer Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
+DPSACBW027SBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-09

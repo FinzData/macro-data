@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+POPTHM,Population,Thousands,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-30
+CNP16OV,Population Level,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
+LNU00074597,"Population - With a Disability, 16 Years and over",Thousands of Persons,Monthly,Not Seasonally Adjusted,2008-06-01,2026-10-02
+POP,Total Population: All Ages including Armed Forces Overseas,Thousands,Monthly,Not Seasonally Adjusted,1952-01-01,2026-04-27
+LNU00073395,Population Level - Foreign Born,Thousands of Persons,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
+LNU00024230,Population Level - 55 Yrs. & over,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
+LNU00000060,Population Level - 25-54 Yrs.,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
+B230RC0Q173SBEA,Population,Thousands,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-07-30
+LNU00000012,Population Level - 16-19 Yrs.,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
+LNU00073413,Population Level - Native Born,Thousands of Persons,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
+LNU00000036,Population Level - 20-24 Yrs.,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
+LNU00000006,Population Level - Black or African American,Thousands of Persons,Monthly,Not Seasonally Adjusted,1972-01-01,2026-10-02

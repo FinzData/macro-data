@@ -1,0 +1,40 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+NFCI,Chicago Fed National Financial Conditions Index,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+STLFSI4,St. Louis Fed Financial Stress Index,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1993-12-31,2026-10-07
+USEPUINDXD,Economic Policy Uncertainty Index for United States,Index,"Daily, 7-Day",Not Seasonally Adjusted,1985-01-01,2026-10-13
+ANFCI,Chicago Fed Adjusted National Financial Conditions Index,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+WUIGLOBALWEIGHTAVG,World Uncertainty Index: Global: GDP Weighted Average,Index,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-31
+USEPUINDXM,Economic Policy Uncertainty Index for United States,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-30
+EPUTRADE,Economic Policy Uncertainty Index: Categorical Index: Trade policy,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-30
+NFCILEVERAGE,Chicago Fed National Financial Conditions Leverage Subindex,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+KCFSI,Kansas City Financial Stress Index,Index,Monthly,Not Seasonally Adjusted,1990-02-01,2026-10-06
+NFCICREDIT,Chicago Fed National Financial Conditions Credit Subindex,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+CHNMAINLANDEPU,Economic Policy Uncertainty Index: Mainland Papers for China,Index,Monthly,Not Seasonally Adjusted,1949-10-01,2026-09-09
+WUIIDN,World Uncertainty Index for Indonesia,Index,Quarterly,Not Seasonally Adjusted,1952-04-01,2026-07-31
+EMVOVERALLEMV,Equity Market Volatility Tracker: Overall,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-29
+NFCIRISK,Chicago Fed National Financial Conditions Risk Subindex,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+WLEMUINDXD,Equity Market-related Economic Uncertainty Index,Index,"Daily, 7-Day",Not Seasonally Adjusted,1985-01-01,2026-10-13
+WUIGLOBALSMPAVG,World Uncertainty Index: Global: Simple Average,Index,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-31
+EUEPUINDXM,Economic Policy Uncertainty Index for Europe,Index,Monthly,Not Seasonally Adjusted,1987-01-01,2026-09-30
+KCPRU,Kansas City Fed's Measure of Policy Rate Uncertainty (KCPRU),Percentage Points,Daily,Not Seasonally Adjusted,1989-04-03,2026-10-13
+WUIVNM,World Uncertainty Index for Vietnam,Index,Quarterly,Not Seasonally Adjusted,1956-01-01,2026-07-31
+NFCINONFINLEVERAGE,Chicago Fed National Financial Conditions Index Nonfinancial Leveral Subindex,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+EPUMONETARY,Economic Policy Uncertainty Index: Categorical Index: Monetary policy,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-30
+CHNMAINLANDTPU,Trade Policy Uncertainty Index: Mainland Papers for China,Index,Monthly,Not Seasonally Adjusted,2000-01-01,2026-09-09
+EMVMACROBUS,Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-29
+WUIUSA,World Uncertainty Index for United States,Index,Quarterly,Not Seasonally Adjusted,1952-01-01,2026-07-31
+INDEPUINDXM,Economic Policy Uncertainty Index for India,Index,Monthly,Not Seasonally Adjusted,2003-01-01,2026-09-30
+DEEPUINDXM,Economic Policy Uncertainty Index for Germany,Index,Monthly,Not Seasonally Adjusted,1993-01-01,2026-09-30
+UKEPUINDXM,Economic Policy Uncertainty Index for United Kingdom,Index,Monthly,Not Seasonally Adjusted,1997-01-01,2026-09-30
+GEPUPPP,Global Economic Policy Uncertainty Index: PPP-Adjusted GDP,Index,Monthly,Not Seasonally Adjusted,1997-01-01,2026-08-10
+CANEPUINDXM,Economic Policy Uncertainty Index for Canada,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-29
+JLNUM12M,JLN 1-Year Ahead Macroeconomic Uncertainty,Index,Monthly,Not Seasonally Adjusted,1960-07-01,2026-08-05
+EPUFISCAL,Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending),Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-30
+WUITUR,World Uncertainty Index for Turkey,Index,Quarterly,Not Seasonally Adjusted,1952-01-01,2026-07-31
+JLNUM1M,JLN 1-Month Ahead Macroeconomic Uncertainty,Index,Monthly,Not Seasonally Adjusted,1960-07-01,2026-08-05
+USEPUNEWSINDXM,Economic Policy Uncertainty Index: News-Based Index for the United States,Index,Monthly,Not Seasonally Adjusted,1900-01-01,2026-09-30
+WUIMYS,World Uncertainty Index for Malaysia,Index,Quarterly,Not Seasonally Adjusted,1954-01-01,2026-07-31
+WUITHA,World Uncertainty Index for Thailand,Index,Quarterly,Not Seasonally Adjusted,1953-07-01,2026-07-31
+WUPI,World Pandemic Uncertainty Index,Index,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-07-31
+WUIIRN,World Uncertainty Index for Islamic Republic of Iran,Index,Quarterly,Not Seasonally Adjusted,1953-07-01,2026-07-31
+INFECTDISEMVTRACKD,Equity Market Volatility: Infectious Disease Tracker,Index,"Daily, 7-Day",Not Seasonally Adjusted,1985-01-01,2026-10-13

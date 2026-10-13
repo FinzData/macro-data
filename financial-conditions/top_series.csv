@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+NFCI,Chicago Fed National Financial Conditions Index,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+STLFSI4,St. Louis Fed Financial Stress Index,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1993-12-31,2026-10-07
+USEPUINDXD,Economic Policy Uncertainty Index for United States,Index,"Daily, 7-Day",Not Seasonally Adjusted,1985-01-01,2026-10-13
+ANFCI,Chicago Fed Adjusted National Financial Conditions Index,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+WUIGLOBALWEIGHTAVG,World Uncertainty Index: Global: GDP Weighted Average,Index,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-31
+USEPUINDXM,Economic Policy Uncertainty Index for United States,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-30
+EPUTRADE,Economic Policy Uncertainty Index: Categorical Index: Trade policy,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-30
+NFCILEVERAGE,Chicago Fed National Financial Conditions Leverage Subindex,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+KCFSI,Kansas City Financial Stress Index,Index,Monthly,Not Seasonally Adjusted,1990-02-01,2026-10-06
+NFCICREDIT,Chicago Fed National Financial Conditions Credit Subindex,Index,"Weekly, Ending Friday",Not Seasonally Adjusted,1971-01-08,2026-10-07
+CHNMAINLANDEPU,Economic Policy Uncertainty Index: Mainland Papers for China,Index,Monthly,Not Seasonally Adjusted,1949-10-01,2026-09-09
+WUIIDN,World Uncertainty Index for Indonesia,Index,Quarterly,Not Seasonally Adjusted,1952-04-01,2026-07-31
