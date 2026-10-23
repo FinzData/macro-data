@@ -40,7 +40,7 @@ A824RE1Q156NBEA,Shares of gross domestic product: Government consumption expendi
 DFXARX1M020SBEA,Real personal consumption expenditures: Food,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
 PCDGCC96,Real Personal Consumption Expenditures: Durable Goods,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 PCENDC96,Real Personal Consumption Expenditures: Nondurable Goods,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
-PCENOW,Nowcast for Real Personal Consumption Expenditures,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-08
+PCENOW,Nowcast for Real Personal Consumption Expenditures,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-20
 DHUTRC1Q027SBEA,Personal consumption expenditures: Services: Housing and utilities,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 DPCXRG3M086SBEA,Personal consumption expenditures: Market-based PCE excluding food and energy (chain-type price index),Index 2017=100,Monthly,Seasonally Adjusted,1987-01-01,2026-09-30
 IA001176M,"Personal Consumption Expenditures Excluding Food, Energy, and Housing (Chain-Type Price Index)",Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
@@ -120,7 +120,7 @@ DNDGRA3M086SBEA,Real personal consumption expenditures: Nondurable goods (chain-
 DNRGRV1Q225SBEA,Personal Consumption Expenditures (PCE): Energy Goods and Services (chain-type price index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-09-30
 EMVMACROCONSUME,Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-29
 PCECTPIRH,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
-PCEGOODSNOW,Nowcast for Real Personal Consumption Expenditures: Goods,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-10-08
+PCEGOODSNOW,Nowcast for Real Personal Consumption Expenditures: Goods,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-10-20
 A797RX0Q048SBEA,Real personal consumption expenditures per capita: Services,Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A823RL1Q225SBEA,Real Government Consumption Expenditures and Gross Investment: Federal,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 AB67RC1Q027SBEA,Personal consumption expenditures: New motor vehicles,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1967-01-01,2026-09-30
@@ -137,7 +137,7 @@ DTRSRC1Q027SBEA,Personal consumption expenditures: Transportation services,Billi
 JCXFECTH,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, High",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 LA001260M,Personal Consumption Expenditures: Services Excluding Energy and Housing,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 OB000346Q,Real Personal Consumption Expenditures: Durable Goods,Percent Change from Quarter One Year Ago,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-09-30
-WPU54,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial),Index Jun 2009=100,Monthly,Not Seasonally Adjusted,2009-06-01,2026-09-10
+WPU54,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial),Index Jun 2009=100,Monthly,Not Seasonally Adjusted,2009-06-01,2026-10-15
 YC001177Q,Personal Consumption Expenditures: Services Excluding Energy and Housing (Chain-Type Price Index),Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1960-01-01,2026-09-30
 A795RX0Q048SBEA,Real personal consumption expenditures per capita: Goods: Durable goods,Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A822RL1Q225SBEA,Real Government Consumption Expenditures and Gross Investment,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
@@ -153,10 +153,10 @@ DODGRC1Q027SBEA,Personal consumption expenditures: Durable goods: Other durable 
 DPCCRL1Q225SBEA,Real Personal Consumption Expenditures (PCE) Excluding Food and Energy,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-09-30
 OB000349Q,Real Personal Consumption Expenditures,Percent Change from Quarter One Year Ago,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-09-30
 PC001260Q,Personal Consumption Expenditures: Services Excluding Energy and Housing (Chain-Type Price Index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-09-30
-PCECONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-08
+PCECONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-20
 PCECTPICTL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 SLCEC1,"Real State and Local Consumption Expenditures & Gross Investment, 1 Decimal",Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-WPUFD49203,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods and Energy,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-09-10
+WPUFD49203,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods and Energy,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-10-15
 A137RC1Q027SBEA,Personal consumption expenditures: Net purchases of used autos,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A822RD3Q086SBEA,Government consumption expenditures and gross investment (implicit price deflator),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-30
 A829RE1Q156NBEA,Shares of gross domestic product: Government consumption expenditures and gross investment: State and local,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
@@ -181,7 +181,7 @@ IMP0021,U.S. Imports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption)
 NB000349Q,Real Personal Consumption Expenditures,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 ND000346Q,Real Personal Consumption Expenditures: Durable Goods,Billions of Chained 2017 Dollars,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 OB000348Q,Real Personal Consumption Expenditures: Nondurable Goods,Percent Change from Quarter One Year Ago,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-09-30
-WPSFD49201,Producer Price Index by Commodity: Final Demand: Total Finished,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-09-10
+WPSFD49201,Producer Price Index by Commodity: Final Demand: Total Finished,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-10-15
 YC001176Q,"Personal Consumption Expenditures Excluding Food, Energy, and Housing (Chain-Type Price Index)",Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1960-01-01,2026-09-30
 A264RC1Q027SBEA,Consumption of fixed capital: Government,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A829RL1Q225SBEA,Real Government Consumption Expenditures and Gross Investment: State and Local,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-01
@@ -211,14 +211,14 @@ IMP0022,U.S. Imports of Goods by F.A.S. Basis to USMCA with Canada (Consumption)
 JCXFERL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Range, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 LB001176M,"Real Personal Consumption Expenditures Excluding Food, Energy, and Housing",Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,2007-01-01,2026-09-30
 NA000350Q,Personal Consumption Expenditures: Services,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
-NAEXKP03USQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United States,Growth rate previous period,Quarterly,Seasonally Adjusted,1955-04-01,2026-09-15
+NAEXKP03USQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United States,Growth rate previous period,Quarterly,Seasonally Adjusted,1955-04-01,2026-10-15
 NC000346Q,Personal Consumption Expenditures: Durable Goods,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 PC001176Q,"Personal Consumption Expenditures (PCE) Excluding Food, Energy, Housing (Chain-Type Price Index)",Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-09-30
-PCESERVICESCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Services,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-08
-PCESERVICESNOW,Nowcast for Real Personal Consumption Expenditures: Services,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-10-08
+PCESERVICESCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Services,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-20
+PCESERVICESNOW,Nowcast for Real Personal Consumption Expenditures: Services,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-10-20
 PP001176M,"Prices for Personal Consumption Expenditures: Chained Price Index: PCE Excluding Food, Energy, and Housing",Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1959-02-01,2026-10-01
 W279RC1Q027SBEA,Consumption of fixed capital: Private: Households and institutions,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-WPU54110101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-09-10
+WPU54110101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-10-15
 A194RC1Q027SBEA,Government consumption expenditures: Gross output of general government: Value added: Compensation of general government employees,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A262RX1Q020SBEA,Real consumption of fixed capital,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A265RC1Q027SBEA,Consumption of fixed capital: General government,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
@@ -275,9 +275,9 @@ ND000350Q,Real Personal Consumption Expenditures: Services,Billions of Chained 2
 PCECTPICTLLR,"Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2009-02-18,2026-09-16
 PCECTPIRHLR,"Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2009-02-18,2026-09-16
 PCECTPIRLLR,"Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2009-02-18,2026-09-16
-WPSFD49501,Producer Price Index by Commodity: Final Demand: Personal Consumption,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-09-10
-WPU541,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial),Index Jun 2009=100,Monthly,Not Seasonally Adjusted,2009-06-01,2026-09-10
-WPUFD49502,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods (Finished Consumer Goods),Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-09-10
+WPSFD49501,Producer Price Index by Commodity: Final Demand: Personal Consumption,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-10-15
+WPU541,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial),Index Jun 2009=100,Monthly,Not Seasonally Adjusted,2009-06-01,2026-10-15
+WPUFD49502,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods (Finished Consumer Goods),Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-15
 Y0000C1Q027SBEA,Consumption of fixed capital: Private: Domestic business: Capital consumption allowances,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A024RX1Q020SBEA,Real consumption of fixed capital: Private,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 A137RX1Q020SBEA,Real personal consumption expenditures: Net purchases of used autos,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
@@ -378,7 +378,7 @@ LA001260Q,Personal Consumption Expenditures: Services Excluding Energy and Housi
 NA000331Q,Government Consumption Expenditures and Gross Investment: Federal: National defense,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
 NA000333Q,Government Consumption Expenditures and Gross Investment,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
 NA000348Q,Personal Consumption Expenditures: Nondurable Goods,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
-NAEXKP02USQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United States,Growth rate previous period,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-15
+NAEXKP02USQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United States,Growth rate previous period,Quarterly,Seasonally Adjusted,1947-04-01,2026-10-15
 NB000330Q,Real Federal Consumption Expenditures and Gross Investment,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 NB000333Q,Real Government Consumption Expenditures and Gross Investment,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 NB000346Q,Real Personal Consumption Expenditures: Durable Goods,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
@@ -394,21 +394,21 @@ PB001176Q,"Real Personal Consumption Expenditures (PCE) Excluding Food, Energy, 
 PCECTPICTH,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 PCECTPICTHLR,"Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2009-02-18,2026-09-16
 PCECTPIRL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
-PCEGOODSCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Goods,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-08
+PCEGOODSCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Goods,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-20
 W087RC1Q027SBEA,Federal government consumption expenditures: Defense consumption expenditures: Gross output of general government: Intermediate goods and services purchased,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 W101RC1Q027SBEA,Government consumption expenditures: Gross output of general government,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 W102RC1Q027SBEA,Government consumption expenditures: Gross output of general government: Value added,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 W104RX1Q020SBEA,Real government consumption expenditures: Gross output of general government: Intermediate goods and services purchased,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
 W240RC1Q027SBEA,Personal consumption expenditures: Net purchases of used autos and used light trucks,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1967-01-01,2026-09-30
 W276RC1Q027SBEA,Consumption of fixed capital: Private: Domestic business,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-WPSFD49203,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods and Energy,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-09-10
-WPSFD49510,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods and Energy,Index Apr 2014=100,Monthly,Seasonally Adjusted,2014-04-01,2026-09-10
-WPSFD49511,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Trade Services",Index Apr 2014=100,Monthly,Seasonally Adjusted,2014-04-01,2026-09-10
-WPU5412,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial),Index Dec 2008=100,Monthly,Not Seasonally Adjusted,2008-12-01,2026-09-10
-WPU541201,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial),Index Dec 2008=100,Monthly,Not Seasonally Adjusted,2008-12-01,2026-09-10
-WPUFD49501,Producer Price Index by Commodity: Final Demand: Personal Consumption,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-09-10
-WPUFD49509,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Plus Personal Consumption Distributive Services,Index Aug 2013=100,Monthly,Not Seasonally Adjusted,2013-08-01,2026-09-10
-WPUFD49510,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods and Energy,Index Apr 2014=100,Monthly,Not Seasonally Adjusted,2014-04-01,2026-09-10
+WPSFD49203,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods and Energy,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-10-15
+WPSFD49510,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods and Energy,Index Apr 2014=100,Monthly,Seasonally Adjusted,2014-04-01,2026-10-15
+WPSFD49511,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Trade Services",Index Apr 2014=100,Monthly,Seasonally Adjusted,2014-04-01,2026-10-15
+WPU5412,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial),Index Dec 2008=100,Monthly,Not Seasonally Adjusted,2008-12-01,2026-10-15
+WPU541201,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial),Index Dec 2008=100,Monthly,Not Seasonally Adjusted,2008-12-01,2026-10-15
+WPUFD49501,Producer Price Index by Commodity: Final Demand: Personal Consumption,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-10-15
+WPUFD49509,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Plus Personal Consumption Distributive Services,Index Aug 2013=100,Monthly,Not Seasonally Adjusted,2013-08-01,2026-10-15
+WPUFD49510,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods and Energy,Index Apr 2014=100,Monthly,Not Seasonally Adjusted,2014-04-01,2026-10-15
 A024RA3Q086SBEA,Real consumption of fixed capital: Private (chain-type quantity index),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-30
 A024RG3Q086SBEA,Consumption of fixed capital: Private (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-30
 A024RL1Q225SBEA,Real Consumption of Fixed Capital: Private,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
@@ -1337,8 +1337,8 @@ NA000330Q,Federal Consumption Expenditures and Gross Investment,Millions of Doll
 NA000332Q,Government Consumption Expenditures and Gross Investment: Federal: Nondefense,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
 NA000347Q,Personal Consumption Expenditures: Goods,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
 NA000351Q,State and Local Consumption Expenditures and Gross Investment,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
-NAEXKP02USQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United States,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-15
-NAEXKP03USQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United States,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1956-01-01,2026-09-15
+NAEXKP02USQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United States,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1948-01-01,2026-10-15
+NAEXKP03USQ659S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United States,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1956-01-01,2026-10-15
 NB000332Q,Real Government Consumption Expenditures and Gross Investment: Federal: Nondefense,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 NB000348Q,Real Personal Consumption Expenditures: Nondurable Goods,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
 NB000350Q,Real Personal Consumption Expenditures: Services,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-09-30
@@ -1538,34 +1538,34 @@ W241RG3Q086SBEA,Personal consumption expenditures: Net purchases of used light t
 W241RL1Q225SBEA,Real Motor Vehicle Output: Final Sales of Domestic Product: Personal Consumption Expenditures: Net Purchases of Used Autos and Used Light Trucks: Used Light Trucks (including Utility Vehicles),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1967-04-01,2026-09-30
 W241RX1Q020SBEA,Real personal consumption expenditures: Net purchases of used light trucks (including utility vehicles),Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
 W277RC1Q027SBEA,Consumption of fixed capital: Private: Domestic: Noncorporate business,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-WPSFD422211,Producer Price Index by Commodity: Final Demand: Transportation and Warehousing of Personal Consumption Goods,Index Nov 2009=100,Monthly,Seasonally Adjusted,2009-11-01,2026-09-10
-WPSFD42311,Producer Price Index by Commodity: Final Demand: Trade of Personal Consumption Goods,Index Nov 2009=100,Monthly,Seasonally Adjusted,2009-11-01,2026-09-10
-WPSFD49205,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-09-10
-WPSFD49206,Producer Price Index by Commodity: Final Demand: Total Finished Less Energy,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-09-10
-WPSFD49503,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Energy,Index 1982=100,Monthly,Seasonally Adjusted,1974-01-01,2026-09-10
-WPSFD49504,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Foods,Index 1982=100,Monthly,Seasonally Adjusted,1947-04-01,2026-09-10
-WPSFD49505,Producer Price Index by Commodity: Final Demand: Personal Consumption Services,Index Apr 2010=100,Monthly,Seasonally Adjusted,2010-04-01,2026-09-10
-WPSFD49506,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Trade Services,Index Apr 2010=100,Monthly,Seasonally Adjusted,2010-04-01,2026-09-10
-WPSFD49507,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Distributive Services,Index Apr 2010=100,Monthly,Seasonally Adjusted,2010-04-01,2026-09-10
-WPSFD49508,Producer Price Index by Commodity: Final Demand: Personal Consumption Nondurable Goods Less Foods,Index 1982=100,Monthly,Seasonally Adjusted,1947-04-01,2026-09-10
-WPSFD49509,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Plus Personal Consumption Distributive Services,Index Aug 2013=100,Monthly,Seasonally Adjusted,2013-08-01,2026-09-10
-WPSFD49512,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Distributive Services",Index Apr 2014=100,Monthly,Seasonally Adjusted,2014-04-01,2026-09-10
-WPU5411,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-09-10
-WPU541101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-09-10
-WPU54120101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial),Index Dec 2008=100,Monthly,Not Seasonally Adjusted,2008-12-01,2026-09-10
-WPUFD422211,Producer Price Index by Commodity: Final Demand: Transportation and Warehousing of Personal Consumption Goods,Index Nov 2009=100,Monthly,Not Seasonally Adjusted,2009-11-01,2026-09-10
-WPUFD42311,Producer Price Index by Commodity: Final Demand: Trade of Personal Consumption Goods,Index Nov 2009=100,Monthly,Not Seasonally Adjusted,2009-11-01,2026-09-10
-WPUFD49201,Producer Price Index by Commodity: Final Demand: Total Finished,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-09-10
-WPUFD49205,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-09-10
-WPUFD49206,Producer Price Index by Commodity: Final Demand: Total Finished Less Energy,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-09-10
-WPUFD49503,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Energy,Index 1982=100,Monthly,Not Seasonally Adjusted,1974-01-01,2026-09-10
-WPUFD49504,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Foods,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-09-10
-WPUFD49505,Producer Price Index by Commodity: Final Demand: Personal Consumption Services,Index Apr 2010=100,Monthly,Not Seasonally Adjusted,2010-04-01,2026-09-10
-WPUFD49506,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Trade Services,Index Apr 2010=100,Monthly,Not Seasonally Adjusted,2010-04-01,2026-09-10
-WPUFD49507,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Distributive Services,Index Apr 2010=100,Monthly,Not Seasonally Adjusted,2010-04-01,2026-09-10
-WPUFD49508,Producer Price Index by Commodity: Final Demand: Personal Consumption Nondurable Goods Less Foods,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-09-10
-WPUFD49511,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Trade Services",Index Apr 2014=100,Monthly,Not Seasonally Adjusted,2014-04-01,2026-09-10
-WPUFD49512,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Distributive Services",Index Apr 2014=100,Monthly,Not Seasonally Adjusted,2014-04-01,2026-09-10
+WPSFD422211,Producer Price Index by Commodity: Final Demand: Transportation and Warehousing of Personal Consumption Goods,Index Nov 2009=100,Monthly,Seasonally Adjusted,2009-11-01,2026-10-15
+WPSFD42311,Producer Price Index by Commodity: Final Demand: Trade of Personal Consumption Goods,Index Nov 2009=100,Monthly,Seasonally Adjusted,2009-11-01,2026-10-15
+WPSFD49205,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-10-15
+WPSFD49206,Producer Price Index by Commodity: Final Demand: Total Finished Less Energy,Index Jan 2010=100,Monthly,Seasonally Adjusted,2010-01-01,2026-10-15
+WPSFD49503,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Energy,Index 1982=100,Monthly,Seasonally Adjusted,1974-01-01,2026-10-15
+WPSFD49504,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Foods,Index 1982=100,Monthly,Seasonally Adjusted,1947-04-01,2026-10-15
+WPSFD49505,Producer Price Index by Commodity: Final Demand: Personal Consumption Services,Index Apr 2010=100,Monthly,Seasonally Adjusted,2010-04-01,2026-10-15
+WPSFD49506,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Trade Services,Index Apr 2010=100,Monthly,Seasonally Adjusted,2010-04-01,2026-10-15
+WPSFD49507,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Distributive Services,Index Apr 2010=100,Monthly,Seasonally Adjusted,2010-04-01,2026-10-15
+WPSFD49508,Producer Price Index by Commodity: Final Demand: Personal Consumption Nondurable Goods Less Foods,Index 1982=100,Monthly,Seasonally Adjusted,1947-04-01,2026-10-15
+WPSFD49509,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Plus Personal Consumption Distributive Services,Index Aug 2013=100,Monthly,Seasonally Adjusted,2013-08-01,2026-10-15
+WPSFD49512,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Distributive Services",Index Apr 2014=100,Monthly,Seasonally Adjusted,2014-04-01,2026-10-15
+WPU5411,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-10-15
+WPU541101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-10-15
+WPU54120101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial),Index Dec 2008=100,Monthly,Not Seasonally Adjusted,2008-12-01,2026-10-15
+WPUFD422211,Producer Price Index by Commodity: Final Demand: Transportation and Warehousing of Personal Consumption Goods,Index Nov 2009=100,Monthly,Not Seasonally Adjusted,2009-11-01,2026-10-15
+WPUFD42311,Producer Price Index by Commodity: Final Demand: Trade of Personal Consumption Goods,Index Nov 2009=100,Monthly,Not Seasonally Adjusted,2009-11-01,2026-10-15
+WPUFD49201,Producer Price Index by Commodity: Final Demand: Total Finished,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-10-15
+WPUFD49205,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-10-15
+WPUFD49206,Producer Price Index by Commodity: Final Demand: Total Finished Less Energy,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-10-15
+WPUFD49503,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Energy,Index 1982=100,Monthly,Not Seasonally Adjusted,1974-01-01,2026-10-15
+WPUFD49504,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods Less Foods,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-15
+WPUFD49505,Producer Price Index by Commodity: Final Demand: Personal Consumption Services,Index Apr 2010=100,Monthly,Not Seasonally Adjusted,2010-04-01,2026-10-15
+WPUFD49506,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Trade Services,Index Apr 2010=100,Monthly,Not Seasonally Adjusted,2010-04-01,2026-10-15
+WPUFD49507,Producer Price Index by Commodity: Final Demand: Personal Consumption Less Distributive Services,Index Apr 2010=100,Monthly,Not Seasonally Adjusted,2010-04-01,2026-10-15
+WPUFD49508,Producer Price Index by Commodity: Final Demand: Personal Consumption Nondurable Goods Less Foods,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-15
+WPUFD49511,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Trade Services",Index Apr 2014=100,Monthly,Not Seasonally Adjusted,2014-04-01,2026-10-15
+WPUFD49512,"Producer Price Index by Commodity: Final Demand: Personal Consumption Less Foods, Energy, and Distributive Services",Index Apr 2014=100,Monthly,Not Seasonally Adjusted,2014-04-01,2026-10-15
 Y0004C1Q027SBEA,Consumption of fixed capital: Private: Domestic business: Capital consumption adjustment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-01
 Y050RN2Q224SBEA,Contributions to Percent Change in National Defense Consumption Expenditures and Gross Investment: Gross investment: Equipment,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1972-04-01,2026-10-01
 Y050RZ2Q224SBEA,Contribution to Percent Change in Real Government Consumption Expenditures and Gross Investment: Federal: National Defense: Gross Investment: Equipment,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-01

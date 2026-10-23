@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+DEM_CN_BEV_V,"Germany imports of battery-electric cars from China (HS 870380), value",Millions of Euros,Monthly,Not Seasonally Adjusted,2017-01-01,2026-10-22
+DEM_CN_CARS_V,"Germany imports of passenger cars from China (HS 8703), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-05-01,2026-10-22
+DEM_CN_PARTS_V,"Germany imports of motor-vehicle parts and accessories from China (HS 8708), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-02-01,2026-10-22
+DEM_JP_BEV_V,"Germany imports of battery-electric cars from Japan (HS 870380), value",Millions of Euros,Monthly,Not Seasonally Adjusted,2017-01-01,2026-10-22
+DEM_JP_CARS_V,"Germany imports of passenger cars from Japan (HS 8703), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-01-01,2026-10-22
+DEM_JP_PARTS_V,"Germany imports of motor-vehicle parts and accessories from Japan (HS 8708), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-01-01,2026-10-22
+DEM_KR_BEV_V,"Germany imports of battery-electric cars from Korea, Republic of (HS 870380), value",Millions of Euros,Monthly,Not Seasonally Adjusted,2017-01-01,2026-10-22
+DEM_KR_CARS_V,"Germany imports of passenger cars from Korea, Republic of (HS 8703), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-01-01,2026-10-22
+DEM_KR_PARTS_V,"Germany imports of motor-vehicle parts and accessories from Korea, Republic of (HS 8708), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-01-01,2026-10-22
+DEM_US_BEV_V,"Germany imports of battery-electric cars from United States (HS 870380), value",Millions of Euros,Monthly,Not Seasonally Adjusted,2017-01-01,2026-10-22
+DEM_US_CARS_V,"Germany imports of passenger cars from United States (HS 8703), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-01-01,2026-10-22
+DEM_US_PARTS_V,"Germany imports of motor-vehicle parts and accessories from United States (HS 8708), value",Millions of Euros,Monthly,Not Seasonally Adjusted,1988-01-01,2026-10-22

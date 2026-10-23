@@ -1,191 +1,191 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-APU0000703112,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-09-11
-APU0000708111,"Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-GASREGW,US Regular All Formulations Gas Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1990-08-20,2026-10-06
+APU0000703112,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-14
+APU0000708111,"Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+GASREGW,US Regular All Formulations Gas Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1990-08-20,2026-10-20
 CP,Corporate Profits After Tax (without IVA and CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-DPRIME,Bank Prime Loan Rate,Percent,Daily,Not Seasonally Adjusted,1955-08-04,2026-10-05
+DPRIME,Bank Prime Loan Rate,Percent,Daily,Not Seasonally Adjusted,1955-08-04,2026-10-22
 MMMFFAQ027S,"Money Market Funds; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-APU000072610,Average Price: Electricity per Kilowatt-Hour in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-09-11
-APU0000709112,"Average Price: Milk, Fresh, Whole, Fortified (Cost per Gallon/3.8 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-09-11
+APU000072610,Average Price: Electricity per Kilowatt-Hour in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
+APU0000709112,"Average Price: Milk, Fresh, Whole, Fortified (Cost per Gallon/3.8 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-10-14
 FEDTARMD,"FOMC Summary of Economic Projections for the Fed Funds Rate, Median",Percent,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
-GDPNOW,GDPNow,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-08
+GDPNOW,GDPNow,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-20
 PRIME,Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates,Percent,Not Applicable,Not Seasonally Adjusted,1955-08-04,2026-09-18
 WFRBST01134,Share of Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-MTSDS133FMS,Federal Surplus or Deficit [-],Millions of Dollars,Monthly,Not Seasonally Adjusted,1980-10-01,2026-09-11
-IUDSOIA,Daily Sterling Overnight Index Average (SONIA) Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-13
-APU0000FF1101,"Average Price: Chicken Breast, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2006-01-01,2026-09-11
+MTSDS133FMS,Federal Surplus or Deficit [-],Millions of Dollars,Monthly,Not Seasonally Adjusted,1980-10-01,2026-10-16
+IUDSOIA,Daily Sterling Overnight Index Average (SONIA) Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-22
+APU0000FF1101,"Average Price: Chicken Breast, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2006-01-01,2026-10-14
 BOGZ1FL192090005Q,"Households; Net Worth, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-09-11
-OBFR,Overnight Bank Funding Rate,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-13
-RPONTTLD,Overnight Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-13
+OBFR,Overnight Bank Funding Rate,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
+RPONTTLD,Overnight Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-22
 WJFUELUSGULF,Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,"Weekly, Ending Friday",Not Seasonally Adjusted,1990-04-06,2026-09-10
 WFRBLTP1246,Net Worth Held by the Top 0.1% (99.9th to 100th Wealth Percentiles),Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-APU0000702111,"Average Price: Bread, White, Pan (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
+APU0000702111,"Average Price: Bread, White, Pan (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
 GPDIC1,Real Gross Private Domestic Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-SWPT,Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
+SWPT,Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 BOGZ1FL153064486Q,"Households and Nonprofit Organizations; Directly and Indirectly Held Corporate Equities as a Percentage of Financial Assets; Assets, Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 GPDI,Gross Private Domestic Investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
-USACSCICP02STSAM,Consumer Opinion Surveys: Composite Consumer Confidence for United States,Percentage balance,Monthly,Seasonally Adjusted,1960-01-01,2026-09-15
-WEI,Weekly Economic Index (Lewis-Mertens-Stock),Index,"Weekly, Ending Saturday",Not Seasonally Adjusted,2008-01-05,2026-10-08
-APU0000717311,"Average Price: Coffee, 100%, Ground Roast, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
+USACSCICP02STSAM,Consumer Opinion Surveys: Composite Consumer Confidence for United States,Percentage balance,Monthly,Seasonally Adjusted,1960-01-01,2026-10-15
+WEI,Weekly Economic Index (Lewis-Mertens-Stock),Index,"Weekly, Ending Saturday",Not Seasonally Adjusted,2008-01-05,2026-10-22
+APU0000717311,"Average Price: Coffee, 100%, Ground Roast, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
 JTSLDL,Layoffs and Discharges: Total Nonfarm,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 TRUCKD11,Truck Tonnage Index,Index 2015=100,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
-GASREGCOVW,US Regular Conventional Gas Price,Dollars per Gallon,Weekly,Not Seasonally Adjusted,1990-08-20,2026-10-06
+GASREGCOVW,US Regular Conventional Gas Price,Dollars per Gallon,Weekly,Not Seasonally Adjusted,1990-08-20,2026-10-20
 MPRIME,Bank Prime Loan Rate,Percent,Monthly,Not Seasonally Adjusted,1949-01-01,2026-10-01
 OEHRENWBSHNO,"Households; Owners' Equity in Real Estate, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-SOFRVOL,Secured Overnight Financing Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-13
+SOFRVOL,Secured Overnight Financing Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-22
 WFRBLB50107,Net Worth Held by the Bottom 50% (1st to 50th Wealth Percentiles),Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 BORROW,Total Borrowings from the Federal Reserve,Millions of Dollars,Monthly,Not Seasonally Adjusted,1919-01-01,2026-09-22
-ECBESTRVOLWGTTRMDMNRT,Euro Short-Term Rate: Volume-Weighted Trimmed Mean Rate,Percent,Daily,Not Seasonally Adjusted,2019-10-01,2026-10-13
-USALOLITOAASTSAM,Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for United States,Index,Monthly,Seasonally Adjusted,1955-01-01,2026-09-15
-WPRIME,Bank Prime Loan Rate,Percent,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1955-08-10,2026-10-08
-APU0000706111,"Average Price: Chicken, Fresh, Whole (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
+ECBESTRVOLWGTTRMDMNRT,Euro Short-Term Rate: Volume-Weighted Trimmed Mean Rate,Percent,Daily,Not Seasonally Adjusted,2019-10-01,2026-10-22
+USALOLITOAASTSAM,Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for United States,Index,Monthly,Seasonally Adjusted,1955-01-01,2026-10-15
+WPRIME,Bank Prime Loan Rate,Percent,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1955-08-10,2026-10-22
+APU0000706111,"Average Price: Chicken, Fresh, Whole (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
 TSIFRGHT,Freight Transportation Services Index,Index 2000=100,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
-APU0000712311,"Average Price: Tomatoes, Field Grown (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU0000FC3101,Average Price: All Uncooked Beef Steaks (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-09-11
+APU0000712311,"Average Price: Tomatoes, Field Grown (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU0000FC3101,Average Price: All Uncooked Beef Steaks (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-10-14
 PNFI,Private Nonresidential Fixed Investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-SRFTSYD,Standing Repo (SRP) Operations Rate,Percent,Daily,Not Seasonally Adjusted,2021-07-29,2026-10-13
+SRFTSYD,Standing Repo (SRP) Operations Rate,Percent,Daily,Not Seasonally Adjusted,2021-07-29,2026-10-22
 PNFIC1,Real Private Nonresidential Fixed Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 WFRBST01122,Share of Corporate Equities and Mutual Fund Shares Held by the Top 1% (99th to 100th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-DJFUELUSGULF,Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,Daily,Not Seasonally Adjusted,1990-04-02,2026-10-07
+DJFUELUSGULF,Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,Daily,Not Seasonally Adjusted,1990-04-02,2026-10-21
 M12MTVUSM227NFWA,Moving 12-Month Total Vehicle Miles Traveled,Millions of Miles,Monthly,Not Seasonally Adjusted,1970-12-01,2026-10-07
-DDFUELUSGULF,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,Daily,Not Seasonally Adjusted,2006-06-14,2026-10-07
+DDFUELUSGULF,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,Daily,Not Seasonally Adjusted,2006-06-14,2026-10-21
 USPHCI,Coincident Economic Activity Index for the United States,Index 2007=100,Monthly,Seasonally Adjusted,1979-01-01,2026-09-23
 WFRBLT01026,Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles),Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 WFRBSB50215,Share of Net Worth Held by the Bottom 50% (1st to 50th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 WFRBSTP1300,Share of Net Worth Held by the Top 0.1% (99.9th to 100th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-WSHOSHO,Assets: Securities Held Outright: Securities Held Outright: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
+WSHOSHO,Assets: Securities Held Outright: Securities Held Outright: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 A679RC1Q027SBEA,Private fixed investment in information processing equipment and software,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 IIPUSNETIQ,U.S. Net International Investment Position,Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,2006-01-01,2026-09-24
 TNWBSHNO,"Households and Nonprofit Organizations; Net Worth, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 TRFVOLUSM227NFWA,Vehicle Miles Traveled,Millions of Miles,Monthly,Not Seasonally Adjusted,1970-01-01,2026-10-07
-BABATOTALSAUS,Business Applications: Total for All NAICS in the United States,Number,Monthly,Seasonally Adjusted,2004-07-01,2026-09-11
+BABATOTALSAUS,Business Applications: Total for All NAICS in the United States,Number,Monthly,Seasonally Adjusted,2004-07-01,2026-10-14
 CFNAIDIFF,Chicago Fed National Activity Index: Diffusion Index,Index,Monthly,Not Seasonally Adjusted,1967-05-01,2026-09-21
 CSCICP02CNM460S,Consumer Opinion Surveys: Composite Consumer Confidence for China,Percentage balance,Monthly,Seasonally Adjusted,1990-01-01,2026-09-15
 FPI,Fixed Private Investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
 FEDTARMDLR,"Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median",Percent,Not Applicable,Not Seasonally Adjusted,2012-01-25,2026-09-16
 RAILFRTCARLOADSD11,Rail Freight Carloads,Carloads,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
 TTLHHM156N,Household Estimates,Thousands,Monthly,Not Seasonally Adjusted,1955-04-01,2026-07-28
-APU0000704111,"Average Price: Bacon, Sliced (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-CASACBW027SBOG,"Cash Assets, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-09
+APU0000704111,"Average Price: Bacon, Sliced (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+CASACBW027SBOG,"Cash Assets, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
 PRFIC1,Real Private Residential Fixed Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-TENEXPCHAREARISPRE,Real Risk Premium,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-09-11
-WORAL,Assets: Other: Repurchase Agreements: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
-APU0000711211,Average Price: Bananas (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-COMPOUT,Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2001-01-03,2026-10-08
+TENEXPCHAREARISPRE,Real Risk Premium,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-14
+WORAL,Assets: Other: Repurchase Agreements: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+APU0000711211,Average Price: Bananas (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+COMPOUT,Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2001-01-03,2026-10-22
 JTU5100LDL,Layoffs and Discharges: Information,Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
-MTSO133FMS,Total Federal Outlays,Millions of Dollars,Monthly,Not Seasonally Adjusted,1980-10-01,2026-09-11
+MTSO133FMS,Total Federal Outlays,Millions of Dollars,Monthly,Not Seasonally Adjusted,1980-10-01,2026-10-16
 PRFI,Private Residential Fixed Investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-TGCRRATE,Tri-Party General Collateral Rate,Percent,Daily,Not Seasonally Adjusted,2018-04-02,2026-10-13
-APU0000701312,"Average Price: Rice, White, Long Grain, Uncooked (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-IGREA,Index of Global Real Economic Activity,Index,Monthly,Not Seasonally Adjusted,1968-01-01,2026-09-11
-NDR12MCD,National Rate: 12 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-09-21
-APU0000701111,"Average Price: Flour, White, All Purpose (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
+TGCRRATE,Tri-Party General Collateral Rate,Percent,Daily,Not Seasonally Adjusted,2018-04-02,2026-10-22
+APU0000701312,"Average Price: Rice, White, Long Grain, Uncooked (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+IGREA,Index of Global Real Economic Activity,Index,Monthly,Not Seasonally Adjusted,1968-01-01,2026-10-14
+NDR12MCD,National Rate: 12 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
+APU0000701111,"Average Price: Flour, White, All Purpose (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
 BOGZ1FL403069330Q,"Government-Sponsored Enterprises; FHLB Advances; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 COMPRNFB,Nonfarm Business Sector: Real Hourly Compensation for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
-H41RESPPALGTRFNWW,Assets: Other: Repurchase Agreements - Foreign Official: Wednesday Level,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
-SPASTT01USM661N,Financial Market: Share Prices for United States,Index 2015=100,Monthly,Not Seasonally Adjusted,1957-01-01,2026-09-15
-TLBACBW027NBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-09
-APU0000715211,"Average Price: Sugar, White, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU0000FS1101,"Average Price: Butter, Stick (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-09-11
-DPROPANEMBTX,"Propane Prices: Mont Belvieu, Texas",Dollars per Gallon,Daily,Not Seasonally Adjusted,1992-07-09,2026-10-07
+H41RESPPALGTRFNWW,Assets: Other: Repurchase Agreements - Foreign Official: Wednesday Level,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+SPASTT01USM661N,Financial Market: Share Prices for United States,Index 2015=100,Monthly,Not Seasonally Adjusted,1957-01-01,2026-10-15
+TLBACBW027NBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-16
+APU0000715211,"Average Price: Sugar, White, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU0000FS1101,"Average Price: Butter, Stick (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-10-14
+DPROPANEMBTX,"Propane Prices: Mont Belvieu, Texas",Dollars per Gallon,Daily,Not Seasonally Adjusted,1992-07-09,2026-10-21
 GASREGM,US Regular All Formulations Gas Price,Dollars per Gallon,"Monthly, End of Period",Not Seasonally Adjusted,1990-08-01,2026-09-29
-MTSR133FMS,Total Federal Receipts,Millions of Dollars,Monthly,Not Seasonally Adjusted,1980-10-01,2026-09-11
+MTSR133FMS,Total Federal Receipts,Millions of Dollars,Monthly,Not Seasonally Adjusted,1980-10-01,2026-10-16
 VMT,Vehicle Miles Traveled,Millions,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
-APU0000712112,"Average Price: Potatoes, White (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1986-03-01,2026-09-11
-APU0000FN1101,Average Price: All Soft Drinks (Cost per 2 Liters/67.6 Ounces) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-09-11
+APU0000712112,"Average Price: Potatoes, White (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1986-03-01,2026-10-14
+APU0000FN1101,Average Price: All Soft Drinks (Cost per 2 Liters/67.6 Ounces) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-10-14
 B935RC1Q027SBEA,Private fixed investment: Nonresidential: Information processing equipment and software: Computers and peripheral equipment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 CFNAIMA3,Chicago Fed National Activity Index: Three Month Moving Average,Index,Monthly,Not Seasonally Adjusted,1967-05-01,2026-09-21
 NCBEILQ027S,"Nonfinancial Corporate Business; Corporate Equities; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 WFRBSN40188,Share of Net Worth Held by the 50th to 90th Wealth Percentiles,Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-APU0200FN1102,"Average Price: All Soft Drinks, 12 Pk, 12 Ounce, Cans (Cost per 12 Ounces/354.9 Milliliters) in the Midwest Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-09-11
-APU0000FN1102,"Average Price: All Soft Drinks, 12 Pk, 12 Ounce, Cans (Cost per 12 Ounces/354.9 Milliliters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-09-11
+APU0200FN1102,"Average Price: All Soft Drinks, 12 Pk, 12 Ounce, Cans (Cost per 12 Ounces/354.9 Milliliters) in the Midwest Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-10-14
+APU0000FN1102,"Average Price: All Soft Drinks, 12 Pk, 12 Ounce, Cans (Cost per 12 Ounces/354.9 Milliliters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-10-14
 ENPLANE,"Enplanements for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Thousands,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
 GOAI,Gross Output by Industry: All Industries,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
-IUDZOS2,SONIA Compounded Index,Index,Daily,Not Seasonally Adjusted,2018-04-23,2026-10-13
+IUDZOS2,SONIA Compounded Index,Index,Daily,Not Seasonally Adjusted,2018-04-23,2026-10-22
 RAILFRTINTERMODAL,Rail Freight Intermodal Traffic,Containers and Trailers,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
-THREEFF10,Fitted Instantaneous Forward Rate 10 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-13
-THREEFFTP10,Instantaneous Forward Term Premium 10 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-13
-APU0000718311,Average Price: Potato Chips (Cost per 16 Ounces) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU0000FL2101,"Average Price: Lettuce, Romaine (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2006-01-01,2026-09-11
+THREEFF10,Fitted Instantaneous Forward Rate 10 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
+THREEFFTP10,Instantaneous Forward Term Premium 10 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
+APU0000718311,Average Price: Potato Chips (Cost per 16 Ounces) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU0000FL2101,"Average Price: Lettuce, Romaine (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2006-01-01,2026-10-14
 JTSLDR,Layoffs and Discharges: Total Nonfarm,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-MMNDR,National Rate: Money Market <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-09-21
-ABCOMP,Asset-Backed Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2001-01-03,2026-10-08
+MMNDR,National Rate: Money Market <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
+ABCOMP,Asset-Backed Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2001-01-03,2026-10-22
 APU0000713111,"Average Price: Orange Juice, Frozen Concentrate, 12 Ounce Can (Cost per 16 Ounces/473.2 Milliliters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-08-12
-APU0300703213,"Average Price: Chuck Roast, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in the South Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-09-11
+APU0300703213,"Average Price: Chuck Roast, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in the South Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-10-14
 HOEREPHRE,"Households; Owners' Equity in Real Estate as a Percentage of Household Real Estate, Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 LOADFACTOR,"Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
 WFRBST01112,Share of Financial Assets Held by the Top 1% (99th to 100th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-WSEFINTL1,Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
-APU0000710212,"Average Price: Cheddar Cheese, Natural (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-09-11
+WSEFINTL1,Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+APU0000710212,"Average Price: Cheddar Cheese, Natural (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-14
 BOGZ1LM193064005Q,"Households; Corporate Equities and Mutual Fund Shares; Asset, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-06-11
-G7LOLITOAASTSAM,Leading Indicators OECD: Leading indicators: CLI: Amplitude adjusted for G7,Index,Monthly,Seasonally Adjusted,1959-01-01,2026-09-15
-SOFR99,Secured Overnight Financing Rate: 99th Percentile,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-13
+G7LOLITOAASTSAM,Leading Indicators OECD: Leading indicators: CLI: Amplitude adjusted for G7,Index,Monthly,Seasonally Adjusted,1959-01-01,2026-10-15
+SOFR99,Secured Overnight Financing Rate: 99th Percentile,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-22
 TRFVOLUSM227SFWA,Vehicle Miles Traveled,Millions of Miles,Monthly,Seasonally Adjusted,2000-01-01,2026-10-07
-APU0000711415,"Average Price: Strawberries, Dry Pint (Cost per 12 Ounces/340.2 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-04-01,2026-09-11
-APU0000FD4101,Average Price: All Other Pork (Excluding Canned Ham and Luncheon Slices) (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-09-11
+APU0000711415,"Average Price: Strawberries, Dry Pint (Cost per 12 Ounces/340.2 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-04-01,2026-10-14
+APU0000FD4101,Average Price: All Other Pork (Excluding Canned Ham and Luncheon Slices) (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-10-14
 B069RC1,Personal interest payments,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 MMMFTAQ027S,"Money Market Funds; Total Financial Assets, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
-OBFRVOL,Overnight Bank Funding Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-13
+OBFRVOL,Overnight Bank Funding Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
 STLPPM,Price Pressures Measure,Probability,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-TLBACBM027NBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-09
+TLBACBM027NBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-16
 W790RC1Q027SBEA,Net domestic investment: Private: Domestic business,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-30
 WFRBSN09161,Share of Net Worth Held by the 90th to 99th Wealth Percentiles,Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-APU0000703613,"Average Price: Steak, Sirloin, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-09-11
+APU0000703613,"Average Price: Steak, Sirloin, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-10-14
 BOGZ1FL194090005Q,"Households; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-09-11
 BOGZ1FL892090005Q,"All Sectors; U.S. Wealth, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-BUSAPPWNSAUS,Business Applications for the United States,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,2006-01-07,2026-09-11
-DDFUELNYH,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor,Dollars per Gallon,Daily,Not Seasonally Adjusted,2006-06-14,2026-10-07
+BUSAPPWNSAUS,Business Applications for the United States,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,2006-01-07,2026-10-14
+DDFUELNYH,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor,Dollars per Gallon,Daily,Not Seasonally Adjusted,2006-06-14,2026-10-21
 FEDTARCTM,"FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint",Percent,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
 RPM,"Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Thousands,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
-WCBLSA,Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
+WCBLSA,Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 WFRBLN09053,Net Worth Held by the 90th to 99th Wealth Percentiles,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-WLTLECL,Liabilities and Capital: Liabilities: Total Liabilities (Less Eliminations from Consolidation): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
-APU0000FD3101,Average Price: All Pork Chops (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-09-11
+WLTLECL,Liabilities and Capital: Liabilities: Total Liabilities (Less Eliminations from Consolidation): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+APU0000FD3101,Average Price: All Pork Chops (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-10-14
 BOGZ1FL594090005Q,"Pension Funds; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-CSCICP02GBM460S,Consumer Opinion Surveys: Composite Consumer Confidence for United Kingdom,Percentage balance,Monthly,Seasonally Adjusted,1974-01-01,2026-09-15
+CSCICP02GBM460S,Consumer Opinion Surveys: Composite Consumer Confidence for United Kingdom,Percentage balance,Monthly,Seasonally Adjusted,1974-01-01,2026-10-15
 JTSOSL,Other Separations: Total Nonfarm,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-KCRORO,Risk-ON Risk-Off Index (KCRORO),Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-13
-MVAAUTLTTS,Motor Vehicle Assemblies: Autos and Light Truck Assemblies,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1977-01-01,2026-09-18
-OBFR1,Overnight Bank Funding Rate: 1st Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-13
+KCRORO,Risk-ON Risk-Off Index (KCRORO),Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-22
+MVAAUTLTTS,Motor Vehicle Assemblies: Autos and Light Truck Assemblies,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1977-01-01,2026-10-16
+OBFR1,Overnight Bank Funding Rate: 1st Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
 TSIFRGHTC,Freight Transportation Services Index,Percent Change from Preceding Period,Monthly,Seasonally Adjusted,2000-02-01,2026-10-01
 BOGZ1LM893064105Q,"All Sectors; Corporate Equities; Asset, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-H8B1152NCBCMG,"Total Liabilities, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1973-02-01,2026-10-09
+H8B1152NCBCMG,"Total Liabilities, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1973-02-01,2026-10-16
 Y033RX1Q020SBEA,Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1999-01-01,2026-09-30
-APU000072620,Average Price: Utility (Piped) Gas per Therm in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-09-11
+APU000072620,Average Price: Utility (Piped) Gas per Therm in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
 B985RC1Q027SBEA,Private fixed investment: Nonresidential: Intellectual property products: Software,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 BOGZ1LM654090000Q,"Mutual Funds; Total Financial Assets, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 LNS12026619,Multiple Jobholders,Thousands of Persons,Monthly,Seasonally Adjusted,1994-01-01,2026-10-02
 MJFUELUSGULF,Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,Monthly,Not Seasonally Adjusted,1990-04-01,2026-09-02
 QTAXTOTALQTAXCAT3CANO,State Tax Collections: Total Taxes for California,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-10
-WREPO,Assets: Other: Repurchase Agreements: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1999-10-13,2026-10-08
-APU0000710411,"Average Price: Ice Cream, Prepackaged, Bulk, Regular, per One-Half Gallon (1.9 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-BAHBATOTALSAUS,High-Propensity Business Applications: Total for All NAICS in the United States,Number,Monthly,Seasonally Adjusted,2004-07-01,2026-09-11
+WREPO,Assets: Other: Repurchase Agreements: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1999-10-13,2026-10-22
+APU0000710411,"Average Price: Ice Cream, Prepackaged, Bulk, Regular, per One-Half Gallon (1.9 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+BAHBATOTALSAUS,High-Propensity Business Applications: Total for All NAICS in the United States,Number,Monthly,Seasonally Adjusted,2004-07-01,2026-10-14
 BBKMLEIX,Brave-Butters-Kelley Leading Index,Standard Deviations,Monthly,Seasonally Adjusted,1960-01-01,2026-10-05
 BKFTTLA641N,Failures of all Institutions for the United States and Other Areas,Number of Institutions,Annual,Not Seasonally Adjusted,1934-01-01,2026-08-25
 FPIC1,Real Private Fixed Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 HSN1FNSA,New One Family Houses Sold: United States,Thousands of Units,Monthly,Not Seasonally Adjusted,1963-01-01,2026-09-24
 QFRTCASHINFUSNO,Quarterly Financial Report: U.S. Corporations: All Information: Total Cash on Hand and in U.S. Banks,Millions of Dollars,Quarterly,Not Seasonally Adjusted,2009-10-01,2026-09-08
 TFAABSHNO,"Households and Nonprofit Organizations; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-THREEFF1,Fitted Instantaneous Forward Rate 1 Year Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-13
+THREEFF1,Fitted Instantaneous Forward Rate 1 Year Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
 TNWMVBSNNCB,"Nonfinancial Corporate Business; Net Worth, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 Y033RC1Q027SBEA,Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 GASREGCOVM,US Regular Conventional Gas Price,Dollars per Gallon,Monthly,Not Seasonally Adjusted,1990-08-01,2026-09-29
 IEABCP,Balance on capital account,Millions of Dollars,Quarterly,Seasonally Adjusted,1999-01-01,2026-09-24
 USEPUFEARINDX,Migration Fear Index for the United States,Index,Quarterly,Not Seasonally Adjusted,1990-01-01,2026-07-02
-APU0000703111,"Average Price: Ground Chuck, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU0000720311,"Average Price: Wine, Red and White Table, All Sizes, Any Origin (Cost per 1 Liter/33.8 Ounces) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-09-11
+APU0000703111,"Average Price: Ground Chuck, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU0000720311,"Average Price: Wine, Red and White Table, All Sizes, Any Origin (Cost per 1 Liter/33.8 Ounces) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-10-14
 FEDTARCTH,"FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High",Percent,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
-ICNDR,National Rate: Interest Checking,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-09-21
-KCPRS,Kansas City Fed's Policy Rate Skew (KCPRS),Percentage Points,Daily,Not Seasonally Adjusted,1989-04-03,2026-10-13
-KCROROE,Risk-ON Risk-Off Index (KCRORO): Equities,Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-13
-TGCRVOLUME,Tri-Party General Collateral Rate Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2018-04-02,2026-10-13
+ICNDR,National Rate: Interest Checking,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
+KCPRS,Kansas City Fed's Policy Rate Skew (KCPRS),Percentage Points,Daily,Not Seasonally Adjusted,1989-04-03,2026-10-22
+KCROROE,Risk-ON Risk-Off Index (KCRORO): Equities,Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-22
+TGCRVOLUME,Tri-Party General Collateral Rate Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2018-04-02,2026-10-22
 WFRBLTP1310,Household Count in the Top 0.1% (99.9th to 100th Wealth Percentiles),Number of Households,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-WSEFINT1,Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
+WSEFINT1,Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 A464RC1Q027SBEA,Nonfinancial corporate business: Profits before tax (without IVA and CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-APU0000702421,"Average Price: Cookies, Chocolate Chip (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU0000714233,"Average Price: Beans, Dried, Any Type, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-09-11
-APU0400703613,"Average Price: Steak, Sirloin, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in the West Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-09-11
-BFPBF4QTOTALSAUS,Projected Business Formations Within Four Quarters: Total for All NAICS in the United States,Number,Monthly,Seasonally Adjusted,2004-07-01,2026-09-11
+APU0000702421,"Average Price: Cookies, Chocolate Chip (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU0000714233,"Average Price: Beans, Dried, Any Type, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-10-14
+APU0400703613,"Average Price: Steak, Sirloin, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in the West Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-10-14
+BFPBF4QTOTALSAUS,Projected Business Formations Within Four Quarters: Total for All NAICS in the United States,Number,Monthly,Seasonally Adjusted,2004-07-01,2026-10-14
 COMPNFB,Nonfarm Business Sector: Hourly Compensation for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 CSCICP02EZM460S,Consumer Opinion Surveys: Composite Consumer Confidence for Euro Area (19 Countries),Percentage balance,Monthly,Seasonally Adjusted,1973-01-01,2026-02-16
 FEDTARRM,"FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint",Percent,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
@@ -193,10 +193,10 @@ HNFSUSNSA,New One Family Houses for Sale in the United States,Thousands of Units
 JTSTSL,Total Separations: Total Nonfarm,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTU5100LDR,Layoffs and Discharges: Information,Rate,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
 NFCPATAX,Nonfinancial Corporate Business: Profits After Tax (without IVA and CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-OBFR75,Overnight Bank Funding Rate: 75th Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-13
-OBFR99,Overnight Bank Funding Rate: 99th Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-13
-SPASTT01KRM661N,Financial Market: Share Prices for Korea,Index 2015=100,Monthly,Not Seasonally Adjusted,1981-01-01,2026-09-15
-TLBACBW027SBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-09
+OBFR75,Overnight Bank Funding Rate: 75th Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
+OBFR99,Overnight Bank Funding Rate: 99th Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
+SPASTT01KRM661N,Financial Market: Share Prices for Korea,Index 2015=100,Monthly,Not Seasonally Adjusted,1981-01-01,2026-10-15
+TLBACBW027SBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
 WPROPANEMBTX,"Propane Prices: Mont Belvieu, Texas",Dollars per Gallon,"Weekly, Ending Friday",Not Seasonally Adjusted,1992-07-03,2026-09-10
 A455RC1Q027SBEA,Gross value added of nonfinancial corporate business,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 AIRRPMTSID11,Air Revenue Passenger Miles,Thousands,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
@@ -207,35 +207,35 @@ QTAXTOTALQTAXCAT1USNO,National Totals of State and Local Tax Revenue: Total Taxe
 RAILFRTINTERMODALD11,Rail Freight Intermodal Traffic,Containers and Trailers,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
 TRANSIT,Public Transit Ridership,Thousands of Unlinked Trips,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
 W018RC1Q027SBEA,Federal government total receipts,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-WLFN,"Liabilities and Capital: Liabilities: Federal Reserve Notes, Net of F.R. Bank Holdings: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
-APU0000712211,"Average Price: Lettuce, Iceberg (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU000074717,Average Price: Automotive Diesel Fuel (Cost per Gallon/3.785 Liters) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-09-11
+WLFN,"Liabilities and Capital: Liabilities: Federal Reserve Notes, Net of F.R. Bank Holdings: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+APU0000712211,"Average Price: Lettuce, Iceberg (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU000074717,Average Price: Automotive Diesel Fuel (Cost per Gallon/3.785 Liters) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-10-14
 BOGZ1FL194190005Q,"Households; Total Liabilities, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-09-11
-HBUSAPPWNSAUS,High-Propensity Business Applications for the United States,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,2006-01-07,2026-09-11
+HBUSAPPWNSAUS,High-Propensity Business Applications for the United States,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,2006-01-07,2026-10-14
 WFRBSN09149,Share of Corporate Equities and Mutual Fund Shares Held by the 90th to 99th Wealth Percentiles,Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 A446RC1Q027SBEA,Corporate business: Profits before tax (without IVA and CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-APU0000703113,"Average Price: Ground Beef, Lean and Extra Lean (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1991-01-01,2026-09-11
-APU0000706212,"Average Price: Chicken Legs, Bone-In (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-APU0000711412,Average Price: Lemons (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
-ECBESTRTOTVOL,Euro Short-Term Rate: Total Volume,Millions of Euro,Daily,Not Seasonally Adjusted,2019-10-01,2026-10-13
-GASPRMREFGCW,PADD III (Gulf Coast District) Premium Reformulated Gas Price,Dollars per Gallon,Weekly,Not Seasonally Adjusted,1994-11-28,2026-10-06
+APU0000703113,"Average Price: Ground Beef, Lean and Extra Lean (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1991-01-01,2026-10-14
+APU0000706212,"Average Price: Chicken Legs, Bone-In (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+APU0000711412,Average Price: Lemons (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
+ECBESTRTOTVOL,Euro Short-Term Rate: Total Volume,Millions of Euro,Daily,Not Seasonally Adjusted,2019-10-01,2026-10-22
+GASPRMREFGCW,PADD III (Gulf Coast District) Premium Reformulated Gas Price,Dollars per Gallon,Weekly,Not Seasonally Adjusted,1994-11-28,2026-10-20
 HNOCEA,"Households and Nonprofit Organizations; Corporate Equities; Asset, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-MVATOTASSS,Motor Vehicle Assemblies: Total Motor Vehicle Assemblies,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1967-01-01,2026-09-18
-OBFR25,Overnight Bank Funding Rate: 25th Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-13
+MVATOTASSS,Motor Vehicle Assemblies: Total Motor Vehicle Assemblies,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1967-01-01,2026-10-16
+OBFR25,Overnight Bank Funding Rate: 25th Percentile,Percent,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
 REV622ALLEST144QSA,"Total Revenue for 622: Hospitals, All Establishments",Millions of Dollars,Quarterly,Seasonally Adjusted,2004-10-01,2026-09-09
-RPTTLD,Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-13
-SPASTT01GBM661N,Financial Market: Share Prices for United Kingdom,Index 2015=100,Monthly,Not Seasonally Adjusted,1957-12-01,2026-09-15
+RPTTLD,Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-22
+SPASTT01GBM661N,Financial Market: Share Prices for United Kingdom,Index 2015=100,Monthly,Not Seasonally Adjusted,1957-12-01,2026-10-15
 BOGZ1FL544090005Q,"Life Insurance Companies; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-CHNLOLITOAASTSAM,Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for China,Index,Monthly,Seasonally Adjusted,1990-01-01,2026-09-15
-CSCICP02AUM460S,Consumer Opinion Surveys: Composite Consumer Confidence for Australia,Percentage balance,Monthly,Seasonally Adjusted,1974-09-01,2026-09-15
-NDR3MCD,National Rate: 3 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-09-21
-SPASTT01DEM661N,Financial Market: Share Prices for Germany,Index 2015=100,Monthly,Not Seasonally Adjusted,1960-01-01,2026-09-15
+CHNLOLITOAASTSAM,Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for China,Index,Monthly,Seasonally Adjusted,1990-01-01,2026-10-15
+CSCICP02AUM460S,Consumer Opinion Surveys: Composite Consumer Confidence for Australia,Percentage balance,Monthly,Seasonally Adjusted,1974-09-01,2026-10-15
+NDR3MCD,National Rate: 3 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
+SPASTT01DEM661N,Financial Market: Share Prices for Germany,Index 2015=100,Monthly,Not Seasonally Adjusted,1960-01-01,2026-10-15
 STLPPMDEF,Deflation Probability,Probability,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-THREEFFTP5,Instantaneous Forward Term Premium 5 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-13
+THREEFFTP5,Instantaneous Forward Term Premium 5 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
 W171RC1Q027SBEA,Net domestic investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 WFRBLN40080,Net Worth Held by the 50th to 90th Wealth Percentiles,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 A027RC1Q027SBEA,Net national product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-APU0000711311,"Average Price: Oranges, Navel (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
+APU0000711311,"Average Price: Oranges, Navel (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
 B009RC1Q027SBEA,Private fixed investment: Nonresidential: Structures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 BOGZ1FA106130003Q,"Nonfinancial Corporate Business; Net Interest and Miscellaneous Payments, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
 BOGZ1FL164090015Q,"Nonprofit Organizations; Total Financial Assets Held by Private Foundations, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-09-11
@@ -245,8 +245,8 @@ GASALLM,US All Grades All Formulations Gas Price,Dollars per Gallon,"Monthly, En
 LNU02026631,"Multiple Jobholders, Primary and Secondary Jobs Both Full Time",Thousands of Persons,Monthly,Not Seasonally Adjusted,1994-01-01,2026-10-02
 M12MTVUSM227SFWA,Moving 12-Month Total Vehicle Miles Traveled,Millions of Miles,Monthly,Seasonally Adjusted,2000-12-01,2026-10-07
 QTAXTOTALQTAXCAT1USYES,National Totals of State and Local Tax Revenue: Total Taxes for the United States,Millions of U.S. Dollars,Quarterly,Seasonally Adjusted,2009-01-01,2026-09-10
-RIFSPBLPND,Bank Prime Loan Rate,Percent,"Daily, 7-Day",Not Seasonally Adjusted,1955-08-04,2026-10-13
-THREEFF2,Fitted Instantaneous Forward Rate 2 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-13
+RIFSPBLPND,Bank Prime Loan Rate,Percent,"Daily, 7-Day",Not Seasonally Adjusted,1955-08-04,2026-10-22
+THREEFF2,Fitted Instantaneous Forward Rate 2 Years Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
 TLBSHNO,"Households and Nonprofit Organizations; Total Liabilities, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 WDFUELUSGULF,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast,Dollars per Gallon,"Weekly, Ending Friday",Not Seasonally Adjusted,2006-06-16,2026-09-10
 WFRBSB50203,Share of Corporate Equities and Mutual Fund Shares Held by the Bottom 50% (1st to 50th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
@@ -255,18 +255,18 @@ Y006RC1Q027SBEA,Gross Private Domestic Investment: Fixed Investment: Nonresident
 A068RC1,Personal outlays,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 A679RX1Q020SBEA,Real gross private domestic investment: Fixed investment: Nonresidential: Information processing equipment and software,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
 A680RC1Q027SBEA,Private fixed investment: Nonresidential: Equipment: Industrial equipment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-APU0000701322,Average Price: Spaghetti and Macaroni (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-09-11
+APU0000701322,Average Price: Spaghetti and Macaroni (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-14
 B009RX1Q020SBEA,Real gross private domestic investment: Fixed investment: Nonresidential: Structures,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
 BOGZ1FL010000016Q,"Financial Soundness Indicator; Regulatory Tier 1 Capital as a Percent of Risk-Weighted Assets, Level, Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,2009-10-01,2026-09-11
-KCROROL,Risk-ON Risk-Off Index (KCRORO): Liquidity,Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-13
+KCROROL,Risk-ON Risk-Off Index (KCRORO): Liquidity,Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-22
 NCBCEL,"Nonfinancial Corporate Business; Corporate Equities; Liability, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 NFIRSAXDCUSQ,Real Gross Fixed Capital Formation for United States,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1972-01-01,2026-09-07
 W987RC1Q027SBEA,Gross private domestic investment: Domestic business,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-30
 WFRBLT01002,Real Estate Held by the Top 1% (99th to 100th Wealth Percentiles),Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
-APU0000710211,Average Price: American Processed Cheese (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-09-11
-APU0000FC1101,Average Price: All Uncooked Ground Beef (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-09-11
-APU0000FJ1101,"Average Price: Milk, Fresh, Low-Fat, Reduced Fat, Skim (Cost per Gallon/3.8 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-09-11
-APU0000FJ4101,Average Price: Yogurt (Cost per 8 Ounces/226.8 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-09-11
+APU0000710211,Average Price: American Processed Cheese (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-14
+APU0000FC1101,Average Price: All Uncooked Ground Beef (Cost per Pound/453.6 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-10-14
+APU0000FJ1101,"Average Price: Milk, Fresh, Low-Fat, Reduced Fat, Skim (Cost per Gallon/3.8 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-10-14
+APU0000FJ4101,Average Price: Yogurt (Cost per 8 Ounces/226.8 Grams) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,2018-04-01,2026-10-14
 BOGZ1LM883164115Q,"All Domestic Sectors; Public Corporate Equities; Liability, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 DIVIDEND,Corporate Profits after tax with IVA and CCAdj: Net Dividends,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
 IRA,IRA and Keogh Accounts: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
@@ -281,8 +281,8 @@ BOGZ1LM153064475Q,"Households and Nonprofit Organizations; Directly and Indirect
 DRLFRACBS,"Delinquency Rate on Lease Financing Receivables, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
 ENPLANED,"Enplanements for U.S. Air Carrier Domestic, Scheduled Passenger Flights",Thousands,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
 FBTFASQ027S,"Domestic Financial Sectors; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-FINCPN,Financial Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2001-01-03,2026-10-08
-GASALLW,US All Grades All Formulations Gas Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1993-04-05,2026-10-06
+FINCPN,Financial Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2001-01-03,2026-10-22
+GASALLW,US All Grades All Formulations Gas Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1993-04-05,2026-10-20
 HSTFC,"Houses Sold by Type of Financing, Cash Purchase",Thousands of Units,Quarterly,Not Seasonally Adjusted,1988-01-01,2026-07-24
 IIPPORTAQ,U.S. Assets: Portfolio Investment,Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,2006-01-01,2026-09-24
 JTS1000LDL,Layoffs and Discharges: Total Private,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
@@ -291,70 +291,70 @@ JTSTSR,Total Separations: Total Nonfarm,Rate,Monthly,Seasonally Adjusted,2000-12
 JTU540099LDL,Layoffs and Discharges: Professional and Business Services,Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
 LNU02026625,"Multiple Jobholders, Primary Job Full Time, Secondary Job Part Time",Thousands of Persons,Monthly,Not Seasonally Adjusted,1994-01-01,2026-10-02
 NCBCEPNW,"Nonfinancial Corporate Business; Corporate Equities as a Percentage of Net Worth, Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-SOFR1,Secured Overnight Financing Rate: 1st Percentile,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-13
+SOFR1,Secured Overnight Financing Rate: 1st Percentile,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-22
 TLBSNNCB,"Nonfinancial Corporate Business; Total Liabilities, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 WFRBLB50300,Household Count in the Bottom 50% (1st to 50th Wealth Percentiles),Number of Households,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 Y001RX1Q020SBEA,Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Intellectual Property Products,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1999-01-01,2026-09-30
 AIRRTMFMD11,Air Revenue Ton Miles of Freight and Mail,Ton Miles,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
-APU0400712112,"Average Price: Potatoes, White (Cost per Pound/453.6 Grams) in the West Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1986-03-01,2026-09-11
+APU0400712112,"Average Price: Potatoes, White (Cost per Pound/453.6 Grams) in the West Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1986-03-01,2026-10-14
 ASM,"Available Seat Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Thousands,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
 B471RC1Q027SBEA,Net value added of nonfinancial corporate business: Net operating surplus: Net interest and miscellaneous payments,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-CASLCBW027NBOG,"Cash Assets, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1985-04-03,2026-10-09
+CASLCBW027NBOG,"Cash Assets, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1985-04-03,2026-10-16
 CFSBCCAPXEXP,Chicago Fed Survey of Economic Conditions: Capital Spending Expectations in the next 12 Months in Federal Reserve District 7: Chicago,Index,Monthly,Not Seasonally Adjusted,2013-01-01,2026-09-22
-KORLOLITOAASTSAM,Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for Korea,Index,Monthly,Seasonally Adjusted,1990-01-01,2026-09-15
+KORLOLITOAASTSAM,Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for Korea,Index,Monthly,Seasonally Adjusted,1990-01-01,2026-10-15
 RAILFRTCARLOADS,Rail Freight Carloads,Carloads,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
-SMS00000000000000022,"Diffusion Indexes, 3-Month Span: Total Nonfarm",Index,Monthly,Seasonally Adjusted,1991-01-01,2026-09-18
-SPASTT01CNM661N,Financial Market: Share Prices for China,Index 2015=100,Monthly,Not Seasonally Adjusted,1999-01-01,2026-09-15
+SMS00000000000000022,"Diffusion Indexes, 3-Month Span: Total Nonfarm",Index,Monthly,Seasonally Adjusted,1991-01-01,2026-10-20
+SPASTT01CNM661N,Financial Market: Share Prices for China,Index 2015=100,Monthly,Not Seasonally Adjusted,1999-01-01,2026-10-15
 SUBLPDMOSXWBNQ,"Net Percentage of Domestic Banks Tightening Standards Across Loan Categories, Weighted by Banks' Outstanding Loan Balances by Category",Percent,Quarterly,Not Seasonally Adjusted,1991-07-01,2026-08-03
 VMTD11,Vehicle Miles Traveled,Millions,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
 W255RC1Q027SBEA,Net interest and miscellaneous payments on assets,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-01
 WFRBL99T999219,Net Worth Held by the 99th to 99.9th Wealth Percentiles,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 A679RL1Q225SBEA,Real Private Fixed Investment: Private Fixed Investment in Information Processing Equipment and Software,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 A782RC1Q027SBEA,Gross government investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-APU0200703112,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in the Midwest Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-09-11
-BABATOTALNSAUS,Business Applications: Total for All NAICS in the United States,Number,Monthly,Not Seasonally Adjusted,2004-07-01,2026-09-11
+APU0200703112,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in the Midwest Census Region - Urban",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-14
+BABATOTALNSAUS,Business Applications: Total for All NAICS in the United States,Number,Monthly,Not Seasonally Adjusted,2004-07-01,2026-10-14
 BOGZ1FL263092141Q,"Rest of the World; Foreign Direct Investment in U.S.: Equity; Asset (Market Value), Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-CSCICP02DEM460S,Consumer Opinion Surveys: Composite Consumer Confidence for Germany,Percentage balance,Monthly,Seasonally Adjusted,1973-01-01,2026-09-15
+CSCICP02DEM460S,Consumer Opinion Surveys: Composite Consumer Confidence for Germany,Percentage balance,Monthly,Seasonally Adjusted,1973-01-01,2026-10-15
 ENPLANED11,"Enplanements for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Thousands,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
-FORLTEQTYPOS69995,Foreign Portfolio Holdings of U.S. Equity Securities: All Countries,Millions of Dollars,Monthly,Not Seasonally Adjusted,1984-12-01,2026-09-16
-IUDZLS9,Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile,Percent,Daily,Not Seasonally Adjusted,2018-04-23,2026-10-13
+FORLTEQTYPOS69995,Foreign Portfolio Holdings of U.S. Equity Securities: All Countries,Millions of Dollars,Monthly,Not Seasonally Adjusted,1984-12-01,2026-10-16
+IUDZLS9,Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile,Percent,Daily,Not Seasonally Adjusted,2018-04-23,2026-10-22
 MSACSRNSA,Monthly Supply of New Houses in the United States,Months' Supply,Monthly,Not Seasonally Adjusted,1963-01-01,2026-09-24
-MVAHMTRCKS,Motor Vehicle Assemblies: Heavy and Medium Truck Assemblies,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1979-01-01,2026-09-18
+MVAHMTRCKS,Motor Vehicle Assemblies: Heavy and Medium Truck Assemblies,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1979-01-01,2026-10-16
 OUTNFB,Nonfarm Business Sector: Real Value-Added Output for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 QTAXTOTALQTAXCAT3FLNO,State Tax Collections: Total Taxes for Florida,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-10
-RALACBM027SBOG,"Residual (Assets Less Liabilities), All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-10-09
+RALACBM027SBOG,"Residual (Assets Less Liabilities), All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-10-16
+RPSGENAIUSAGESHAREALL,"Generative Artificial Intelligence, Adoption Rate Overall: Working-Age Adults",Percent,Quarterly,Not Seasonally Adjusted,2024-07-01,2026-10-20
 TFAABSNNCB,"Nonfinancial Corporate Business; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 WFRBL99T999308,Household Count in the 99th to 99.9th Wealth Percentiles,Number of Households,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 WFRBSN09139,Share of Financial Assets Held by the 90th to 99th Wealth Percentiles,Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
 A451RC1Q027SBEA,Gross value added of corporate business,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-APU0000703511,"Average Price: Steak, Round, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-09-11
+APU0000703511,"Average Price: Steak, Round, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
 BOGZ1FL664090005Q,"Security Brokers and Dealers; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-COMPAPER,Nonfinancial Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2001-01-03,2026-10-08
-H8B3094NCBA,"Borrowings, All Commercial Banks",Millions of U.S. Dollars,Weekly,Seasonally Adjusted,1973-01-03,2026-10-09
+COMPAPER,Nonfinancial Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2001-01-03,2026-10-22
+H8B3094NCBA,"Borrowings, All Commercial Banks",Millions of U.S. Dollars,Weekly,Seasonally Adjusted,1973-01-03,2026-10-16
 IEAA,Net U.S. acquisition of financial assets excluding financial derivatives (net increase in assets / financial outflow (+)),Millions of Dollars,Quarterly,Seasonally Adjusted,1999-01-01,2026-09-24
-NFINCP,Nonfinancial Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2001-01-03,2026-10-08
+NFINCP,Nonfinancial Commercial Paper Outstanding,Billions of Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2001-01-03,2026-10-22
 QTAXT01QTAXCAT1USNO,National Totals of State and Local Tax Revenue: T01 Property Taxes for the United States,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1992-01-01,2026-09-10
 RCPHBS,Business Sector: Real Hourly Compensation for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 RPMD11,"Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Thousands,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
-RPONAGYD,Overnight Repurchase Agreements: Federal Agency Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-13
-SPASTT01INM661N,Financial Market: Share Prices for India,Index 2015=100,Monthly,Not Seasonally Adjusted,1957-01-01,2026-09-15
-USAMABMM301GYSAM,Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States,Growth rate same period previous year,Monthly,Seasonally Adjusted,1960-01-01,2026-09-15
+RPONAGYD,Overnight Repurchase Agreements: Federal Agency Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-22
+SPASTT01INM661N,Financial Market: Share Prices for India,Index 2015=100,Monthly,Not Seasonally Adjusted,1957-01-01,2026-10-15
+USAMABMM301GYSAM,Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States,Growth rate same period previous year,Monthly,Seasonally Adjusted,1960-01-01,2026-10-15
 VAI,Value Added by Industry: Information,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 W328RC1Q027SBEA,Net value added of nonfinancial corporate business: Corporate profits with IVA and CCAdj: Profits after tax with IVA and CCAdj,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 WATERBORNE,Tonnage for Internal U.S. Waterways,Millions of Short Tons,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
 A006RL1Q225SBEA,Real Gross Private Domestic Investment,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 A007RL1Q225SBEA,Real Gross Private Domestic Investment: Fixed Investment,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 A008RL1Q225SBEA,Real Gross Private Domestic Investment: Fixed Investment: Nonresidential,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
-APU0000703213,"Average Price: Chuck Roast, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-09-11
+APU0000703213,"Average Price: Chuck Roast, USDA Choice, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1989-01-01,2026-10-14
 BOGZ1FL155035013Q,"Households; Owner-Occupied Real Estate at Market Value, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-CSCICP02FRM460S,Consumer Opinion Surveys: Composite Consumer Confidence for France,Percentage balance,Monthly,Seasonally Adjusted,1973-01-01,2026-09-15
+CSCICP02FRM460S,Consumer Opinion Surveys: Composite Consumer Confidence for France,Percentage balance,Monthly,Seasonally Adjusted,1973-01-01,2026-10-15
 FGNETWQ027S,"Federal Government; Net Worth (IMA), Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 FGTLBLQ027S,"Federal Government; Total Liabilities, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 HNOREMV,"Households and Nonprofit Organizations; Real Estate at Market Value, Market Value Levels",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 LOADFACTORD11,"Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights",Percent,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
 MDFUELNYH,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor,Dollars per Gallon,Monthly,Not Seasonally Adjusted,2006-06-01,2026-10-07
 NFIRSAXDCAUQ,Real Gross Fixed Capital Formation for Australia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
-RPSGENAIUSAGESHAREALL,"Generative Artificial Intelligence, Adoption Rate Overall: Working-Age Adults",Percent,Quarterly,Not Seasonally Adjusted,2024-07-01,2026-08-04
-THREEFFTP1,Instantaneous Forward Term Premium 1 Year Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-13
-TLBACBM027SBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-10-09
+THREEFFTP1,Instantaneous Forward Term Premium 1 Year Hence,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
+TLBACBM027SBOG,"Total Liabilities, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-10-16
 Y034RX1Q020SBEA,Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment: Information Processing Equipment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1999-01-01,2026-09-30

@@ -2,12 +2,12 @@ id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 PSAVERT,Personal Saving Rate,Percent,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 PCE,Personal Consumption Expenditures,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 TOTALSA,Total Vehicle Sales,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1976-01-01,2026-10-02
-GASDESW,US Diesel Sales Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1994-03-21,2026-10-06
+GASDESW,US Diesel Sales Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1994-03-21,2026-10-20
 PCEC96,Real Personal Consumption Expenditures,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 DSPIC96,Real Disposable Personal Income,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 TDSP,Household Debt Service Payments as a Percent of Disposable Personal Income,Percent,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-22
-RSXFS,Advance Retail Sales: Retail Trade,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+RSXFS,Advance Retail Sales: Retail Trade,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-15
 HTRUCKSSAAR,Motor Vehicle Retail Sales: Heavy Weight Trucks,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1967-01-01,2026-10-02
-RSAFS,Advance Retail Sales: Retail Trade and Food Services,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+RSAFS,Advance Retail Sales: Retail Trade and Food Services,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-15
 ALTSALES,Light Weight Vehicle Sales: Autos and Light Trucks,Millions of Units,Monthly,Seasonally Adjusted Annual Rate,1976-01-01,2026-10-02
 DSPI,Disposable Personal Income,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30

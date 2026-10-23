@@ -1,25 +1,24 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-RPSGENAITSIND10,"Generative Artificial Intelligence, Time Savings: Finance and Insurance",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
 PRS85006152,Nonfarm Business Sector: Real Hourly Compensation for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
+RPSGENAITSIND10,"Generative Artificial Intelligence, Time Savings: Finance and Insurance",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
 PRS85006101,Nonfarm Business Sector: Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
 PRS85006151,Nonfarm Business Sector: Real Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
 PRS84006032,Business Sector: Hours Worked for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
-RPSGENAITSIND9,"Generative Artificial Intelligence, Time Savings: Information",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
 PRS30006032,Manufacturing Sector: Hours Worked for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
 PRS84006092,Business Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
 PRS85006102,Nonfarm Business Sector: Hourly Compensation for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
-RPSGENAITSIND5,"Generative Artificial Intelligence, Time Savings: Wholesale Trade",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
 PRS30006151,Manufacturing Sector: Real Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 PRS84006162,Business Sector: Output per Worker for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
 PRS85006161,Nonfarm Business Sector: Output per Worker for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
-RPSGENAITSIND4,"Generative Artificial Intelligence, Time Savings: Manufacturing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC3,"Generative Artificial Intelligence, Time Savings: Computer and Mathematical Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
+RPSGENAITSIND4,"Generative Artificial Intelligence, Time Savings: Manufacturing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND9,"Generative Artificial Intelligence, Time Savings: Information",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC3,"Generative Artificial Intelligence, Time Savings: Computer and Mathematical Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
 PRS30006011,Manufacturing Sector: Employment for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 PRS30006021,Manufacturing Sector: Average Weekly Hours for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-08-06
 PRS31006011,"Manufacturing, Durable Goods Sector: Employment for All Workers",Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-08-06
 PRS85006162,Nonfarm Business Sector: Output per Worker for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
 PRS88003091,Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-03
-RPSGENAITSIND12,"Generative Artificial Intelligence, Time Savings: Professional, Scientific, and Technical Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
+RPSGENAITSIND12,"Generative Artificial Intelligence, Time Savings: Professional, Scientific, and Technical Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
 PRS30006161,Manufacturing Sector: Output per Worker for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 PRS30006162,Manufacturing Sector: Output per Worker for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
 PRS84006102,Business Sector: Hourly Compensation for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
@@ -30,8 +29,7 @@ PRS85006022,Nonfarm Business Sector: Average Weekly Hours for All Workers,Percen
 PRS85006041,Nonfarm Business Sector: Real Value-Added Output for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
 PRS85006042,Nonfarm Business Sector: Real Value-Added Output for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
 PRS88003161,Nonfinancial Corporations Sector: Output per Worker for Employees,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-03
-RPSGENAITSIND3,"Generative Artificial Intelligence, Time Savings: Construction",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC2,"Generative Artificial Intelligence, Time Savings: Business and Financial Operations Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
+RPSGENAITSOCC2,"Generative Artificial Intelligence, Time Savings: Business and Financial Operations Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
 PRS30006012,Manufacturing Sector: Employment for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-08-06
 PRS30006031,Manufacturing Sector: Hours Worked for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 PRS31006091,"Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Workers",Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
@@ -43,18 +41,17 @@ PRS85006021,Nonfarm Business Sector: Average Weekly Hours for All Workers,Percen
 PRS85006061,Nonfarm Business Sector: Labor Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
 PRS85006062,Nonfarm Business Sector: Labor Compensation for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
 PRS88003092,Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
-RPSGENAITSIND1,"Generative Artificial Intelligence, Time Savings: Agriculture, Forestry, Fishing, and Hunting",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND15,"Generative Artificial Intelligence, Time Savings: Educational Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND16,"Generative Artificial Intelligence, Time Savings: Health Care and Social Assistance",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND18,"Generative Artificial Intelligence, Time Savings: Accommodation and Food Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND6,"Generative Artificial Intelligence, Time Savings: Retail Trade",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC1,"Generative Artificial Intelligence, Time Savings: Management Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC13,"Generative Artificial Intelligence, Time Savings: Food Preparation and Serving Related Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC14,"Generative Artificial Intelligence, Time Savings: Building and Grounds Cleaning and Maintenance Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC17,"Generative Artificial Intelligence, Time Savings: Office and Administrative Support Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC18,"Generative Artificial Intelligence, Time Savings: Farming, Fishing, and Forestry Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC21,"Generative Artificial Intelligence, Time Savings: Production Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC9,"Generative Artificial Intelligence, Time Savings: Arts, Design, Entertainment, Sports, and Media Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
+RPSGENAITSIND1,"Generative Artificial Intelligence, Time Savings: Agriculture, Forestry, Fishing, and Hunting",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND15,"Generative Artificial Intelligence, Time Savings: Educational Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND16,"Generative Artificial Intelligence, Time Savings: Health Care and Social Assistance",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND3,"Generative Artificial Intelligence, Time Savings: Construction",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND5,"Generative Artificial Intelligence, Time Savings: Wholesale Trade",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND6,"Generative Artificial Intelligence, Time Savings: Retail Trade",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC1,"Generative Artificial Intelligence, Time Savings: Management Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC13,"Generative Artificial Intelligence, Time Savings: Food Preparation and Serving Related Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC17,"Generative Artificial Intelligence, Time Savings: Office and Administrative Support Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC21,"Generative Artificial Intelligence, Time Savings: Production Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC9,"Generative Artificial Intelligence, Time Savings: Arts, Design, Entertainment, Sports, and Media Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
 PRS30006022,Manufacturing Sector: Average Weekly Hours for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
 PRS30006061,Manufacturing Sector: Labor Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 PRS30006101,Manufacturing Sector: Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-08-06
@@ -114,25 +111,28 @@ PRS88003102,Nonfinancial Corporations Sector: Hourly Compensation for Employees,
 PRS88003151,Nonfinancial Corporations Sector: Real Hourly Compensation for Employees,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-03
 PRS88003152,Nonfinancial Corporations Sector: Real Hourly Compensation for Employees,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
 PRS88003162,Nonfinancial Corporations Sector: Output per Worker for Employees,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
-RPSGENAITSIND11,"Generative Artificial Intelligence, Time Savings: Real Estate and Rental and Leasing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND13,"Generative Artificial Intelligence, Time Savings: Management of Companies and Enterprises",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND14,"Generative Artificial Intelligence, Time Savings: Administrative and Support and Waste Management Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND17,"Generative Artificial Intelligence, Time Savings: Arts, Entertainment, and Recreation",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND19,"Generative Artificial Intelligence, Time Savings: Other Services, Except Public Administration",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND2,"Generative Artificial Intelligence, Time Savings: Mining, Quarrying, and Oil and Gas Extraction",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND20,"Generative Artificial Intelligence, Time Savings: Public Administration",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND7,"Generative Artificial Intelligence, Time Savings: Transportation and Warehousing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSIND8,"Generative Artificial Intelligence, Time Savings: Utilities",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC10,"Generative Artificial Intelligence, Time Savings: Healthcare Practitioners and Technical Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC11,"Generative Artificial Intelligence, Time Savings: Healthcare Support Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC12,"Generative Artificial Intelligence, Time Savings: Protective Service Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC15,"Generative Artificial Intelligence, Time Savings: Personal Care and Service Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC16,"Generative Artificial Intelligence, Time Savings: Sales and Related Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC19,"Generative Artificial Intelligence, Time Savings: Construction and Extraction Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC20,"Generative Artificial Intelligence, Time Savings: Installation, Maintenance, and Repair Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC22,"Generative Artificial Intelligence, Time Savings: Transportation and Material Moving Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC4,"Generative Artificial Intelligence, Time Savings: Architecture and Engineering Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC5,"Generative Artificial Intelligence, Time Savings: Life, Physical, and Social Science Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC6,"Generative Artificial Intelligence, Time Savings: Community and Social Service Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC7,"Generative Artificial Intelligence, Time Savings: Legal Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
-RPSGENAITSOCC8,"Generative Artificial Intelligence, Time Savings: Educational Instruction and Library Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
+RPSGENAITSIND11,"Generative Artificial Intelligence, Time Savings: Real Estate and Rental and Leasing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND13,"Generative Artificial Intelligence, Time Savings: Management of Companies and Enterprises",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND14,"Generative Artificial Intelligence, Time Savings: Administrative and Support and Waste Management Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND17,"Generative Artificial Intelligence, Time Savings: Arts, Entertainment, and Recreation",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND18,"Generative Artificial Intelligence, Time Savings: Accommodation and Food Services",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND19,"Generative Artificial Intelligence, Time Savings: Other Services, Except Public Administration",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND2,"Generative Artificial Intelligence, Time Savings: Mining, Quarrying, and Oil and Gas Extraction",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND20,"Generative Artificial Intelligence, Time Savings: Public Administration",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND7,"Generative Artificial Intelligence, Time Savings: Transportation and Warehousing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSIND8,"Generative Artificial Intelligence, Time Savings: Utilities",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC10,"Generative Artificial Intelligence, Time Savings: Healthcare Practitioners and Technical Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC11,"Generative Artificial Intelligence, Time Savings: Healthcare Support Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC12,"Generative Artificial Intelligence, Time Savings: Protective Service Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC14,"Generative Artificial Intelligence, Time Savings: Building and Grounds Cleaning and Maintenance Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC15,"Generative Artificial Intelligence, Time Savings: Personal Care and Service Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC16,"Generative Artificial Intelligence, Time Savings: Sales and Related Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC18,"Generative Artificial Intelligence, Time Savings: Farming, Fishing, and Forestry Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC19,"Generative Artificial Intelligence, Time Savings: Construction and Extraction Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC20,"Generative Artificial Intelligence, Time Savings: Installation, Maintenance, and Repair Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC22,"Generative Artificial Intelligence, Time Savings: Transportation and Material Moving Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC4,"Generative Artificial Intelligence, Time Savings: Architecture and Engineering Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC5,"Generative Artificial Intelligence, Time Savings: Life, Physical, and Social Science Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC6,"Generative Artificial Intelligence, Time Savings: Community and Social Service Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC7,"Generative Artificial Intelligence, Time Savings: Legal Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+RPSGENAITSOCC8,"Generative Artificial Intelligence, Time Savings: Educational Instruction and Library Occupations",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20

@@ -1,10 +1,10 @@
 # FinzData macro data
 
-[![Series](https://img.shields.io/badge/series-6178-0B1B3F)](https://finzdata.com/datasets)
+[![Series](https://img.shields.io/badge/series-7610-0B1B3F)](https://finzdata.com/datasets)
 [![Point in time](https://img.shields.io/badge/vintages-every%20revision-9DB0CC)](https://finzdata.com/docs)
 [![PyPI](https://img.shields.io/pypi/v/finzdata?label=pip%20install%20finzdata)](https://pypi.org/project/finzdata/)
 
-Free, ready-to-use US and international macroeconomic data: **6,178 series in 22 categories**,
+Free, ready-to-use US and international macroeconomic data: **7,610 series in 23 categories**,
 one folder per category, each loading in one line of pandas. No API key, no sign-up, no scraping.
 
 ```python
@@ -17,6 +17,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/FinzData/macro-data/main/inf
 | Category | Series | Folder | Parquet on Hugging Face |
 |---|---|---|---|
 | Consumption | 1,602 | [consumption/](consumption/) | [FinzData/macro-consumption](https://huggingface.co/datasets/FinzData/macro-consumption) |
+| Trade | 1,432 | [trade/](trade/) | [FinzData/macro-trade](https://huggingface.co/datasets/FinzData/macro-trade) |
 | Inflation | 960 | [inflation/](inflation/) | [FinzData/macro-inflation](https://huggingface.co/datasets/FinzData/macro-inflation) |
 | Labor | 595 | [labor/](labor/) | [FinzData/macro-labor](https://huggingface.co/datasets/FinzData/macro-labor) |
 | Other Indicators | 359 | [other-indicators/](other-indicators/) | [FinzData/macro-other-indicators](https://huggingface.co/datasets/FinzData/macro-other-indicators) |
@@ -24,15 +25,15 @@ df = pd.read_csv("https://raw.githubusercontent.com/FinzData/macro-data/main/inf
 | Consumption, International | 326 | [consumption-international/](consumption-international/) | [FinzData/macro-consumption-international](https://huggingface.co/datasets/FinzData/macro-consumption-international) |
 | Housing | 273 | [housing/](housing/) | [FinzData/macro-housing](https://huggingface.co/datasets/FinzData/macro-housing) |
 | Rates | 271 | [rates/](rates/) | [FinzData/macro-rates](https://huggingface.co/datasets/FinzData/macro-rates) |
-| Electricity | 213 | [electricity/](electricity/) | [FinzData/macro-electricity](https://huggingface.co/datasets/FinzData/macro-electricity) |
+| Electricity | 244 | [electricity/](electricity/) | [FinzData/macro-electricity](https://huggingface.co/datasets/FinzData/macro-electricity) |
 | Consumer Credit | 184 | [consumer-credit/](consumer-credit/) | [FinzData/macro-consumer-credit](https://huggingface.co/datasets/FinzData/macro-consumer-credit) |
 | Money and Credit | 181 | [money-credit/](money-credit/) | [FinzData/macro-money-credit](https://huggingface.co/datasets/FinzData/macro-money-credit) |
 | Income and Spending | 166 | [income-spending/](income-spending/) | [FinzData/macro-income-spending](https://huggingface.co/datasets/FinzData/macro-income-spending) |
 | Productivity | 137 | [productivity/](productivity/) | [FinzData/macro-productivity](https://huggingface.co/datasets/FinzData/macro-productivity) |
 | Production | 120 | [production/](production/) | [FinzData/macro-production](https://huggingface.co/datasets/FinzData/macro-production) |
 | Growth | 105 | [growth/](growth/) | [FinzData/macro-growth](https://huggingface.co/datasets/FinzData/macro-growth) |
-| Other | 91 | [other/](other/) | [FinzData/macro-other](https://huggingface.co/datasets/FinzData/macro-other) |
 | FX | 81 | [fx/](fx/) | [FinzData/macro-fx](https://huggingface.co/datasets/FinzData/macro-fx) |
+| Other | 60 | [other/](other/) | [FinzData/macro-other](https://huggingface.co/datasets/FinzData/macro-other) |
 | Commodities | 59 | [commodities/](commodities/) | [FinzData/macro-commodities](https://huggingface.co/datasets/FinzData/macro-commodities) |
 | Orders and Trade | 50 | [orders-trade/](orders-trade/) | [FinzData/macro-orders-trade](https://huggingface.co/datasets/FinzData/macro-orders-trade) |
 | Financial Conditions | 39 | [financial-conditions/](financial-conditions/) | [FinzData/macro-financial-conditions](https://huggingface.co/datasets/FinzData/macro-financial-conditions) |

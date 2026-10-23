@@ -1,9 +1,9 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 BOPGSTB,"Trade Balance: Goods and Services, Balance of Payments Basis",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-06
 NEWORDER,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,Millions of Dollars,Monthly,Seasonally Adjusted,1968-02-01,2026-10-02
-ISRATIO,Total Business: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Seasonally Adjusted,1948-01-01,2026-09-16
+ISRATIO,Total Business: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Seasonally Adjusted,1948-01-01,2026-10-15
 AMTMNO,Manufacturers' New Orders: Total Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-BUSINV,Total Business Inventories,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1980-12-01,2026-09-16
+BUSINV,Total Business Inventories,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1980-12-01,2026-10-15
 NETEXP,Net Exports of Goods and Services,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
 BOPGTB,"Trade Balance: Goods, Balance of Payments Basis",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-06
 EXPGS,Exports of Goods and Services,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
@@ -13,7 +13,7 @@ AUINSA,Domestic Auto Inventories,Thousands of Units,Monthly,Seasonally Adjusted,
 EXPGSC1,Real Exports of Goods and Services,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 IMPGSC1,Real imports of goods and services,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 IMPTOTUS,Imports of Goods for United States,Millions of Dollars,Monthly,Not Seasonally Adjusted,2008-01-01,2026-10-06
-WHLSLRIMSA,Merchant Wholesalers Inventories,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-09-16
+WHLSLRIMSA,Merchant Wholesalers Inventories,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-15
 BOPTEXP,"Exports of Goods and Services, Balance of Payments Basis",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-06
 EXPCH,U.S. Exports of Goods by F.A.S. Basis to Mainland China,Millions of Dollars,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-06
 NETEXC,Real Net Exports of Goods and Services,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
@@ -39,7 +39,7 @@ CBIC1,Change in Real Private Inventories,Billions of Chained 2017 Dollars,Quarte
 A652RC1Q027SBEA,"Imports of goods: Consumer goods, except food and automotive",Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1967-01-01,2026-09-30
 IMP4190,U.S. Imports of Goods by Customs Basis from Ireland,Millions of Dollars,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-06
 IMPJP,U.S. Imports of Goods by Customs Basis from Japan,Millions of Dollars,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-06
-TOTBUSIMNSA,Total Business Inventories,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-09-16
+TOTBUSIMNSA,Total Business Inventories,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-10-15
 IMP0004,U.S. Imports of Goods by Customs Basis from World,Millions of Dollars,Monthly,Seasonally Adjusted,1989-01-01,2026-10-06
 CAUINSA,Canadian Auto Imports,Thousands of Units,Monthly,Not Seasonally Adjusted,1993-01-01,2026-09-30
 ANDENO,Manufacturers' New Orders: Nondefense Capital Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02

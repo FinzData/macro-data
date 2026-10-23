@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-RPSGENAITSIND10,"Generative Artificial Intelligence, Time Savings: Finance and Insurance",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
 PRS85006152,Nonfarm Business Sector: Real Hourly Compensation for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
+RPSGENAITSIND10,"Generative Artificial Intelligence, Time Savings: Finance and Insurance",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
 PRS85006101,Nonfarm Business Sector: Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
 PRS85006151,Nonfarm Business Sector: Real Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
 PRS84006032,Business Sector: Hours Worked for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
-RPSGENAITSIND9,"Generative Artificial Intelligence, Time Savings: Information",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
 PRS30006032,Manufacturing Sector: Hours Worked for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
 PRS84006092,Business Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
 PRS85006102,Nonfarm Business Sector: Hourly Compensation for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
-RPSGENAITSIND5,"Generative Artificial Intelligence, Time Savings: Wholesale Trade",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
 PRS30006151,Manufacturing Sector: Real Hourly Compensation for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 PRS84006162,Business Sector: Output per Worker for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
+PRS85006161,Nonfarm Business Sector: Output per Worker for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
+RPSGENAITSIND4,"Generative Artificial Intelligence, Time Savings: Manufacturing",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20

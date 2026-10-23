@@ -5,7 +5,7 @@ A939RX0Q048SBEA,Real gross domestic product per capita,Chained 2017 Dollars,Quar
 A191RL1Q225SBEA,Real Gross Domestic Product,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 GDPPOT,Real Potential Gross Domestic Product,Billions of Chained 2017 Dollars,Quarterly,Not Seasonally Adjusted,1949-01-01,2026-02-27
 NGDPSAXDCUSQ,Nominal Gross Domestic Product (GDP) for United States,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1950-01-01,2026-09-07
-STLENI,St. Louis Fed Economic News Index: Real GDP Nowcast,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2013-04-01,2026-10-09
+STLENI,St. Louis Fed Economic News Index: Real GDP Nowcast,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2013-04-01,2026-10-16
 CFNAI,Chicago Fed National Activity Index,Index,Monthly,Not Seasonally Adjusted,1967-03-01,2026-09-21
 NGDPRSAXDCCAQ,Real Gross Domestic Product (GDP) for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
 GNP,Gross National Product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
@@ -44,7 +44,7 @@ NGDPSAXDCJPQ,Nominal Gross Domestic Product (GDP) for Japan,Millions of Domestic
 TXRQGSP,Real Gross Domestic Product: All Industry Total in Texas,Millions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 A261RX1Q020SBEA,Real gross domestic income,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 GDPC1CTMLR,"Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Midpoint",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2009-02-18,2026-09-16
-USAGDPRQPSMEI,National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United States,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-15
+USAGDPRQPSMEI,National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United States,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1948-01-01,2026-10-15
 A019RE1Q156NBEA,Shares of gross domestic product: Net exports of goods and services,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
 OB000334Q,Real Gross Domestic Product,Percent Change from Quarter One Year Ago,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-09-30
 A014RY2Q224SBEA,Contributions to percent change in real gross domestic product: Gross private domestic investment: Change in private inventories,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30

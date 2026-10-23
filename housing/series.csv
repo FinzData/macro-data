@@ -1,15 +1,15 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-DCOILBRENTEU,Crude Oil Prices: Brent - Europe,Dollars per Barrel,Daily,Not Seasonally Adjusted,1987-05-20,2026-10-07
-HOUST,New Privately-Owned Housing Units Started: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-17
+DCOILBRENTEU,Crude Oil Prices: Brent - Europe,Dollars per Barrel,Daily,Not Seasonally Adjusted,1987-05-20,2026-10-21
+HOUST,New Privately-Owned Housing Units Started: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-20
 A091RC1Q027SBEA,Federal government current expenditures: Interest payments,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 ACTLISCOUUS,Housing Inventory: Active Listing Count in the United States,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 TLMFGCONS,Total Construction Spending: Manufacturing in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
-PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-24
+PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-10-20
 RHORUSQ156N,Homeownership Rate in the United States,Percent,Quarterly,Not Seasonally Adjusted,1965-01-01,2026-07-28
 MSACSR,Monthly Supply of New Houses in the United States,Months' Supply,Monthly,Seasonally Adjusted,1963-01-01,2026-09-24
 HSN1F,New One Family Houses Sold: United States,Thousands,Monthly,Seasonally Adjusted Annual Rate,1963-01-01,2026-09-24
 FGEXPND,Federal Government: Current Expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-HOUST1F,New Privately-Owned Housing Units Started: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-17
+HOUST1F,New Privately-Owned Housing Units Started: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-20
 TTLCONS,Total Construction Spending: Total Construction in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
 ETOTALUSQ176N,Housing Inventory Estimate: Total Housing Units in the United States,Thousands of Units,Quarterly,Not Seasonally Adjusted,2000-04-01,2026-07-28
 RRVRUSQ156N,Rental Vacancy Rate in the United States,Percent,Quarterly,Not Seasonally Adjusted,1956-01-01,2026-07-28
@@ -19,17 +19,17 @@ IEABC,Balance on current account,Millions of Dollars,Quarterly,Seasonally Adjust
 MEDDAYONMARUS,Housing Inventory: Median Days on Market in the United States,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 TLNRESCONS,Total Construction Spending: Nonresidential in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
 MCOILBRENTEU,Crude Oil Prices: Brent - Europe,Dollars per Barrel,Monthly,Not Seasonally Adjusted,1987-05-01,2026-10-07
-USAUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United States of America",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-09-17
+USAUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United States of America",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-10-15
 ACTLISCOUFL,Housing Inventory: Active Listing Count in Florida,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 TLRESCONS,Total Construction Spending: Residential in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
 B235RC1Q027SBEA,Federal government current tax receipts: Taxes on production and imports: Customs duties,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
-COMPUTSA,New Privately-Owned Housing Units Completed: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1968-01-01,2026-09-17
+COMPUTSA,New Privately-Owned Housing Units Completed: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1968-01-01,2026-10-20
 ROWFDIQ027S,"Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
 FGRECPT,Federal Government Current Receipts,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-HOUST5F,New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-17
+HOUST5F,New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-20
 MEDLISPRIPERSQUFEEUS,Housing Inventory: Median Listing Price per Square Feet in the United States,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-UNDCONTSA,New Privately-Owned Housing Units Under Construction: Total Units,Thousands of Units,Monthly,Seasonally Adjusted,1970-01-01,2026-09-17
-PERMIT1,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-24
+UNDCONTSA,New Privately-Owned Housing Units Under Construction: Total Units,Thousands of Units,Monthly,Seasonally Adjusted,1970-01-01,2026-10-20
+PERMIT1,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-10-20
 HNFSEPUSSA,New One Family Homes for Sale in the United States,Thousands of Units,"Monthly, End of Month",Seasonally Adjusted,1963-01-01,2026-09-24
 TLCOMCONS,Total Construction Spending: Commercial in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
 ACTLISCOU42660,"Housing Inventory: Active Listing Count in Seattle-Tacoma-Bellevue, WA (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
@@ -41,22 +41,22 @@ NETFI,"Balance on Current Account, NIPA's",Billions of Dollars,Quarterly,Seasona
 ACTLISCOU14460,"Housing Inventory: Active Listing Count in Boston-Cambridge-Newton, MA-NH (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU38060,"Housing Inventory: Active Listing Count in Phoenix-Mesa-Scottsdale, AZ (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOUCA,Housing Inventory: Active Listing Count in California,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-RSFHFS,Advance Retail Sales: Furniture and Home Furnishings Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-29
+RSFHFS,Advance Retail Sales: Furniture and Home Furnishings Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-15
 A466RD3Q052SBEA,Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits after tax with IVA and CCAdj (unit profits from current production),Dollars,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-30
 BOGZ1FL893065215Q,"All Sectors; Total Home Equity Lines of Credit; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1990-07-01,2026-09-11
 CABPPRIVSA,New Private Housing Units Authorized by Building Permits for California,Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 ACTLISCOU19100,"Housing Inventory: Active Listing Count in Dallas-Fort Worth-Arlington, TX (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 BOAAAHORUSQ156N,Homeownership Rates by Race and Ethnicity: Black Alone in the United States,Percent,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-07-28
-HOUSTNSA,New Privately-Owned Housing Units Started: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-17
-RHEACBW027SBOG,"Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1987-06-17,2026-10-09
-COMPU1USA,New Privately-Owned Housing Units Completed: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1968-01-01,2026-09-17
+HOUSTNSA,New Privately-Owned Housing Units Started: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-20
+RHEACBW027SBOG,"Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1987-06-17,2026-10-16
+COMPU1USA,New Privately-Owned Housing Units Completed: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1968-01-01,2026-10-20
 EVACANTUSQ176N,Housing Inventory Estimate: Vacant Housing Units in the United States,Thousands of Units,Quarterly,Not Seasonally Adjusted,2000-04-01,2026-07-28
 ACTLISCOU12420,"Housing Inventory: Active Listing Count in Austin-Round Rock, TX (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU29820,"Housing Inventory: Active Listing Count in Las Vegas-Henderson-Paradise, NV (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRIAZ,Housing Inventory: Median Listing Price in Arizona,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRIKS,Housing Inventory: Median Listing Price in Kansas,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRIKY,Housing Inventory: Median Listing Price in Kentucky,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-PERMIT5,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-24
+PERMIT5,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-10-20
 TLPBLCONS,Total Public Construction Spending: Total Construction in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
 ACTLISCOU19740,"Housing Inventory: Active Listing Count in Denver-Aurora-Lakewood, CO (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 PRRESCONS,Total Private Construction Spending: Residential in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
@@ -66,18 +66,18 @@ TLHWYCONS,Total Construction Spending: Highway and Street in the United States,M
 ACTLISCOU12086,"Housing Inventory: Active Listing Count in Miami-Dade County, FL",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU6037,"Housing Inventory: Active Listing Count in Los Angeles County, CA",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU6073,"Housing Inventory: Active Listing Count in San Diego County, CA",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-GACDFSA066MSFRBPHI,Current General Activity; Diffusion Index for Federal Reserve District 3: Philadelphia,Index,Monthly,Seasonally Adjusted,1968-05-01,2026-09-17
+GACDFSA066MSFRBPHI,Current General Activity; Diffusion Index for Federal Reserve District 3: Philadelphia,Index,Monthly,Seasonally Adjusted,1968-05-01,2026-10-15
 MEDLISPRISC,Housing Inventory: Median Listing Price in South Carolina,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 PNRESCONS,Total Private Construction Spending: Nonresidential in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
 VAPGDPFI,"Value Added by Industry: Finance, Insurance, Real Estate, Rental, and Leasing: Finance and Insurance as a Percentage of GDP",Percent,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-09-30
 WCOILBRENTEU,Crude Oil Prices: Brent - Europe,Dollars per Barrel,"Weekly, Ending Friday",Not Seasonally Adjusted,1987-05-15,2026-09-10
 ACTLISCOU26420,"Housing Inventory: Active Listing Count in Houston-the Woodlands-Sugar Land, TX (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU45300,"Housing Inventory: Active Listing Count in Tampa-ST. Petersburg-Clearwater, FL (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-GACDISA066MSFRBNY,Current General Business Conditions; Diffusion Index for New York,Index,Monthly,Seasonally Adjusted,2001-07-01,2026-09-15
+GACDISA066MSFRBNY,Current General Business Conditions; Diffusion Index for New York,Index,Monthly,Seasonally Adjusted,2001-07-01,2026-10-15
 MEDLISPRIUS,Housing Inventory: Median Listing Price in the United States,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 SUBLPDRCSC,Net Percentage of Domestic Banks Tightening Standards for Commercial Real Estate Loans With Construction and Land Development Purposes,Percent,Quarterly,Not Seasonally Adjusted,2013-10-01,2026-08-03
-UNDCON5MUSA,New Privately-Owned Housing Units Under Construction: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted,1970-01-01,2026-09-17
-COMPU5MUSA,New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1968-01-01,2026-09-17
+UNDCON5MUSA,New Privately-Owned Housing Units Under Construction: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted,1970-01-01,2026-10-20
+COMPU5MUSA,New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1968-01-01,2026-10-20
 EOWNOCCUSQ176N,Housing Inventory Estimate: Owner Occupied Housing Units in the United States,Thousands of Units,Quarterly,Not Seasonally Adjusted,2000-04-01,2026-07-28
 MEDLISPRI12420,"Housing Inventory: Median Listing Price in Austin-Round Rock, TX (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 PRMFGCONS,Total Private Construction Spending: Manufacturing in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
@@ -86,13 +86,13 @@ TLMFGCON,Total Construction Spending: Manufacturing in the United States,Million
 A180RC1Q027SBEA,Government current expenditures: Interest payments,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 ACTLISCOU12011,"Housing Inventory: Active Listing Count in Broward County, FL",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU36740,"Housing Inventory: Active Listing Count in Orlando-Kissimmee-Sanford, FL (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-HOUST1FNSA,New Privately-Owned Housing Units Started: Single-Family Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-17
+HOUST1FNSA,New Privately-Owned Housing Units Started: Single-Family Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-20
 RHVRUSQ156N,Homeowner Vacancy Rate in the United States,Percent,Quarterly,Not Seasonally Adjusted,1956-01-01,2026-07-28
 TLOFCONS,Total Construction Spending: Office in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
 A074RC1Q027SBEA,Federal government current tax receipts: Personal current taxes,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 B075RC1Q027SBEA,Federal government current tax receipts: Taxes on corporate income,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 FLBPPRIV,New Private Housing Units Authorized by Building Permits for Florida,Units,Monthly,Not Seasonally Adjusted,1988-01-01,2026-09-24
-MRTSSM442USN,Retail Sales: Furniture and Home Furnishings Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM442USN,Retail Sales: Furniture and Home Furnishings Stores,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-10-15
 SHTSAUS,Total Shipments of New Manufactured Homes: Total Homes in the United States,Thousands,Monthly,Seasonally Adjusted,1959-01-01,2026-10-06
 SLEXPND,State and Local Government Current Expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
 W823RC1,Personal current transfer receipts: Government social benefits to persons: Social security,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
@@ -103,12 +103,12 @@ ACTLISCOU12060,"Housing Inventory: Active Listing Count in Atlanta-Sandy Springs
 ACTLISCOU16980,"Housing Inventory: Active Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOUUT,Housing Inventory: Active Listing Count in Utah,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRIMA,Housing Inventory: Median Listing Price in Massachusetts,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-UNDCON1USA,New Privately-Owned Housing Units Under Construction: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted,1970-01-01,2026-09-17
+UNDCON1USA,New Privately-Owned Housing Units Under Construction: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted,1970-01-01,2026-10-20
 VAPGDPC,Value Added by Industry: Construction as a Percentage of GDP,Percent,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-09-30
 ACTLISCOU16740,"Housing Inventory: Active Listing Count in Charlotte-Concord-Gastonia, NC-SC (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU34980,"Housing Inventory: Active Listing Count in Nashville-Davidson--Murfreesboro--Franklin, TN (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDDAYONMARFL,Housing Inventory: Median Days on Market in Florida,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-MRTSSM442USS,Retail Sales: Furniture and Home Furnishings Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-16
+MRTSSM442USS,Retail Sales: Furniture and Home Furnishings Stores,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-15
 NEWLISCOUNJ,Housing Inventory: New Listing Count in New Jersey,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 SPSNSAUS,Average Sales Price of New Manufactured Homes: Single Homes in the United States,U.S. Dollars,Monthly,Not Seasonally Adjusted,2014-01-01,2026-10-06
 A33CNO,Manufacturers' New Orders: Construction Machinery Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
@@ -122,11 +122,11 @@ ACTLISCOU6059,"Housing Inventory: Active Listing Count in Orange County, CA",Lev
 MEDDAYONMAR19100,"Housing Inventory: Median Days on Market in Dallas-Fort Worth-Arlington, TX (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 B096RC1Q027SBEA,Federal government current expenditures: Subsidies,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 PENLISCOUUS,Housing Inventory: Pending Listing Count in the United States,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-PERMITNSA,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-24
+PERMITNSA,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-20
 TXBPPRIV,New Private Housing Units Authorized by Building Permits for Texas,Units,Monthly,Not Seasonally Adjusted,1988-01-01,2026-09-24
 ACTLISCOUCO,Housing Inventory: Active Listing Count in Colorado,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOUMA,Housing Inventory: Active Listing Count in Massachusetts,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-CLDACBW027SBOG,"Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2015-01-07,2026-10-09
+CLDACBW027SBOG,"Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2015-01-07,2026-10-16
 MEDLISPRI41940,"Housing Inventory: Median Listing Price in San Jose-Sunnyvale-Santa Clara, CA (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 USCONSTRQGSP,Real Gross Domestic Product: Construction (23) in the United States,Millions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 ACTLISCOU41860,"Housing Inventory: Active Listing Count in San Francisco-Oakland-Hayward, CA (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
@@ -143,7 +143,7 @@ W070RC1Q027SBEA,State and local government current tax receipts,Billions of Doll
 A084RC1Q027SBEA,Government current transfer payments,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 ACTLISCOU39580,"Housing Inventory: Active Listing Count in Raleigh, NC (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOU47900,"Housing Inventory: Active Listing Count in Washington-Arlington-Alexandria, DC-VA-MD-WV (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-FLUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-09-17
+FLUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-10-15
 MEDLISPRI38060,"Housing Inventory: Median Listing Price in Phoenix-Mesa-Scottsdale, AZ (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRITX,Housing Inventory: Median Listing Price in Texas,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 NCBPPRIVSA,New Private Housing Units Authorized by Building Permits for North Carolina,Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
@@ -164,7 +164,7 @@ BACTSAMFRBDAL,Current General Business Activity; Diffusion Index for Texas,Index
 COMPSFLAM1FQ,"New Privately Owned Housing Completions in the United States, Median Square Feet of Floor Area for One-Family Units",Square Feet,Quarterly,Seasonally Adjusted,1987-01-01,2026-08-21
 DALL148BPPRIVSA,"New Private Housing Units Authorized by Building Permits for Dallas-Fort Worth-Arlington, TX (MSA)",Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 FLBPPRIVSA,New Private Housing Units Authorized by Building Permits for Florida,Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
-HOUST5FNSA,New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Not Seasonally Adjusted,1963-08-01,2026-09-17
+HOUST5FNSA,New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More,Thousands of Units,Monthly,Not Seasonally Adjusted,1963-08-01,2026-10-20
 MEDDAYONMAR38060,"Housing Inventory: Median Days on Market in Phoenix-Mesa-Scottsdale, AZ (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRI36740,"Housing Inventory: Median Listing Price in Orlando-Kissimmee-Sanford, FL (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 NEWLISCOUUS,Housing Inventory: New Listing Count in the United States,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
@@ -180,7 +180,7 @@ NHFSEPUCS,"New Houses for Sale by Stage of Construction, Under Construction",Tho
 PBHWYCONS,Total Public Construction Spending: Highway and Street in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
 PHOE004BP1FH,"New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Phoenix-Mesa-Chandler, AZ (MSA)",Units,Monthly,Not Seasonally Adjusted,1988-01-01,2026-09-24
 PIECTR,Real personal income excluding current transfer receipts,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-PPCDISA066MSFRBNY,Current Prices Paid; Diffusion Index for New York,Index,Monthly,Seasonally Adjusted,2001-07-01,2026-09-15
+PPCDISA066MSFRBNY,Current Prices Paid; Diffusion Index for New York,Index,Monthly,Seasonally Adjusted,2001-07-01,2026-10-15
 TOTLISCOU53033,"Housing Inventory: Total Listing Count in King County, WA",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 WABPPRIVSA,New Private Housing Units Authorized by Building Permits for Washington,Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 ACTLISCOU33460,"Housing Inventory: Active Listing Count in Minneapolis-ST. Paul-Bloomington, MN-WI (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
@@ -195,7 +195,7 @@ ROWFDNQ027S,"Rest of the World; Foreign Direct Investment in U.S.; Asset (Curren
 ACTLISCOU18140,"Housing Inventory: Active Listing Count in Columbus, OH (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOUMM42660,"Housing Inventory: Active Listing Count Month-Over-Month in Seattle-Tacoma-Bellevue, WA (CBSA)",Percent,Monthly,Not Seasonally Adjusted,2017-07-01,2026-10-01
 AZBPPRIV,New Private Housing Units Authorized by Building Permits for Arizona,Units,Monthly,Not Seasonally Adjusted,1988-01-01,2026-09-24
-COMPUTNSA,New Privately-Owned Housing Units Completed: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1968-01-01,2026-09-17
+COMPUTNSA,New Privately-Owned Housing Units Completed: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1968-01-01,2026-10-20
 HOUSTS,New Privately-Owned Housing Units Started: Total Units in the South Census Region,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-17
 MEDDAYONMAR42660,"Housing Inventory: Median Days on Market in Seattle-Tacoma-Bellevue, WA (CBSA)",Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDDAYONMARNJ,Housing Inventory: Median Days on Market in New Jersey,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
@@ -203,11 +203,11 @@ MEDLISPRI19740,"Housing Inventory: Median Listing Price in Denver-Aurora-Lakewoo
 MEDLISPRI45300,"Housing Inventory: Median Listing Price in Tampa-ST. Petersburg-Clearwater, FL (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRINC,Housing Inventory: Median Listing Price in North Carolina,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 NA000327Q,Federal government current tax receipts,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
-PPCDFSA066MSFRBPHI,Current Prices Paid; Diffusion Index for Federal Reserve District 3: Philadelphia,Index,Monthly,Seasonally Adjusted,1968-05-01,2026-09-17
+PPCDFSA066MSFRBPHI,Current Prices Paid; Diffusion Index for Federal Reserve District 3: Philadelphia,Index,Monthly,Seasonally Adjusted,1968-05-01,2026-10-15
 PROFCONS,Total Private Construction Spending: Office in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
 SEAT653BPPRIVSA,"New Private Housing Units Authorized by Building Permits for Seattle-Tacoma-Bellevue, WA (MSA)",Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 TTLCON,Total Construction Spending: Total Construction in the United States,Millions of Dollars,Monthly,Not Seasonally Adjusted,1993-01-01,2026-10-01
-UNDCONTNSA,New Privately-Owned Housing Units Under Construction: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1969-12-01,2026-09-17
+UNDCONTNSA,New Privately-Owned Housing Units Under Construction: Total Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1969-12-01,2026-10-20
 UTBPPRIV,New Private Housing Units Authorized by Building Permits for Utah,Units,Monthly,Not Seasonally Adjusted,1988-01-01,2026-09-24
 W055RC1,Personal current taxes,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 W824RC1,Personal current transfer receipts: Government social benefits to persons: Medicare,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1966-07-01,2026-09-30
@@ -219,13 +219,13 @@ ACTLISCOUOH,Housing Inventory: Active Listing Count in Ohio,Level,Monthly,Not Se
 ACTLISCOUPA,Housing Inventory: Active Listing Count in Pennsylvania,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ACTLISCOUSC,Housing Inventory: Active Listing Count in South Carolina,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 AVELISPRINJ,Housing Inventory: Average Listing Price in New Jersey,U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
-CAUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-09-17
-IPB54100S,Industrial Production: Construction Supplies,Index 2017=100,Monthly,Seasonally Adjusted,1947-01-01,2026-09-18
+CAUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-10-15
+IPB54100S,Industrial Production: Construction Supplies,Index 2017=100,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
 LOSA106BPPRIVSA,"New Private Housing Structures Authorized by Building Permits for Los Angeles-Long Beach-Anaheim, CA (MSA)",Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 MEDLISPRI14460,"Housing Inventory: Median Listing Price in Boston-Cambridge-Newton, MA-NH (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 MEDLISPRI42660,"Housing Inventory: Median Listing Price in Seattle-Tacoma-Bellevue, WA (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 NHSDPCS,"New Houses Sold by Stage of Construction, Completed",Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1999-01-01,2026-09-24
-PERMIT1NSA,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-24
+PERMIT1NSA,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units,Thousands of Units,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-20
 PHOE004BPPRIVSA,"New Private Housing Structures Authorized by Building Permits for Phoenix-Mesa-Chandler, AZ (MSA)",Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 PNRESCON,Total Private Construction Spending: Nonresidential in the United States,Millions of Dollars,Monthly,Not Seasonally Adjusted,1993-01-01,2026-10-01
 R4232IM163NCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings Inventories/Sales Ratio",Ratio,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-10
@@ -237,7 +237,7 @@ ATLA013BPPRIVSA,"New Private Housing Structures Authorized by Building Permits f
 BOGZ1FA893065215Q,"All Sectors; Total Home Equity Lines of Credit; Asset, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1990-10-01,2026-09-11
 MEDLISPRIPERSQUFEE12420,"Housing Inventory: Median Listing Price per Square Feet in Austin-Round Rock, TX (CBSA)",U.S. Dollars,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 NHFSEPNTS,"New Houses for Sale by Stage of Construction, Not Started",Thousands of Units,Monthly,Seasonally Adjusted,1999-01-01,2026-09-24
-PERMIT24,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-24
+PERMIT24,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-10-20
 PRCOMCONS,Total Private Construction Spending: Commercial in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01
 PRIREDCOUUS,Housing Inventory: Price Reduced Count in the United States,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 TLWSCON,Total Construction Spending: Water Supply in the United States,Millions of Dollars,Monthly,Not Seasonally Adjusted,2002-01-01,2026-10-01
@@ -262,7 +262,7 @@ MNMFS,Median Number of Months on Sales Market for Newly Completed Homes,Months,M
 NEWLISCOUMI,Housing Inventory: New Listing Count in Michigan,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 ORBPPRIVSA,New Private Housing Units Authorized by Building Permits for Oregon,Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
 TXBP1FHSA,New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texas,Units,Monthly,Seasonally Adjusted,1988-01-01,2026-09-24
-TXUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-09-17
+TXUCSFRCONDOSMSAMID,"Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas",Dollars,Monthly,Smoothed Seasonally Adjusted,2000-01-01,2026-10-15
 VAPGDPT,Value Added by Industry: Transportation and Warehousing as a Percentage of GDP,Percent,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-09-30
 W729RC1,Personal current transfer receipts: Government social benefits to persons: Medicaid,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1966-01-01,2026-09-30
 ESALEUSQ176N,Housing Inventory Estimate: Vacant Housing Units for Sale in the United States,Thousands of Units,Quarterly,Not Seasonally Adjusted,2000-04-01,2026-07-28

@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-DCOILBRENTEU,Crude Oil Prices: Brent - Europe,Dollars per Barrel,Daily,Not Seasonally Adjusted,1987-05-20,2026-10-07
-HOUST,New Privately-Owned Housing Units Started: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-17
+DCOILBRENTEU,Crude Oil Prices: Brent - Europe,Dollars per Barrel,Daily,Not Seasonally Adjusted,1987-05-20,2026-10-21
+HOUST,New Privately-Owned Housing Units Started: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-20
 A091RC1Q027SBEA,Federal government current expenditures: Interest payments,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 ACTLISCOUUS,Housing Inventory: Active Listing Count in the United States,Level,Monthly,Not Seasonally Adjusted,2016-07-01,2026-10-01
 TLMFGCONS,Total Construction Spending: Manufacturing in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
-PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-09-24
+PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1960-01-01,2026-10-20
 RHORUSQ156N,Homeownership Rate in the United States,Percent,Quarterly,Not Seasonally Adjusted,1965-01-01,2026-07-28
 MSACSR,Monthly Supply of New Houses in the United States,Months' Supply,Monthly,Seasonally Adjusted,1963-01-01,2026-09-24
 HSN1F,New One Family Houses Sold: United States,Thousands,Monthly,Seasonally Adjusted Annual Rate,1963-01-01,2026-09-24
 FGEXPND,Federal Government: Current Expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-HOUST1F,New Privately-Owned Housing Units Started: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-17
+HOUST1F,New Privately-Owned Housing Units Started: Single-Family Units,Thousands of Units,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-20
 TTLCONS,Total Construction Spending: Total Construction in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1993-01-01,2026-10-01

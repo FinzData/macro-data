@@ -2,13 +2,13 @@ id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 UNRATE,Unemployment Rate,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 PAYEMS,"All Employees, Total Nonfarm",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 CIVPART,Labor Force Participation Rate,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
-ICSA,Initial Claims,Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-07,2026-10-08
+ICSA,Initial Claims,Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-07,2026-10-22
+LES1252881600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-10-21
 CES0500000003,"Average Hourly Earnings of All Employees, Total Private",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
-LES1252881600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-07-21
 JTSJOL,Job Openings: Total Nonfarm,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 MANEMP,"All Employees, Manufacturing",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 U6RATE,"Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)",Percent,Monthly,Seasonally Adjusted,1994-01-01,2026-10-02
-CCSA,Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-07,2026-10-08
+CCSA,Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-07,2026-10-22
 LNS11300060,Labor Force Participation Rate - 25-54 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 OPHNFB,Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-08-06
 ECIWAG,Employment Cost Index: Wages and Salaries: Private Industry Workers,Index Dec 2005=100,Quarterly,Seasonally Adjusted,1980-01-01,2026-07-31
@@ -21,7 +21,7 @@ UNEMPLOY,Unemployment Level,Thousands of Persons,Monthly,Seasonally Adjusted,194
 CE16OV,Employment Level,Thousands of Persons,Monthly,Seasonally Adjusted,1947-07-01,2026-10-02
 LNS14000006,Unemployment Rate - Black or African American,Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
 LNS14024887,Unemployment Rate - 16-24 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
-IC4WSA,4-Week Moving Average of Initial Claims,Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-28,2026-10-08
+IC4WSA,4-Week Moving Average of Initial Claims,Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-28,2026-10-22
 AHETPI,"Average Hourly Earnings of Production and Nonsupervisory Employees, Total Private",Dollars per Hour,Monthly,Seasonally Adjusted,1964-01-01,2026-10-02
 CES9091000001,"All Employees, Federal",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 LNS11300002,Labor Force Participation Rate - Women,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
@@ -30,11 +30,11 @@ LNS12300060,Employment-Population Ratio - 25-54 Yrs.,Percent,Monthly,Seasonally 
 AWHAETP,"Average Weekly Hours of All Employees, Total Private",Hours,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 JTSHIR,Hires: Total Nonfarm,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTSQUR,Quits: Total Nonfarm,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LES1252881500Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: 16 years and over,Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-07-21
 LNS11300001,Labor Force Participation Rate - Men,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 ADPWNUSNERSA,Total Nonfarm Private Payroll Employment,Persons,Weekly,Seasonally Adjusted,2010-01-02,2026-09-30
-CAUR,Unemployment Rate in California,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+CAUR,Unemployment Rate in California,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 USPRIV,"All Employees, Total Private",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
+LES1252881500Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: 16 years and over,Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-10-21
 STTMINWGFG,Federal Minimum Wage Rate under the Federal Fair Labor Standards Act,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 UEMPLT5,Number Unemployed for Less Than 5 Weeks,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 ECIALLCIV,Employment Cost Index: Total compensation: All Civilian,Index Dec 2005=100,Quarterly,Seasonally Adjusted,2001-01-01,2026-07-31
@@ -44,11 +44,11 @@ PRS85006173,Nonfarm Business Sector: Labor Share for All Workers,Index 2017=100,
 USGOVT,"All Employees, Government",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 CES6054150001,"All Employees, Computer Systems Design and Related Services",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 PRS85006091,Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
-TXUR,Unemployment Rate in Texas,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+TXUR,Unemployment Rate in Texas,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 UEMP15OV,Number Unemployed for 15 Weeks & over,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 UNRATENSA,Unemployment Rate,Percent,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 HOANBS,Nonfarm Business Sector: Hours Worked for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
-IRSTCI01JPM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Japan,Percent,Monthly,Not Seasonally Adjusted,1985-07-01,2026-09-15
+IRSTCI01JPM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Japan,Percent,Monthly,Not Seasonally Adjusted,1985-07-01,2026-10-15
 JTSHIL,Hires: Total Nonfarm,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 LNS11324230,Labor Force Participation Rate - 55 Yrs. & over,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 STTMINWGCA,State Minimum Wage Rate for California,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
@@ -59,45 +59,45 @@ UEMP15T26,Number Unemployed for 15-26 Weeks,Thousands of Persons,Monthly,Seasona
 UEMPMEAN,Average Weeks Unemployed,Weeks,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 CES2023610001,"All Employees, Residential Building Construction",Thousands of Persons,Monthly,Seasonally Adjusted,1985-01-01,2026-10-02
 CES3000000008,"Average Hourly Earnings of Production and Nonsupervisory Employees, Manufacturing",Dollars per Hour,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
-ICNSA,Initial Claims,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1967-01-07,2026-10-08
+ICNSA,Initial Claims,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1967-01-07,2026-10-22
 LNS11300012,Labor Force Participation Rate - 16-19 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS14000024,Unemployment Rate - 20 Yrs. & over,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS15000000,Not in Labor Force,Thousands of Persons,Monthly,Seasonally Adjusted,1975-01-01,2026-10-02
-RESPPLLOPNWW,Liabilities and Capital: Liabilities: Earnings Remittances Due to the U.S. Treasury: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
+RESPPLLOPNWW,Liabilities and Capital: Liabilities: Earnings Remittances Due to the U.S. Treasury: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 UEMP5TO14,Number Unemployed for 5-14 Weeks,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 AWHNONAG,"Average Weekly Hours of Production and Nonsupervisory Employees, Total Private",Hours,Monthly,Seasonally Adjusted,1964-01-01,2026-10-02
-CC4WSA,4-Week Moving Average of Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-28,2026-10-08
+CC4WSA,4-Week Moving Average of Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Seasonally Adjusted,1967-01-28,2026-10-22
 CES0500000011,"Average Weekly Earnings of All Employees, Total Private",Dollars per Week,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 ECICONWAG,Employment Cost Index: Wages and Salaries: Private Industry Workers: Construction,Index Dec 2005=100,Quarterly,Seasonally Adjusted,2001-01-01,2026-07-31
 JTSJOR,Job Openings: Total Nonfarm,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 LFWA64TTUSM647S,Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States,Persons,Monthly,Seasonally Adjusted,1977-01-01,2026-08-17
-ALURN,Unemployment Rate in Alabama,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+ALURN,Unemployment Rate in Alabama,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 CIU2023211000000I,Employment Cost Index: Wages and salaries for Private industry workers in Aircraft manufacturing,Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
-FLUR,Unemployment Rate in Florida,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+FLUR,Unemployment Rate in Florida,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 LNU02073395,Employment Level - Foreign Born,Thousands of Persons,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
-NYUR,Unemployment Rate in New York,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+NYUR,Unemployment Rate in New York,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 PAYNSA,"All Employees, Total Nonfarm",Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
 CGBD2534,"Unemployment Rate - College Graduates - Bachelor's Degree, 25 to 34 years",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
 FEDMINNFRWG,Federal Minimum Hourly Wage for Nonfarm Workers for the United States,Dollars per Hour,Monthly,Not Seasonally Adjusted,1938-10-01,2026-09-30
 FRBATLWGT3MMAUMHWGO,3-Month Moving Average of Unweighted Median Hourly Wage Growth: Overall,Percent Change from Year Ago,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-09
 CES2000000003,"Average Hourly Earnings of All Employees, Construction",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
-LBSNSA01,Labor Force Participation Rate for Alabama,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+LBSNSA01,Labor Force Participation Rate for Alabama,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 OPHMFG,Manufacturing Sector: Labor Productivity (Output per Hour) for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1949-01-01,2026-09-03
 PRS85006092,Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
 ULCNFB,Nonfarm Business Sector: Unit Labor Costs for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 ADPMNUSNERSA,Total Nonfarm Private Payroll Employment,Persons,Monthly,Seasonally Adjusted,2010-01-01,2026-09-30
-ALUR,Unemployment Rate in Alabama,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+ALUR,Unemployment Rate in Alabama,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 CES4348400001,"All Employees, Truck Transportation",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
-LES1252881900Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Men,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-07-21
-LRUN64TTJPM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan,Percent,Monthly,Seasonally Adjusted,1970-01-01,2026-09-15
+LRUN64TTJPM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan,Percent,Monthly,Seasonally Adjusted,1970-01-01,2026-10-15
 JTS2300JOL,Job Openings: Construction,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTS3000JOL,Job Openings: Manufacturing,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 LNS14000036,Unemployment Rate - 20-24 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS14027662,"Unemployment Rate - Bachelor's Degree and Higher, 25 Yrs. & over",Percent,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
 USPBS,"All Employees, Professional and Business Services",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
-ALNAN,All Employees: Total Nonfarm in Alabama,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-09-18
+ALNAN,All Employees: Total Nonfarm in Alabama,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-20
 CEU3100000008,"Average Hourly Earnings of Production and Nonsupervisory Employees, Durable Goods",Dollars per Hour,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
-GAURN,Unemployment Rate in Georgia,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+GAURN,Unemployment Rate in Georgia,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+LES1252881900Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Men,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-10-21
 LNS11300036,Labor Force Participation Rate - 20-24 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS14000003,Unemployment Rate - White,Percent,Monthly,Seasonally Adjusted,1954-01-01,2026-10-02
 LNS14000009,Unemployment Rate - Hispanic or Latino,Percent,Monthly,Seasonally Adjusted,1973-03-01,2026-10-02
@@ -111,7 +111,6 @@ AWOTMAN,"Average Weekly Overtime Hours of Production and Nonsupervisory Employee
 CALOSA7URN,"Unemployment Rate in Los Angeles County, CA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 CES1021210001,"All Employees, Coal Mining",Thousands of Persons,Monthly,Seasonally Adjusted,1985-01-01,2026-10-02
 CIU2013000000000I,Employment Cost Index: Total compensation for Private industry workers in Manufacturing,Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
-LEU0252918500Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Bachelor's degree and higher: 25 years and over,Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-07-21
 LNS14000002,Unemployment Rate - Women,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 U5RATE,"Total Unemployed, Plus Discouraged Workers, Plus All Other Persons Marginally Attached to the Labor Force, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-5)",Percent,Monthly,Seasonally Adjusted,1994-01-01,2026-10-02
 ULCMFG,Manufacturing Sector: Unit Labor Costs for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1949-01-01,2026-09-03
@@ -121,7 +120,7 @@ CGBD2024,"Unemployment Rate - College Graduates - Bachelor's Degree, 20 to 24 ye
 FRBKCLMCILA,"KC Fed Labor Market Conditions Index, Level of Activity Indicator",Index,Monthly,Seasonally Adjusted,1992-01-01,2026-10-06
 LNU01073395,Civilian Labor Force Level - Foreign Born,Thousands of Persons,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
 LRUNTTTTCAM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada,Percent,Monthly,Seasonally Adjusted,1955-01-01,2026-09-15
-SMU01000000500000003,Average Hourly Earnings of All Employees: Total Private in Alabama,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+SMU01000000500000003,Average Hourly Earnings of All Employees: Total Private in Alabama,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 STTMINWGOH,State Minimum Wage Rate for Ohio,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 U2RATE,Unemployment Rate - Job Losers (U-2),Percent,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
 CES1021100001,"All Employees, Oil and Gas Extraction",Thousands of Persons,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
@@ -130,71 +129,72 @@ CIU2010000000000I,Employment Cost Index: Total compensation for Private industry
 LNS13026638,Unemployment Level - Permanent Job Losers,Thousands of Persons,Monthly,Seasonally Adjusted,1994-01-01,2026-10-02
 LNU01074597,"Civilian Labor Force - With a Disability, 16 Years and over",Thousands of Persons,Monthly,Not Seasonally Adjusted,2008-06-01,2026-10-02
 LNU02073413,Employment Level - Native Born,Thousands of Persons,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
-OHUR,Unemployment Rate in Ohio,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+OHUR,Unemployment Rate in Ohio,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 UEMPMED,Median Weeks Unemployed,Weeks,Monthly,Seasonally Adjusted,1967-07-01,2026-10-02
 USLAH,"All Employees, Leisure and Hospitality",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
-ALMFGN,All Employees: Manufacturing in Alabama,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
-GANAN,All Employees: Total Nonfarm in Georgia,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-09-18
-LANAN,All Employees: Total Nonfarm in Louisiana,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-09-18
-LAURN,Unemployment Rate in Louisiana,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+ALMFGN,All Employees: Manufacturing in Alabama,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-20
+GANAN,All Employees: Total Nonfarm in Georgia,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-20
+LANAN,All Employees: Total Nonfarm in Louisiana,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-20
+LAURN,Unemployment Rate in Louisiana,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 LNS14000001,Unemployment Rate - Men,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS14027660,"Unemployment Rate - High School Graduates, No College, 25 Yrs. & over",Percent,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
 LNU05026642,"Not in Labor Force - Want a Job Now, Marginally Attached (Searched for Work in Previous Year, Available to Work Now)",Thousands of Persons,Monthly,Not Seasonally Adjusted,1994-01-01,2026-10-02
-MIUR,Unemployment Rate in Michigan,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-MSURN,Unemployment Rate in Mississippi,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-PAUR,Unemployment Rate in Pennsylvania,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+MIUR,Unemployment Rate in Michigan,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+MSURN,Unemployment Rate in Mississippi,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+PAUR,Unemployment Rate in Pennsylvania,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 STTMINWGMA,State Minimum Wage Rate for Massachusetts,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 USFIRE,"All Employees, Financial Activities",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 ECIMANWAG,Employment Cost Index: Wages and Salaries: Private Industry Workers: Manufacturing,Index Dec 2005=100,Quarterly,Seasonally Adjusted,2001-01-01,2026-07-31
 FRBATLWGTUMHWGO,Unweighted Median Hourly Wage Growth: Overall,Percent Change from Year Ago,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-09
-GAUR,Unemployment Rate in Georgia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LBSNSA13,Labor Force Participation Rate for Georgia,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-LBSNSA22,Labor Force Participation Rate for Louisiana,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-LBSNSA28,Labor Force Participation Rate for Mississippi,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+GAUR,Unemployment Rate in Georgia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LBSNSA13,Labor Force Participation Rate for Georgia,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+LBSNSA22,Labor Force Participation Rate for Louisiana,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+LBSNSA28,Labor Force Participation Rate for Mississippi,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 LNS14000012,Unemployment Rate - 16-19 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
-MOUR,Unemployment Rate in Missouri,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-MSNAN,All Employees: Total Nonfarm in Mississippi,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-09-18
-SMU01000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Alabama,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+MOUR,Unemployment Rate in Missouri,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+MSNAN,All Employees: Total Nonfarm in Mississippi,Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-20
+SMU01000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Alabama,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 USTRADE,"All Employees, Retail Trade",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
-CCNSA,Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1967-01-07,2026-10-08
+CCNSA,Continued Claims (Insured Unemployment),Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1967-01-07,2026-10-22
 LNU02026620,Multiple Jobholders as a Percent of Employed,Percent,Monthly,Not Seasonally Adjusted,1994-01-01,2026-10-02
-LRHUTTTTJPM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Japan,Percent,Monthly,Seasonally Adjusted,1955-01-01,2026-09-15
-VAUR,Unemployment Rate in Virginia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LRHUTTTTJPM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Japan,Percent,Monthly,Seasonally Adjusted,1955-01-01,2026-10-15
+VAUR,Unemployment Rate in Virginia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 AWHAEMAN,"Average Weekly Hours of All Employees, Manufacturing",Hours,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 CGRA2024,"Unemployment Rate - College Graduates - Bachelor's Degree and Higher, 20 to 24 years",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
-FLURN,Unemployment Rate in Florida,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-LAUR,Unemployment Rate in Louisiana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+FLURN,Unemployment Rate in Florida,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+LAUR,Unemployment Rate in Louisiana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LEU0252918500Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Bachelor's degree and higher: 25 years and over,Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-10-21
 LNS12600000,"Employed, Usually Work Part Time",Thousands of Persons,Monthly,Seasonally Adjusted,1968-01-01,2026-10-02
 LREM64TTUSM156S,Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States,Percent,Monthly,Seasonally Adjusted,1977-01-01,2026-08-17
-MAUR,Unemployment Rate in Massachusetts,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+MAUR,Unemployment Rate in Massachusetts,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 STTMINWGMI,State Minimum Wage Rate for Michigan,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 UNRATEMD,"FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median",Percent,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
-ILUR,Unemployment Rate in Illinois,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+ILUR,Unemployment Rate in Illinois,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 LNS12034560,Employment Level - Agriculture and Related Industries,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNU04032231,"Unemployment Rate - Construction Industry, Private Wage and Salary Workers",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
-LRAC64TTJPQ156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: From 15 to 64 Years for Japan,Percent,Quarterly,Seasonally Adjusted,1970-01-01,2026-09-15
-SMU13000000500000003,Average Hourly Earnings of All Employees: Total Private in Georgia,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+LRAC64TTJPQ156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: From 15 to 64 Years for Japan,Percent,Quarterly,Seasonally Adjusted,1970-01-01,2026-10-15
+SMU13000000500000003,Average Hourly Earnings of All Employees: Total Private in Georgia,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 STTMINWGTX,State Minimum Wage Rate for Texas,Dollars per Hour,Annual,Not Seasonally Adjusted,1972-01-01,2026-01-01
-WIUR,Unemployment Rate in Wisconsin,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-ALNA,All Employees: Total Nonfarm in Alabama,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-CANA,All Employees: Total Nonfarm in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+WIUR,Unemployment Rate in Wisconsin,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+ALNA,All Employees: Total Nonfarm in Alabama,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+CANA,All Employees: Total Nonfarm in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 JTS540099JOL,Job Openings: Professional and Business Services,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LFWA64TTJPM647S,Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan,Persons,Monthly,Seasonally Adjusted,1970-01-01,2026-09-15
+LFWA64TTJPM647S,Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan,Persons,Monthly,Seasonally Adjusted,1970-01-01,2026-10-15
 LNU01375379,"Labor Force Participation Rate - With No Disability, 65 Years and over",Percent,Monthly,Not Seasonally Adjusted,2008-06-01,2026-10-02
-ORUR,Unemployment Rate in Oregon,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+ORUR,Unemployment Rate in Oregon,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 STTMINWGAZ,State Minimum Wage Rate for Arizona,Dollars per Hour,Annual,Not Seasonally Adjusted,2007-01-01,2026-01-01
 STTMINWGNJ,State Minimum Wage Rate for New Jersey,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 STTMINWGPA,State Minimum Wage Rate for Pennsylvania,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
-TNUR,Unemployment Rate in Tennessee,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+TNUR,Unemployment Rate in Tennessee,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 COE,"National Income: Compensation of Employees, Paid",Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
 FRBATLWGT12MMAWMHWGO,12-Month Moving Average of Weighted Median Hourly Wage Growth: Overall,Percent Change from Year Ago,Monthly,Not Seasonally Adjusted,1997-12-01,2026-10-09
-GAMFGN,All Employees: Manufacturing in Georgia,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
-IURSA,Insured Unemployment Rate,Percent,"Weekly, Ending Saturday",Seasonally Adjusted,1971-01-02,2026-10-08
+GAMFGN,All Employees: Manufacturing in Georgia,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-20
+IURSA,Insured Unemployment Rate,Percent,"Weekly, Ending Saturday",Seasonally Adjusted,1971-01-02,2026-10-22
 LNS11300006,Labor Force Participation Rate - Black or African American,Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
 LNS14000060,Unemployment Rate - 25-54 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
-LRHUTTTTDEM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Germany,Percent,Monthly,Seasonally Adjusted,1991-01-01,2026-09-15
+LRHUTTTTDEM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Germany,Percent,Monthly,Seasonally Adjusted,1991-01-01,2026-10-15
 PRS84006091,Business Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
-SMU13000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Georgia,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+SMU13000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Georgia,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 U1RATE,Percent of Civilian Labor Force Unemployed 15 Weeks and over (U-1),Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 USGOOD,"All Employees, Goods-Producing",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 A4102C1Q027SBEA,"Gross domestic income: Compensation of employees, paid: Wages and salaries",Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
@@ -203,31 +203,31 @@ CES4300000001,"All Employees, Transportation and Warehousing",Thousands of Perso
 CES9093000001,"All Employees, Local Government",Thousands of Persons,Monthly,Seasonally Adjusted,1955-01-01,2026-10-02
 LNS14000031,"Unemployment Rate - 20 Yrs. & over, Black or African American Men",Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
 LNS14000032,"Unemployment Rate - 20 Yrs. & over, Black or African American Women",Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
-LRHUTTTTGBM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for United Kingdom,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-09-15
+LRHUTTTTGBM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for United Kingdom,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-10-15
 NILFWJN,Not in Labor Force - Want a Job Now,Thousands of Persons,Monthly,Seasonally Adjusted,1994-01-01,2026-10-02
-NJUR,Unemployment Rate in New Jersey,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-SMU28000000500000003,Average Hourly Earnings of All Employees: Total Private in Mississippi,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+NJUR,Unemployment Rate in New Jersey,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+SMU28000000500000003,Average Hourly Earnings of All Employees: Total Private in Mississippi,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 USEHS,"All Employees, Private Education and Health Services",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
-CAICLAIMS,Initial Claims in California,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-08,2026-10-09
+CAICLAIMS,Initial Claims in California,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-08,2026-10-16
 CES9092000001,"All Employees, State Government",Thousands of Persons,Monthly,Seasonally Adjusted,1955-01-01,2026-10-02
-COUR,Unemployment Rate in Colorado,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LAMFGN,All Employees: Manufacturing in Louisiana,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
+COUR,Unemployment Rate in Colorado,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LAMFGN,All Employees: Manufacturing in Louisiana,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-20
 LNU01300002,Labor Force Participation Rate - Women,Percent,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 LNU02000000,Employment Level,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 LNU05000000,Not in Labor Force,Thousands of Persons,Monthly,Not Seasonally Adjusted,1975-01-01,2026-10-02
-MSUR,Unemployment Rate in Mississippi,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-SMU22000000500000003,Average Hourly Earnings of All Employees: Total Private in Louisiana,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+MSUR,Unemployment Rate in Mississippi,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+SMU22000000500000003,Average Hourly Earnings of All Employees: Total Private in Louisiana,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 STTMINWGNY,State Minimum Wage Rate for New York,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
-WAUR,Unemployment Rate in Washington,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+WAUR,Unemployment Rate in Washington,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 FLMIAM6URN,"Unemployment Rate in Miami-Dade County, FL",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 LNS14027659,"Unemployment Rate - Less Than a High School Diploma, 25 Yrs. & over",Percent,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
 LNU01373395,Labor Force Participation Rate - Foreign Born,Percent,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
 LNU01373413,Labor Force Participation Rate - Native Born,Percent,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
 LNU04073413,Unemployment Rate - Native Born,Percent,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
 LRUN64TTJPQ156S,Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan,Percent,Quarterly,Seasonally Adjusted,1970-01-01,2026-08-17
-MNUR,Unemployment Rate in Minnesota,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-MSMFG,All Employees: Manufacturing in Mississippi,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-MSMFGN,All Employees: Manufacturing in Mississippi,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-18
+MNUR,Unemployment Rate in Minnesota,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+MSMFG,All Employees: Manufacturing in Mississippi,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+MSMFGN,All Employees: Manufacturing in Mississippi,Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-20
 PRS84006173,Business Sector: Labor Share for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 SEAT653URN,"Unemployment Rate in Seattle-Tacoma-Bellevue, WA (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 SRVPRD,"All Employees, Service-Providing",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
@@ -238,66 +238,68 @@ CES4349300001,"All Employees, Warehousing and Storage",Thousands of Persons,Mont
 CES7000000003,"Average Hourly Earnings of All Employees, Leisure and Hospitality",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 CEU3000000001,"All Employees, Manufacturing",Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
 CIU2015400000000I,"Employment Cost Index: Total compensation for Private industry workers in Professional, scientific, and technical services",Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
-KYURN,Unemployment Rate in Kentucky,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+KYURN,Unemployment Rate in Kentucky,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 LNS11327662,"Labor Force Participation Rate - Bachelor's Degree and Higher, 25 Yrs. & over",Percent,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
 LNS13023653,Unemployment Level - Job Losers on Layoff,Thousands of Persons,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
 LNS17100000,Labor Force Flows Unemployed to Employed,Thousands of Persons,Monthly,Seasonally Adjusted,1990-02-01,2026-10-02
 LNU01300000,Labor Force Participation Rate,Percent,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 LNU04032232,"Unemployment Rate - Manufacturing Industry, Private Wage and Salary Workers",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
 LNU05026645,"Not in Labor Force - Want a Job Now, Marginally Attached, Discouraged Workers",Thousands of Persons,Monthly,Not Seasonally Adjusted,1994-01-01,2026-10-02
-LRUN64TTZAQ156S,Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for South Africa,Percent,Quarterly,Seasonally Adjusted,2000-07-01,2026-07-16
-NCUR,Unemployment Rate in North Carolina,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-NVUR,Unemployment Rate in Nevada,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-PRUR,Unemployment Rate in Puerto Rico,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-SCUR,Unemployment Rate in South Carolina,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-SMU22000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Louisiana,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+NCUR,Unemployment Rate in North Carolina,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+NVUR,Unemployment Rate in Nevada,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+PRUR,Unemployment Rate in Puerto Rico,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+SCUR,Unemployment Rate in South Carolina,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+SMU22000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Louisiana,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 STTMINWGIL,State Minimum Wage Rate for Illinois,Dollars per Hour,Annual,Not Seasonally Adjusted,1972-01-01,2026-01-01
 STTMINWGNC,State Minimum Wage Rate for North Carolina,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 CES6562000001,"All Employees, Health Care and Social Assistance",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 DETR826URN,"Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-GANA,All Employees: Total Nonfarm in Georgia,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+GANA,All Employees: Total Nonfarm in Georgia,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 HOUS448URN,"Unemployment Rate in Houston-The Woodlands-Sugar Land, TX (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-ILURN,Unemployment Rate in Illinois,Percent,Monthly,Not Seasonally Adjusted,1970-01-01,2026-09-18
-INUR,Unemployment Rate in Indiana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-IRSTCI01BRM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Brazil,Percent,Monthly,Not Seasonally Adjusted,1996-10-01,2026-09-15
+ILURN,Unemployment Rate in Illinois,Percent,Monthly,Not Seasonally Adjusted,1970-01-01,2026-10-20
+INUR,Unemployment Rate in Indiana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+IRSTCI01BRM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Brazil,Percent,Monthly,Not Seasonally Adjusted,1996-10-01,2026-10-15
 JTS1000JOL,Job Openings: Total Private,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LBSSA13,Labor Force Participation Rate for Georgia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LBSSA13,Labor Force Participation Rate for Georgia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LES1252882800Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Women,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-10-21
 LNS12300012,Employment-Population Ratio - 16-19 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNU01300060,Labor Force Participation Rate - 25-54 Yrs.,Percent,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
-LRHUTTTTFRM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-09-15
-SMU28000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Mississippi,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
+LRHUTTTTFRM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-10-15
+SMU28000003000000003,Average Hourly Earnings of All Employees: Manufacturing in Mississippi,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
 STTMINWGVA,State Minimum Wage Rate for Virginia,Dollars per Hour,Annual,Not Seasonally Adjusted,1976-01-01,2026-01-01
-WVUR,Unemployment Rate in West Virginia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-AZUR,Unemployment Rate in Arizona,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+WVUR,Unemployment Rate in West Virginia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+AZUR,Unemployment Rate in Arizona,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 CES0500000030,"Average Weekly Earnings of Production and Nonsupervisory Employees, Total Private",Dollars per Week,Monthly,Seasonally Adjusted,1964-01-01,2026-10-02
 CES6054000001,"All Employees, Professional, Scientific, and Technical Services",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CES7072200001,"All Employees, Food Services and Drinking Places",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CHIC917URN,"Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-CTUR,Unemployment Rate in Connecticut,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+CTUR,Unemployment Rate in Connecticut,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 DALL148URN,"Unemployment Rate in Dallas-Fort Worth-Arlington, TX (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 IRSTCI01EZM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Euro Area (19 Countries),Percent,Monthly,Not Seasonally Adjusted,1994-01-01,2026-02-16
-LBSSA01,Labor Force Participation Rate for Alabama,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LBSSA01,Labor Force Participation Rate for Alabama,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 LNU01300001,Labor Force Participation Rate - Men,Percent,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
-LRHUTTTTESM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Spain,Percent,Monthly,Seasonally Adjusted,1986-04-01,2026-09-15
-LRUNTTTTJPM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Japan,Percent,Monthly,Seasonally Adjusted,1955-01-01,2026-09-15
-OKUR,Unemployment Rate in Oklahoma,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LRHUTTTTESM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Spain,Percent,Monthly,Seasonally Adjusted,1986-04-01,2026-10-15
+LRUNTTTTJPM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Japan,Percent,Monthly,Seasonally Adjusted,1955-01-01,2026-10-15
+OKUR,Unemployment Rate in Oklahoma,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 STTMINWGMD,State Minimum Wage Rate for Maryland,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 USTPU,"All Employees, Trade, Transportation, and Utilities",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 ADPWINDMANNERSA,Nonfarm Private Payroll Employment for Manufacturing,Persons,Weekly,Seasonally Adjusted,2010-01-02,2026-09-30
-ARUR,Unemployment Rate in Arkansas,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+ARUR,Unemployment Rate in Arkansas,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 CES4300000003,"Average Hourly Earnings of All Employees, Transportation and Warehousing",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 CES6054120001,"All Employees, Accounting, Tax Preparation, Bookkeeping, and Payroll Services",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CEU0500000008,"Average Hourly Earnings of Production and Nonsupervisory Employees, Total Private",Dollars per Hour,Monthly,Not Seasonally Adjusted,1964-01-01,2026-10-02
 FRBKCLMCIM,"KC Fed Labor Market Conditions Index, Momentum Indicator",Index,Monthly,Seasonally Adjusted,1992-01-01,2026-10-06
-IRSTCI01AUM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Australia,Percent,Monthly,Not Seasonally Adjusted,1990-08-01,2026-09-15
-IRSTCI01INM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for India,Percent,Monthly,Not Seasonally Adjusted,1968-01-01,2026-09-15
+IRSTCI01AUM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Australia,Percent,Monthly,Not Seasonally Adjusted,1990-08-01,2026-10-15
+IRSTCI01INM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for India,Percent,Monthly,Not Seasonally Adjusted,1968-01-01,2026-10-15
 JTS1000QUR,Quits: Total Private,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTS7000JOL,Job Openings: Leisure and Hospitality,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
+LEU0252881500Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: 16 years and over,Dollars,Quarterly,Not Seasonally Adjusted,1979-01-01,2026-10-21
 LNS12027714,"Employment Level - All Industries Self-Employed, Unincorporated",Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS12300001,Employment-Population Ratio - Men,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS14000089,Unemployment Rate - 25-34 Yrs.,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNU01073413,Civilian Labor Force Level - Native Born,Thousands of Persons,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-02
 LNU03008636,Number Unemployed for 27 Weeks & over,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
+LRUN64TTZAQ156S,Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for South Africa,Percent,Quarterly,Seasonally Adjusted,2000-07-01,2026-10-15
 OPHPBS,Business Sector: Labor Productivity (Output per Hour) for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 STLUR,"Unemployment Rate in St. Louis, MO-IL (MSA)",Percent,Monthly,Smoothed Seasonally Adjusted,1990-01-01,2026-09-30
 STTMINWGFL,State Minimum Wage Rate for Florida,Dollars per Hour,Annual,Not Seasonally Adjusted,2006-01-01,2026-01-01
@@ -307,21 +309,21 @@ CES9091100001,"All Employees, Federal, Except U.S. Postal Service",Thousands of 
 CIS1020000000000I,Employment Cost Index: Wages and salaries for All Civilian workers in All industries and occupations,Index Dec 2005=100,Quarterly,Seasonally Adjusted,2001-01-01,2026-07-31
 CIS2015400000000I,"Employment Cost Index: Total compensation for Private industry workers in Professional, scientific, and technical services",Index Dec 2005=100,Quarterly,Seasonally Adjusted,2003-01-01,2026-07-31
 CIU2012300000000I,Employment Cost Index: Total compensation for Private industry workers in Construction,Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
-DCUR,Unemployment Rate in the District of Columbia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-IRSTCI01USM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for United States,Percent,Monthly,Not Seasonally Adjusted,1954-07-01,2026-09-15
-LBSSA22,Labor Force Participation Rate for Louisiana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+DCUR,Unemployment Rate in the District of Columbia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+IRSTCI01USM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for United States,Percent,Monthly,Not Seasonally Adjusted,1954-07-01,2026-10-15
+LBSSA22,Labor Force Participation Rate for Louisiana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 LNS11300028,"Labor Force Participation Rate - 20 Yrs. & over, White Men",Percent,Monthly,Seasonally Adjusted,1954-01-01,2026-10-02
 LNU03000000,Unemployment Level,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 LNU04000006,Unemployment Rate - Black or African American,Percent,Monthly,Not Seasonally Adjusted,1972-01-01,2026-10-02
-LRHUTTTTITM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Italy,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-09-15
-MIMFG,All Employees: Manufacturing in Michigan,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-MIURN,Unemployment Rate in Michigan,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-NMUR,Unemployment Rate in New Mexico,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LRHUTTTTITM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Italy,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-10-15
+MIMFG,All Employees: Manufacturing in Michigan,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+MIURN,Unemployment Rate in Michigan,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+NMUR,Unemployment Rate in New Mexico,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 PAPHIL5URN,"Unemployment Rate in Philadelphia County/City, PA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 QFR322INFUSNO,Quarterly Financial Report: U.S. Corporations: All Information: Retained Earnings,Millions of Dollars,Quarterly,Not Seasonally Adjusted,2009-10-01,2026-09-08
 STTMINWGCT,State Minimum Wage Rate for Connecticut,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 USMINE,"All Employees, Mining and Logging",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
-UTUR,Unemployment Rate in Utah,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+UTUR,Unemployment Rate in Utah,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 WASCUR,Compensation of Employees: Wages and Salary Accruals,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
 ATLSBUEGEP,Business Expectations: Employment Growth,Percent,Monthly,Not Seasonally Adjusted,2016-12-01,2026-09-30
 AWHAE,"Indexes of Aggregate Weekly Hours of All Employees, Total Private",Index 2007=100,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
@@ -329,14 +331,15 @@ AWHI,"Indexes of Aggregate Weekly Hours of Production and Nonsupervisory Employe
 CES3133660001,"All Employees, Ship and Boat Building",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 CES5051800001,"All Employees, Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CGMD25O,"Unemployment Rate - College Graduates - Master's Degree, 25 years and over",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
-IAUR,Unemployment Rate in Iowa,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+IAUR,Unemployment Rate in Iowa,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 JTS1000HIL,Hires: Total Private,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTU5100JOL,Job Openings: Information,Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
 JTU5200JOL,Job Openings: Finance and Insurance,Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
 JTUJOL,Job Openings: Total Nonfarm,Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
 LASV832URN,"Unemployment Rate in Las Vegas-Henderson-Paradise, NV (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-LBSNSA06,Labor Force Participation Rate for California,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-LBSSA28,Labor Force Participation Rate for Mississippi,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LBSNSA06,Labor Force Participation Rate for California,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+LBSSA28,Labor Force Participation Rate for Mississippi,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LEU0252917300Q,"Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: High School graduates, no college: 25 years and over",Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-10-21
 LNS12300002,Employment-Population Ratio - Women,Percent,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS13100000,Unemployment Level - Looking For Full-Time Work,Thousands of Persons,Monthly,Seasonally Adjusted,1963-01-01,2026-10-02
 LRACTTTTMXQ156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: 15 Years or over for Mexico,Percent,Quarterly,Seasonally Adjusted,2005-01-01,2026-09-15
@@ -345,9 +348,9 @@ STTMINWGCO,State Minimum Wage Rate for Colorado,Dollars per Hour,Annual,Not Seas
 STTMINWGMN,State Minimum Wage Rate for Minnesota,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 STTMINWGOK,State Minimum Wage Rate for Oklahoma,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 W209RC1,"Compensation of employees, received",Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
-WLAD,Liabilities and Capital: Liabilities: Other Liabilities and Accrued Dividends (Includes the Liability for Earnings Remittances Due to the U.S. Treasury): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-08
+WLAD,Liabilities and Capital: Liabilities: Other Liabilities and Accrued Dividends (Includes the Liability for Earnings Remittances Due to the U.S. Treasury): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 ADPMNUSNERNSA,Total Nonfarm Private Payroll Employment,Persons,Monthly,Not Seasonally Adjusted,2010-01-01,2026-09-30
-AKUR,Unemployment Rate in Alaska,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+AKUR,Unemployment Rate in Alaska,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 ATLA013URN,"Unemployment Rate in Atlanta-Sandy Springs-Roswell, GA (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 AUST448URN,"Unemployment Rate in Austin-Round Rock, TX (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 CASANF0URN,"Unemployment Rate in San Francisco County/City, CA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
@@ -357,22 +360,20 @@ CES6054130001,"All Employees, Architectural, Engineering, and Related Services",
 CEU4348400001,"All Employees, Truck Transportation",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-02
 CIU2023000500000I,"Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; production, transportation, and material moving",Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
 DCDIST5URN,Unemployment Rate in the District of Columbia,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-30
-GAMFG,All Employees: Manufacturing in Georgia,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-IRSTCI01MXM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Mexico,Percent,Monthly,Not Seasonally Adjusted,1975-08-01,2026-09-15
+GAMFG,All Employees: Manufacturing in Georgia,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+IRSTCI01MXM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Mexico,Percent,Monthly,Not Seasonally Adjusted,1975-08-01,2026-10-15
 JTS540099HIR,Hires: Professional and Business Services,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LANA,All Employees: Total Nonfarm in Louisiana,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-LES1252882800Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Women,1982-84 CPI Adjusted Dollars,Quarterly,Seasonally Adjusted,1979-01-01,2026-07-21
-LEU0252917300Q,"Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: High School graduates, no college: 25 years and over",Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-07-21
+LANA,All Employees: Total Nonfarm in Louisiana,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 LNS13000001,Unemployment Level - Men,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNU01000000,Civilian Labor Force Level,Thousands of Persons,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 LNU04024937,Unemployment Rate - 50-54 Yrs.,Percent,Monthly,Not Seasonally Adjusted,1981-01-01,2026-10-02
 LNU04032183,Unemployment Rate - Asian,Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
 LNU04074597,"Unemployment Rate - With a Disability, 16 Years and over",Percent,Monthly,Not Seasonally Adjusted,2008-06-01,2026-10-02
-LRUNTTTTAUM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Australia,Percent,Monthly,Seasonally Adjusted,1978-02-01,2026-09-15
-MDUR,Unemployment Rate in Maryland,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-MTUR,Unemployment Rate in Montana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-NDUR,Unemployment Rate in North Dakota,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-SMS36935610000000001,"All Employees: Total Nonfarm in New York City, NY",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+LRUNTTTTAUM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Australia,Percent,Monthly,Seasonally Adjusted,1978-02-01,2026-10-15
+MDUR,Unemployment Rate in Maryland,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+MTUR,Unemployment Rate in Montana,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+NDUR,Unemployment Rate in North Dakota,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+SMS36935610000000001,"All Employees: Total Nonfarm in New York City, NY",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 STTMINWGNE,State Minimum Wage Rate for Nebraska,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 WASH911URN,"Unemployment Rate in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 CES2000000008,"Average Hourly Earnings of Production and Nonsupervisory Employees, Construction",Dollars per Hour,Monthly,Seasonally Adjusted,1947-01-01,2026-10-02
@@ -380,11 +381,10 @@ CES3133440001,"All Employees, Semiconductor and Other Electronic Component Manuf
 CES6000000003,"Average Hourly Earnings of All Employees, Professional and Business Services",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 CES6500000003,"Average Hourly Earnings of All Employees, Private Education and Health Services",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 DENV708URN,"Unemployment Rate in Denver-Aurora-Lakewood, CO (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-IRSTCI01KRM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Korea,Percent,Monthly,Not Seasonally Adjusted,1991-01-01,2026-09-15
+IRSTCI01KRM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Korea,Percent,Monthly,Not Seasonally Adjusted,1991-01-01,2026-10-15
 JTS1000HIR,Hires: Total Private,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LEU0252881500Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: 16 years and over,Dollars,Quarterly,Not Seasonally Adjusted,1979-01-01,2026-07-21
-LEU0252881600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over,1982-84 CPI Adjusted Dollars,Quarterly,Not Seasonally Adjusted,1979-01-01,2026-07-21
-LRUNTTTTAUQ156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Australia,Percent,Quarterly,Seasonally Adjusted,1966-07-01,2026-09-15
+LEU0252881600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over,1982-84 CPI Adjusted Dollars,Quarterly,Not Seasonally Adjusted,1979-01-01,2026-10-21
+LRUNTTTTAUQ156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Australia,Percent,Quarterly,Seasonally Adjusted,1966-07-01,2026-10-15
 NYBRON5URN,"Unemployment Rate in Bronx County, NY",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 ORLA712URN,"Unemployment Rate in Orlando-Kissimmee-Sanford, FL (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 PRS30006092,Manufacturing Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1987-04-01,2026-09-03
@@ -394,25 +394,24 @@ STTMINWGOR,State Minimum Wage Rate for Oregon,Dollars per Hour,Annual,Not Season
 STTMINWGWA,State Minimum Wage Rate for Washington,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 U6RATENSA,"Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)",Percent,Monthly,Not Seasonally Adjusted,1994-01-01,2026-10-02
 CASANB1URN,"Unemployment Rate in San Bernardino County, CA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-CAURN,Unemployment Rate in California,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+CAURN,Unemployment Rate in California,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 CES3000000004,"Average Weekly Overtime Hours of All Employees, Manufacturing",Hours,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 CES4422000001,"All Employees, Utilities",Thousands of Persons,Monthly,Seasonally Adjusted,1964-01-01,2026-10-02
 CES6054110001,"All Employees, Legal Services",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CIU2020000000000I,Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations,Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
 DMANEMP,"All Employees, Durable Goods",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 GDICOMP,"Gross Domestic Income: Compensation of Employees, Paid",Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-IRSTCI01TRM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Turkey,Percent,Monthly,Not Seasonally Adjusted,1986-05-01,2026-09-15
-KYUR,Unemployment Rate in Kentucky,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LEU0252919100Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Bachelor's degree only: 25 years and over,Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-07-21
+IRSTCI01TRM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Turkey,Percent,Monthly,Not Seasonally Adjusted,1986-05-01,2026-10-15
+KYUR,Unemployment Rate in Kentucky,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 LNS12027662,"Employment Level - Bachelor's Degree and Higher, 25 Yrs. & over",Thousands of Persons,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
 LNS12032195,"Employment Level - Part-Time for Economic Reasons, Slack Work or Business Conditions, All Industries",Thousands of Persons,Monthly,Seasonally Adjusted,1955-05-01,2026-10-02
 LNS13000002,Unemployment Level - Women,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
-NCURN,Unemployment Rate in North Carolina,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+NCURN,Unemployment Rate in North Carolina,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 PRS85006112,Nonfarm Business Sector: Unit Labor Costs for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-09-03
 PRS85006171,Nonfarm Business Sector: Labor Share for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-09-03
 STTMINWGAK,State Minimum Wage Rate for Alaska,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-07-10
 TEMPHELPN,"All Employees, Temporary Help Services",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-02
-TXNA,All Employees: Total Nonfarm in Texas,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+TXNA,All Employees: Total Nonfarm in Texas,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 USWTRADE,"All Employees, Wholesale Trade",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 CARIVE5URN,"Unemployment Rate in Riverside County, CA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 CES4200000003,"Average Hourly Earnings of All Employees, Retail Trade",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
@@ -420,21 +419,20 @@ CES5000000003,"Average Hourly Earnings of All Employees, Information",Dollars pe
 CEU2000000001,"All Employees, Construction",Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
 CEU3000000003,"Average Hourly Earnings of All Employees, Manufacturing",Dollars per Hour,Monthly,Not Seasonally Adjusted,2006-03-01,2026-10-02
 CIS2025400000000I,"Employment Cost Index: Wages and salaries for Private industry workers in Professional, scientific, and technical services",Index Dec 2005=100,Quarterly,Seasonally Adjusted,2003-01-01,2026-07-31
-DEUR,Unemployment Rate in Delaware,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+DEUR,Unemployment Rate in Delaware,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 EMELASA,Monthly Transition Rate of All U.S. Workers From Employment to Non-Employment Due to a Layoff,Percent,Monthly,Seasonally Adjusted,1978-01-01,2026-10-12
-FLNA,All Employees: Total Nonfarm in Florida,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+FLNA,All Employees: Total Nonfarm in Florida,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 FRBATLWGTUMHWG83O,Unweighted Median Hourly Wage Growth (1983): Overall,Percent Change from Year Ago,Monthly,Not Seasonally Adjusted,1983-01-01,2026-10-09
-HIUR,Unemployment Rate in Hawaii,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+HIUR,Unemployment Rate in Hawaii,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 ILCOOK1URN,"Unemployment Rate in Cook County, IL",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-IRSTCI01GBM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for United Kingdom,Percent,Monthly,Not Seasonally Adjusted,1978-01-01,2026-09-15
+IRSTCI01GBM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for United Kingdom,Percent,Monthly,Not Seasonally Adjusted,1978-01-01,2026-10-15
 JTS3000HIL,Hires: Manufacturing,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LBSSA26,Labor Force Participation Rate for Michigan,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LEU0252882500Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 25 years and over: Men,1982-84 CPI Adjusted Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-07-21
+LBSSA26,Labor Force Participation Rate for Michigan,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 LNS11300003,Labor Force Participation Rate - White,Percent,Monthly,Seasonally Adjusted,1954-01-01,2026-10-02
 LNS11300009,Labor Force Participation Rate - Hispanic or Latino,Percent,Monthly,Seasonally Adjusted,1973-03-01,2026-10-02
 LRAC64TTFRQ156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: From 15 to 64 Years for France,Percent,Quarterly,Seasonally Adjusted,2003-01-01,2026-09-15
 MOSSURN,"Unemployment Rate in St. Louis City, MO",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-MSNA,All Employees: Total Nonfarm in Mississippi,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+MSNA,All Employees: Total Nonfarm in Mississippi,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 NASH947URN,"Unemployment Rate in Nashville-Davidson--Murfreesboro, TN (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 PRS85006032,Nonfarm Business Sector: Hours Worked for All Workers,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-08-06
 PRS85006111,Nonfarm Business Sector: Unit Labor Costs for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-08-06
@@ -442,40 +440,41 @@ PRS85006172,Nonfarm Business Sector: Labor Share for All Workers,Percent Change 
 STTMINWGUT,State Minimum Wage Rate for Utah,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 TAMP312URN,"Unemployment Rate in Tampa-St. Petersburg-Clearwater, FL (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 TLSWDCONS,Total Construction Spending: Sewage and Waste Disposal in the United States,Millions of Dollars,Monthly,Seasonally Adjusted Annual Rate,2002-01-01,2026-10-01
-WBUSAPPWNSAUS,Business Applications with Planned Wages for the United States,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,2006-01-07,2026-09-11
-WYUR,Unemployment Rate in Wyoming,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+WBUSAPPWNSAUS,Business Applications with Planned Wages for the United States,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,2006-01-07,2026-10-14
+WYUR,Unemployment Rate in Wyoming,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 CES6054160001,"All Employees, Management, Scientific, and Technical Consulting Services",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CEU0500000001,"All Employees, Total Private",Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
 CGDD25O,"Unemployment Rate - College Graduates - Doctoral Degree, 25 years and over",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
 CHAR737URN,"Unemployment Rate in Charlotte-Concord-Gastonia, NC-SC (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 FMPSA,Average Probability of U.S. Workers Making Employer to Employer Transitions,Percent,Monthly,Seasonally Adjusted,1995-10-01,2026-10-09
 FRBATLWGT12MMUMHWGWD1WP,12-Month Moving Average of Unweighted Median Hourly Wage Growth: Wage Distribution: 1st to 25th Wage Percentile,Percent Change from Year Ago,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-09
-IRSTCI01CAM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Canada,Percent,Monthly,Not Seasonally Adjusted,1975-01-01,2026-09-15
+IRSTCI01CAM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Canada,Percent,Monthly,Not Seasonally Adjusted,1975-01-01,2026-10-15
 JTS9000JOL,Job Openings: Government,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
-LEU0252884600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Black or African American,1982-84 CPI Adjusted Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-07-21
 LNS12000002,Employment Level - Women,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS12000036,Employment Level - 20-24 Yrs.,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS12300003,Employment-Population Ratio - White,Percent,Monthly,Seasonally Adjusted,1954-01-01,2026-10-02
 LNS17400000,Labor Force Flows Employed to Unemployed,Thousands of Persons,Monthly,Seasonally Adjusted,1990-02-01,2026-10-02
 LNU05075379,"Not in Labor Force - With No Disability, 65 Years and over",Thousands of Persons,Monthly,Not Seasonally Adjusted,2008-06-01,2026-10-02
-LRAC64TTJPM156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: From 15 to 64 Years for Japan,Percent,Monthly,Seasonally Adjusted,1970-01-01,2026-09-15
+LRAC64TTJPM156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: From 15 to 64 Years for Japan,Percent,Monthly,Seasonally Adjusted,1970-01-01,2026-10-15
 MIAM112URN,"Unemployment Rate in Miami-Fort Lauderdale-West Palm Beach, FL (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-RPSGENAITSALL,"Generative Artificial Intelligence, Time Savings: Employed Adults",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-08-04
+RPSGENAIUSAGESHAREWORK,"Generative Artificial Intelligence, Adoption Rate for Work: Employed Adults",Percent,Quarterly,Not Seasonally Adjusted,2024-07-01,2026-10-20
 STTMINWGAR,State Minimum Wage Rate for Arkansas,Dollars per Hour,Annual,Not Seasonally Adjusted,1970-01-01,2026-01-01
 STTMINWGNV,State Minimum Wage Rate for Nevada,Dollars per Hour,Annual,Not Seasonally Adjusted,1968-01-01,2026-01-01
 ULCBS,Business Sector: Unit Labor Costs for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-03
 UNRATEMDLR,"Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median",Percent,Not Applicable,Not Seasonally Adjusted,2015-06-17,2026-09-16
-VTUR,Unemployment Rate in Vermont,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+VTUR,Unemployment Rate in Vermont,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 AHEMAN,"Average Hourly Earnings of Production and Nonsupervisory Employees, Manufacturing",Dollars per Hour,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
 CAORAN7URN,"Unemployment Rate in Orange County, CA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 CES6562440001,"All Employees, Child Care Services",Thousands of Persons,Monthly,Seasonally Adjusted,1985-01-01,2026-10-02
 CES9093161101,"All Employees, Local Government Education",Thousands of Persons,Monthly,Seasonally Adjusted,1955-01-01,2026-10-02
-FLCONS,All Employees: Construction in Florida,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-IDUR,Unemployment Rate in Idaho,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+FLCONS,All Employees: Construction in Florida,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+IDUR,Unemployment Rate in Idaho,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 JACK212URN,"Unemployment Rate in Jacksonville, FL (MSA)",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-LBSSA12,Labor Force Participation Rate for Florida,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LBSSA48,Labor Force Participation Rate for Texas,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LCEAMN01JPM661S,Hourly Earnings: Earnings: Economic Activity: Manufacturing: Total Economy for Japan,Index 2015=100,Monthly,Seasonally Adjusted,1955-01-01,2026-09-15
+LBSSA12,Labor Force Participation Rate for Florida,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LBSSA48,Labor Force Participation Rate for Texas,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LCEAMN01JPM661S,Hourly Earnings: Earnings: Economic Activity: Manufacturing: Total Economy for Japan,Index 2015=100,Monthly,Seasonally Adjusted,1955-01-01,2026-10-15
+LEU0252882500Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 25 years and over: Men,1982-84 CPI Adjusted Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-10-21
+LEU0252884600Q,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Black or African American,1982-84 CPI Adjusted Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-10-21
 LNS11300029,"Labor Force Participation Rate - 20 Yrs. & over, White Women",Percent,Monthly,Seasonally Adjusted,1954-01-01,2026-10-02
 LNS11300031,"Labor Force Participation Rate - 20 Yrs. & over, Black or African American Men",Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
 LNS11300032,"Labor Force Participation Rate - 20 Yrs. & over, Black or African American Women",Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-02
@@ -491,18 +490,18 @@ PHOE004UR,"Unemployment Rate in Phoenix-Mesa-Scottsdale, AZ (MSA)",Percent,Month
 PORT941UR,"Unemployment Rate in Portland-Vancouver-Hillsboro, OR-WA (MSA)",Percent,Monthly,Smoothed Seasonally Adjusted,1990-01-01,2026-09-30
 PRS30006091,Manufacturing Sector: Labor Productivity (Output per Hour) for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-09-03
 SMU01000003000000001SA,All Employees: Manufacturing in Alabama,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-08-21
-SMU06000000500000003,Average Hourly Earnings of All Employees: Total Private in California,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
-SMU06000007072259001SA,All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+SMU06000000500000003,Average Hourly Earnings of All Employees: Total Private in California,Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
+SMU06000007072259001SA,All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 TOTLL65O,Civilian Labor Force - 65 years and over,Thousands of Persons,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
 TXHARR1URN,"Unemployment Rate in Harris County, TX",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-TXICLAIMS,Initial Claims in Texas,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-01,2026-10-09
+TXICLAIMS,Initial Claims in Texas,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-01,2026-10-16
 UNRATECTM,"FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Midpoint","Fourth Quarter, Percent",Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 WAKING5URN,"Unemployment Rate in King County, WA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-WIMFG,All Employees: Manufacturing in Wisconsin,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-AUST448NA,"All Employees: Total Nonfarm in Austin-Round Rock-San Marcos, TX (MSA)",Thousands of Persons,Monthly,Seasonally Adjusted,1970-01-01,2026-09-18
-AZNA,All Employees: Total Nonfarm in Arizona,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-CACCLAIMS,Continued Claims (Insured Unemployment) in California,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-01,2026-10-09
-CAGOVT,All Employees: Government in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+WIMFG,All Employees: Manufacturing in Wisconsin,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+AUST448NA,"All Employees: Total Nonfarm in Austin-Round Rock-San Marcos, TX (MSA)",Thousands of Persons,Monthly,Seasonally Adjusted,1970-01-01,2026-10-20
+AZNA,All Employees: Total Nonfarm in Arizona,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+CACCLAIMS,Continued Claims (Insured Unemployment) in California,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-01,2026-10-16
+CAGOVT,All Employees: Government in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 CES0500000006,"Production and Nonsupervisory Employees, Total Private",Thousands of Persons,Monthly,Seasonally Adjusted,1964-01-01,2026-10-02
 CES2023700001,"All Employees, Heavy and Civil Engineering Construction",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CES3000000006,"Production and Nonsupervisory Employees, Manufacturing",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
@@ -512,13 +511,14 @@ CES9091912001,"All Employees, U.S. Postal Service",Thousands of Persons,Monthly,
 CEU9091000001,"All Employees, Federal",Thousands of Persons,Monthly,Not Seasonally Adjusted,1939-01-01,2026-10-02
 CIS2023211000000I,Employment Cost Index: Wages and salaries for Private industry workers in Aircraft manufacturing,Index Dec 2005=100,Quarterly,Seasonally Adjusted,2003-01-01,2026-07-31
 CIU2010000520000I,Employment Cost Index: Total compensation for Private industry workers in Transportation and material moving,Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
-CMWRUR,Unemployment Rate in Midwest Census Region,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-COVEMP,Covered Employment,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1971-01-02,2026-10-08
+CMWRUR,Unemployment Rate in Midwest Census Region,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+COVEMP,Covered Employment,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1971-01-02,2026-10-22
 JTS3000QUR,Quits: Manufacturing,Rate,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTS4400JOL,Job Openings: Retail Trade,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTU480099JOL,"Job Openings: Transportation, Warehousing, and Utilities",Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
-LBSSA25,Labor Force Participation Rate for Massachusetts,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LBSSA51,Labor Force Participation Rate for Virginia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
+LBSSA25,Labor Force Participation Rate for Massachusetts,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LBSSA51,Labor Force Participation Rate for Virginia,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LEU0252919100Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Bachelor's degree only: 25 years and over,Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-10-21
 LNS11000060,Civilian Labor Force Level - 25-54 Yrs.,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS12000060,Employment Level - 25-54 Yrs.,Thousands of Persons,Monthly,Seasonally Adjusted,1948-01-01,2026-10-02
 LNS13025699,Unemployment Level - Job Losers Not on Layoff,Thousands of Persons,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
@@ -529,37 +529,38 @@ LNU04000036,Unemployment Rate - 20-24 Yrs.,Percent,Monthly,Not Seasonally Adjust
 LNU04024933,Unemployment Rate - 30-34 Yrs.,Percent,Monthly,Not Seasonally Adjusted,1981-01-01,2026-10-02
 LOSA106UR,"Unemployment Rate in Los Angeles-Long Beach-Anaheim, CA (MSA)",Percent,Monthly,Smoothed Seasonally Adjusted,1990-01-01,2026-09-30
 MDBALT5URN,"Unemployment Rate in Baltimore City, MD",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-NEUR,Unemployment Rate in Nebraska,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-NJURN,Unemployment Rate in New Jersey,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+NEUR,Unemployment Rate in Nebraska,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+NJURN,Unemployment Rate in New Jersey,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 NVCLAR3URN,"Unemployment Rate in Clark County, NV",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-NYNA,All Employees: Total Nonfarm in New York,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-PAICLAIMS,Initial Claims in Pennsylvania,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-15,2026-10-09
-PHOE004NA,"All Employees: Total Nonfarm in Phoenix-Mesa-Chandler, AZ (MSA)",Thousands of Persons,Monthly,Seasonally Adjusted,1949-01-01,2026-09-18
-SMU01000003000000008,Average Hourly Earnings of Production Employees: Manufacturing in Alabama,Dollars per Hour,Monthly,Not Seasonally Adjusted,2001-01-01,2026-09-18
+NYNA,All Employees: Total Nonfarm in New York,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+PAICLAIMS,Initial Claims in Pennsylvania,Number,"Weekly, Ending Saturday",Not Seasonally Adjusted,1986-02-15,2026-10-16
+PHOE004NA,"All Employees: Total Nonfarm in Phoenix-Mesa-Chandler, AZ (MSA)",Thousands of Persons,Monthly,Seasonally Adjusted,1949-01-01,2026-10-20
+RPSGENAITSALL,"Generative Artificial Intelligence, Time Savings: Employed Adults",Percent,Quarterly,Not Seasonally Adjusted,2024-10-01,2026-10-20
+SMU01000003000000008,Average Hourly Earnings of Production Employees: Manufacturing in Alabama,Dollars per Hour,Monthly,Not Seasonally Adjusted,2001-01-01,2026-10-20
 VAFAIR5URN,"Unemployment Rate in Fairfax County, VA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 W825RC1,Personal current transfer receipts: Government social benefits to persons: Unemployment insurance,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 ADPMINDMANNERSA,Nonfarm Private Payroll Employment for Manufacturing,Persons,Monthly,Seasonally Adjusted,2010-01-01,2026-09-30
 ADPWINDCONNERSA,Nonfarm Private Payroll Employment for Construction,Persons,Weekly,Seasonally Adjusted,2010-01-02,2026-09-30
 ADPWNUSNERNSA,Total Nonfarm Private Payroll Employment,Persons,Weekly,Not Seasonally Adjusted,2010-01-02,2026-09-30
 AZMARI3URN,"Unemployment Rate in Maricopa County, AZ",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
-AZURN,Unemployment Rate in Arizona,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+AZURN,Unemployment Rate in Arizona,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 BOGZ1FA105005305Q,"Nonfinancial Corporate Business; Difference Between Capital Expenditures and Gross Savings Less Net Capital Transfers Paid, Excluding Foreign Earnings Retained Abroad (Financing Gap), Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
-CAMFG,All Employees: Manufacturing in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+CAMFG,All Employees: Manufacturing in California,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 CASANT5URN,"Unemployment Rate in Santa Clara County, CA",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 CES0800000001,"All Employees, Private Service-Providing",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 CES1000000003,"Average Hourly Earnings of All Employees, Mining and Logging",Dollars per Hour,Monthly,Seasonally Adjusted,2006-03-01,2026-10-02
 CES6562200001,"All Employees, Hospitals",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-02
 CEU5552211001,"All Employees, Commercial Banking",Thousands of Persons,Monthly,Not Seasonally Adjusted,1990-01-01,2026-10-02
-CHIC917NA,"All Employees: Total Nonfarm in Chicago-Naperville-Elgin, IL-IN (MSA)",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
+CHIC917NA,"All Employees: Total Nonfarm in Chicago-Naperville-Elgin, IL-IN (MSA)",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
 EMELPSA,Monthly Transition Rate of Prime-Age U.S. Workers From Employment to Non-Employment Due to a Layoff,Percent,Monthly,Seasonally Adjusted,1978-01-01,2026-10-12
 FLPUTN7URN,"Unemployment Rate in Putnam County, FL",Percent,Monthly,Not Seasonally Adjusted,1990-01-01,2026-09-30
 FRBATLWGT3MMAWMHWGO,3-Month Moving Average of Weighted Median Hourly Wage Growth: Overall,Percent Change from Year Ago,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-09
-IRSTCI01CLM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Chile,Percent,Monthly,Not Seasonally Adjusted,1996-01-01,2026-09-15
+IRSTCI01CLM156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Chile,Percent,Monthly,Not Seasonally Adjusted,1996-01-01,2026-10-15
 JTS2300HIL,Hires: Construction,Level in Thousands,Monthly,Seasonally Adjusted,2000-12-01,2026-09-29
 JTUHIL,Hires: Total Nonfarm,Level in Thousands,Monthly,Not Seasonally Adjusted,2000-12-01,2026-09-29
-LBSSA39,Labor Force Participation Rate for Ohio,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LBSSA42,Labor Force Participation Rate for Pennsylvania,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-LEU0252916700Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Less than a High School diploma: 25 years and over,Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-07-21
+LBSSA39,Labor Force Participation Rate for Ohio,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LBSSA42,Labor Force Participation Rate for Pennsylvania,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+LEU0252916700Q,Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Less than a High School diploma: 25 years and over,Dollars,Quarterly,Not Seasonally Adjusted,2000-01-01,2026-10-21
 LNS12032196,"Employment Level - Part-Time for Economic Reasons, Could Only Find Part-Time Work, All Industries",Thousands of Persons,Monthly,Seasonally Adjusted,1955-05-01,2026-10-02
 LNS13023569,Unemployment Level - New Entrants,Thousands of Persons,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
 LNS13023622,Job Losers as a Percent of Total Unemployed,Percent,Monthly,Seasonally Adjusted,1967-01-01,2026-10-02
@@ -570,19 +571,18 @@ LNU01374597,"Labor Force Participation Rate - With a Disability, 16 Years and ov
 LNU04000024,Unemployment Rate - 20 Yrs. & over,Percent,Monthly,Not Seasonally Adjusted,1948-01-01,2026-10-02
 LNU04032238,"Unemployment Rate - Financial Activities Industry, Private Wage and Salary Workers",Percent,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-02
 LRAC55TTUSM156S,Infra-Annual Labor Statistics: Labor Force Participation Rate Total: From 55 to 64 Years for United States,Percent,Monthly,Seasonally Adjusted,1977-01-01,2026-08-17
-LRHUTTTTSEM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Sweden,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-09-15
+LRHUTTTTSEM156S,Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for Sweden,Percent,Monthly,Seasonally Adjusted,1983-01-01,2026-10-15
 LRUN74TTFRQ156S,Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 74 Years for France,Percent,Quarterly,Seasonally Adjusted,2003-01-01,2026-09-15
-LRUNTTTTKRM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Korea,Percent,Monthly,Seasonally Adjusted,1990-01-01,2026-08-17
-MEUR,Unemployment Rate in Maine,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-MNURN,Unemployment Rate in Minnesota,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
-NHUR,Unemployment Rate in New Hampshire,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-NJNA,All Employees: Total Nonfarm in New Jersey,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-09-18
-RIUR,Unemployment Rate in Rhode Island,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-RPSGENAIUSAGESHAREWORK,"Generative Artificial Intelligence, Adoption Rate for Work: Employed Adults",Percent,Quarterly,Not Seasonally Adjusted,2024-07-01,2026-08-04
+LRUNTTTTKRM156S,Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Korea,Percent,Monthly,Seasonally Adjusted,1990-01-01,2026-10-15
+MEUR,Unemployment Rate in Maine,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+MNURN,Unemployment Rate in Minnesota,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
+NHUR,Unemployment Rate in New Hampshire,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+NJNA,All Employees: Total Nonfarm in New Jersey,Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-10-20
+RIUR,Unemployment Rate in Rhode Island,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
 SANA748UR,"Unemployment Rate in San Antonio-New Braunfels, TX (MSA)",Percent,Monthly,Smoothed Seasonally Adjusted,1990-01-01,2026-09-30
-SDUR,Unemployment Rate in South Dakota,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-09-18
-SMU36935610500000003,"Average Hourly Earnings of All Employees: Total Private in New York City, NY",Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-09-18
-TXURN,Unemployment Rate in Texas,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-09-18
+SDUR,Unemployment Rate in South Dakota,Percent,Monthly,Seasonally Adjusted,1976-01-01,2026-10-20
+SMU36935610500000003,"Average Hourly Earnings of All Employees: Total Private in New York City, NY",Dollars per Hour,Monthly,Not Seasonally Adjusted,2007-01-01,2026-10-20
+TXURN,Unemployment Rate in Texas,Percent,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-20
 USSERV,"All Employees, Other Services",Thousands of Persons,Monthly,Seasonally Adjusted,1939-01-01,2026-10-02
 CIU2023000000000I,Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing,Index Dec 2005=100,Quarterly,Not Seasonally Adjusted,2001-01-01,2026-07-31
 CES1021000001,"All Employees, Mining, Quarrying, and Oil and Gas Extraction",Thousands of Persons,Monthly,Seasonally Adjusted,1958-01-01,2026-10-02
