@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-MSPUS,Median Sales Price of New Houses Sold for the United States,Dollars,Quarterly,Not Seasonally Adjusted,1963-01-01,2026-07-24
-DCOILWTICO,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",Dollars per Barrel,Daily,Not Seasonally Adjusted,1986-01-02,2026-10-21
-ASPUS,Average Sales Price of Houses Sold for the United States,Dollars,Quarterly,Not Seasonally Adjusted,1963-01-01,2026-07-24
+MSPUS,Median Sales Price of New Houses Sold for the United States,Dollars,Quarterly,Not Seasonally Adjusted,1963-01-01,2026-10-27
+DCOILWTICO,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",Dollars per Barrel,Daily,Not Seasonally Adjusted,1986-01-02,2026-10-28
+ASPUS,Average Sales Price of Houses Sold for the United States,Dollars,Quarterly,Not Seasonally Adjusted,1963-01-01,2026-10-27
 APU000074714,"Average Price: Gasoline, Unleaded Regular (Cost per Gallon/3.785 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1976-01-01,2026-10-14
-DHHNGSP,Henry Hub Natural Gas Spot Price,Dollars per Million BTU,Daily,Not Seasonally Adjusted,1997-01-07,2026-10-21
+DHHNGSP,Henry Hub Natural Gas Spot Price,Dollars per Million BTU,Daily,Not Seasonally Adjusted,1997-01-07,2026-10-28
 WTISPLC,Spot Crude Oil Price: West Texas Intermediate (WTI),Dollars per Barrel,Monthly,Not Seasonally Adjusted,1946-01-01,2026-10-07
 MCOILWTICO,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",Dollars per Barrel,Monthly,Not Seasonally Adjusted,1986-01-01,2026-10-07
 APU00007471A,"Average Price: Gasoline, All Types (Cost per Gallon/3.785 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-01-01,2026-10-14
 MHHNGSP,Henry Hub Natural Gas Spot Price,Dollars per Million BTU,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-07
-DHOILNYH,No. 2 Heating Oil Prices: New York Harbor,Dollars per Gallon,Daily,Not Seasonally Adjusted,1986-06-02,2026-10-21
+DHOILNYH,No. 2 Heating Oil Prices: New York Harbor,Dollars per Gallon,Daily,Not Seasonally Adjusted,1986-06-02,2026-10-28
 WCOILWTICO,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",Dollars per Barrel,"Weekly, Ending Friday",Not Seasonally Adjusted,1986-01-03,2026-09-10
 APU000072511,Average Price: Fuel Oil #2 per Gallon (3.785 Liters) in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14

@@ -1,6 +1,6 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 DRCCLACBS,"Delinquency Rate on Credit Card Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-CCLACBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-16
+CCLACBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-30
 TERMCBCCALLNS,"Commercial Bank Interest Rate on Credit Card Plans, All Accounts",Percent,Monthly,Not Seasonally Adjusted,1994-11-01,2026-10-07
 CORCCACBS,"Charge-Off Rate on Credit Card Loans, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1985-01-01,2026-08-25
 DRCCLOBS,"Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
@@ -13,11 +13,11 @@ RCCCBACTDPD90P,Large Bank Consumer Credit Card Balances: 90 or More Days Past Du
 DRCCLACBN,"Delinquency Rate on Credit Card Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1991-01-01,2026-08-25
 CORCCT100S,"Charge-Off Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets",Percent,Quarterly,Seasonally Adjusted,1985-01-01,2026-08-25
 RCCCBBALDPD90P,Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-CCLACBM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2000-07-01,2026-10-16
+CCLACBM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2000-07-01,2026-10-30
 STDSOTHCONS,Net Percentage of Domestic Banks Tightening Standards for Consumer Loans Excluding Credit Card and Auto Loans,Percent,Quarterly,Not Seasonally Adjusted,2011-04-01,2026-08-03
 RCCCBACTDPD30P,Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-CCLACBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-16
-H8B1247NCBCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-09
+CCLACBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-30
+H8B1247NCBCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-30
 RCCCBBALREV,Large Bank Consumer Credit Card Balances: Revolving Balances Only,Billions of U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBSCOREPCT50,Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile,Credit Score,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBSCOREPCT25,Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile,Credit Score,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
@@ -32,10 +32,10 @@ SUBLPDCLCTSNQ,Net Percentage of Domestic Banks Increasing Spreads of Interest Ra
 RCCCBBALDPD60P,Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBNCOPCT,Large Bank Consumer Credit Card Balances: Net Charge-Off Rate,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBPURCHASETOT,Large Bank Consumer Credit Card Balances: Total Purchase Volume,Billions of U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-CCLACBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-16
+CCLACBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-30
 DRCCLOBN,"Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1991-01-01,2026-08-25
 RCCCBLIMPCT90,Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-CCLACBQ158SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-09
+CCLACBQ158SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-30
 DEMOTHCONS,Net Percentage of Domestic Banks Reporting Stronger Demand for Consumer Loans Excluding Credit Card and Auto Loans,Percent,Quarterly,Not Seasonally Adjusted,2011-04-01,2026-08-03
 RCCCOACTPCTSCORELT660,Large Bank Consumer Credit Card Originations: Percentage of New Accounts with <660 Credit Score,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBNUMACT,Large Bank Consumer Credit Card Balances: Number of Accounts,Millions,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
@@ -47,14 +47,14 @@ QBPBSNLNNCRD,Balance Sheet: Unused Loan Commitments - Total: Unused Credit Card 
 RCCCOLIMMEDSCOREGTE720,Large Bank Consumer Credit Card Originations: Median Original Credit Limit by Credit Score Group: >= 720 Credit Score,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCOSCOREPCT10,Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile,Credit Score,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 SFQ74A4ECNR,"74) Over the Past Three Months, How Have the Terms Under Which Consumer ABS (for Example, Backed by Credit Card Receivables or Auto Loans) Are Funded Changed?| A. Terms for Average Clients | 4. Collateral Spreads Over Relevant Benchmark (Effective Financing Rates). | Answer Type: Eased Considerably",Number of Respondents,Quarterly,Not Seasonally Adjusted,2011-10-01,2026-09-24
-CCLLCBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-16
+CCLLCBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-30
 RCCCBACTIVEBALPCT50,Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBAPRAVGPCTPL,Large Bank Consumer Credit Card Balances: Average Purchase APR: Private Label,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBLIMPCT50,Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBPCTCLINC,Large Bank Consumer Credit Card Balances: Percentage of Accounts with Credit Line Increase,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBPURCHASEAS660T719,Large Bank Consumer Credit Card Balances: Average Purchase Volume by Credit Score Group: 660-719 Credit Score,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCOLIMPCT50,Large Bank Consumer Credit Card Originations: Original Credit Limit: 50th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-CCLLCBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-16
+CCLLCBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-30
 CORCCT100N,"Charge-Off Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets",Percent,Quarterly,Not Seasonally Adjusted,1985-01-01,2026-08-25
 RCCCBACTDPD60P,Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCOLIMMEDSCORE660T719,Large Bank Consumer Credit Card Originations: Median Original Credit Limit by Credit Score Group: 660-719 Credit Score,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
@@ -62,8 +62,8 @@ RCCCOSCOREPCT50,Large Bank Consumer Credit Card Originations: Original Credit Sc
 SUBLPDCLCTCLGNQ,Net Percentage of Large Domestic Banks Reducing Credit Limits on Credit Card Loans,Percent,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-08-03
 SUBLPDCLCTCNQ,Net Percentage of Domestic Banks Reducing Credit Limits on Credit Card Loans,Percent,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-08-03
 SUBLPDCLCTSLGNQ,Net Percentage of Large Domestic Banks Increasing Spreads of Interest Rates Over Banks' Cost of Funds on Credit Card Loans,Percent,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-08-03
-CCLDCBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-16
-CCLSCBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-16
+CCLDCBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-30
+CCLSCBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-30
 RCCCBLIMPCT75,Large Bank Consumer Credit Card Balances: Current Credit Limit: 75th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCBPCTCLDEC,Large Bank Consumer Credit Card Balances: Percentage of Accounts with Credit Line Decrease,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-10-01,2026-10-07
 RCCCOLIMPCT90,Large Bank Consumer Credit Card Originations: Original Credit Limit: 90th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
@@ -96,23 +96,23 @@ ATAIEALLGCLCRT100,"Total Assets, Interest-Earning, All Loans and Leases, Gross, 
 BOGZ1FA763066143Q,"U.S.-Chartered Depository Institutions; Consumer Credit, Securitized Credit Card Receivables; Asset (Call Report; Consolidated), Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
 BOGZ1FR763066143Q,"U.S.-Chartered Depository Institutions; Consumer Credit, Securitized Credit Card Receivables; Asset (Call Report; Consolidated), Revaluation",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1946-10-01,2026-09-11
 BOGZ1FU763066143Q,"U.S.-Chartered Depository Institutions; Consumer Credit, Securitized Credit Card Receivables; Asset (Call Report; Consolidated), Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1946-10-01,2026-09-11
-CCLDCBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-16
-CCLDCBM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2000-07-01,2026-10-16
-CCLDCBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-16
+CCLDCBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-30
+CCLDCBM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2000-07-01,2026-10-30
+CCLDCBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-30
 CCLFRIM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2009-07-01,2026-10-09
 CCLFRIM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2009-07-01,2026-10-09
-CCLFRIW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2009-07-01,2026-10-16
-CCLFRIW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-16
+CCLFRIW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2009-07-01,2026-10-30
+CCLFRIW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-30
 CCLLCBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-09
-CCLSCBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-16
-CCLSCBM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2000-07-01,2026-10-16
-CCLSCBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-16
-H8B1247NDMCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-09
-H8B1247NDMCQG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-09
+CCLSCBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2000-07-01,2026-10-30
+CCLSCBM027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2000-07-01,2026-10-30
+CCLSCBW027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2000-06-28,2026-10-30
+H8B1247NDMCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-30
+H8B1247NDMCQG,"Consumer Loans: Credit Cards and Other Revolving Plans, Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-30
 H8B1247NLGCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-09
 H8B1247NLGCQG,"Consumer Loans: Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-09
-H8B1247NSMCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-09
-H8B1247NSMCQG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-09
+H8B1247NSMCMG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,2000-08-01,2026-10-30
+H8B1247NSMCQG,"Consumer Loans: Credit Cards and Other Revolving Plans, Small Domestically Chartered Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2000-10-01,2026-10-30
 PCU522120522120109,"Producer Price Index by Industry: Savings Institutions and Other Depository Credit Intermediation: Credit Cards, Overdraft Credit, and Related Plans",Index Dec 2011=100,Monthly,Not Seasonally Adjusted,2011-12-01,2026-10-15
 RCCCBACTIVEBALPCT75,Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 75th Percentile,U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCCCOAPRAVGPCTPL,Large Bank Consumer Credit Card Originations: Average Original Purchase APR: Private Label,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07

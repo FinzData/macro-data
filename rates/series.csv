@@ -1,66 +1,66 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-DGS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-T10Y2Y,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-21
+DGS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+T10Y2Y,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-29
 FEDFUNDS,Federal Funds Effective Rate,Percent,Monthly,Not Seasonally Adjusted,1954-07-01,2026-10-01
-T10Y3M,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-21
-SOFR,Secured Overnight Financing Rate,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-22
-DGS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1977-02-15,2026-10-22
-DFF,Federal Funds Effective Rate,Percent,"Daily, 7-Day",Not Seasonally Adjusted,1954-07-01,2026-10-22
-DGS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-22
-DGS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-DGS1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-DFEDTARU,Federal Funds Target Range - Upper Limit,Percent,"Daily, 7-Day",Not Seasonally Adjusted,2008-12-16,2026-10-22
+T10Y3M,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-29
+SOFR,Secured Overnight Financing Rate,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-30
+DGS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1977-02-15,2026-10-30
+DFF,Federal Funds Effective Rate,Percent,"Daily, 7-Day",Not Seasonally Adjusted,1954-07-01,2026-10-30
+DGS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-30
+DGS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+DGS1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+DFEDTARU,Federal Funds Target Range - Upper Limit,Percent,"Daily, 7-Day",Not Seasonally Adjusted,2008-12-16,2026-10-30
 REAINTRATREARAT10Y,10-Year Real Interest Rate,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-14
-EFFR,Effective Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,2000-07-03,2026-10-22
-IORB,Interest Rate on Reserve Balances (IORB Rate),Percent,"Daily, 7-Day",Not Seasonally Adjusted,2021-07-29,2026-10-22
-SOFR30DAYAVG,30-Day Average SOFR,Percent,Daily,Not Seasonally Adjusted,2018-05-02,2026-10-22
-DGS3MO,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1981-09-01,2026-10-22
-DGS20,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-RPONTSYD,Overnight Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-22
-DTB3,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,1954-01-04,2026-10-22
+EFFR,Effective Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,2000-07-03,2026-10-30
+IORB,Interest Rate on Reserve Balances (IORB Rate),Percent,"Daily, 7-Day",Not Seasonally Adjusted,2021-07-29,2026-10-30
+SOFR30DAYAVG,30-Day Average SOFR,Percent,Daily,Not Seasonally Adjusted,2018-05-02,2026-10-30
+DGS3MO,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1981-09-01,2026-10-30
+DGS20,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+RPONTSYD,Overnight Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-30
+DTB3,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,1954-01-04,2026-10-30
 TB3MS,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,Monthly,Not Seasonally Adjusted,1934-01-01,2026-10-01
 GS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1953-04-01,2026-10-01
-THREEFYTP10,Term Premium on a 10 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-DGS1MO,"Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,2001-07-31,2026-10-22
+THREEFYTP10,Term Premium on a 10 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+DGS1MO,"Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,2001-07-31,2026-10-30
 DRSFRMACBS,"Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-WDTGAL,"Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-DGS3,"Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-SOFR90DAYAVG,90-Day Average SOFR,Percent,Daily,Not Seasonally Adjusted,2018-07-02,2026-10-22
-TREAST,Assets: Securities Held Outright: U.S. Treasury Securities: All: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-D2WLTGAL,Liabilities and Capital: Liabilities: Deposits: U.S. Treasury General Account: Wednesday Level in Federal Reserve District 2: New York,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-15
+WDTGAL,"Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+DGS3,"Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+SOFR90DAYAVG,90-Day Average SOFR,Percent,Daily,Not Seasonally Adjusted,2018-07-02,2026-10-30
+TREAST,Assets: Securities Held Outright: U.S. Treasury Securities: All: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+D2WLTGAL,Liabilities and Capital: Liabilities: Deposits: U.S. Treasury General Account: Wednesday Level in Federal Reserve District 2: New York,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
 IRLTLT01JPM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Japan,Percent,Monthly,Not Seasonally Adjusted,1989-01-01,2026-10-15
-OBMMIVA30YF,30-Year Fixed Rate Veterans Affairs Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
-DGS6MO,"Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1981-09-01,2026-10-22
-T10YFF,10-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-21
-DFEDTARL,Federal Funds Target Range - Lower Limit,Percent,"Daily, 7-Day",Not Seasonally Adjusted,2008-12-16,2026-10-22
-DGS7,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1969-07-01,2026-10-22
-SOFRINDEX,SOFR Index,"Index Apr 2, 2018 = 1",Daily,Not Seasonally Adjusted,2018-04-02,2026-10-22
-WSHOMCB,Assets: Securities Held Outright: Mortgage-Backed Securities: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+OBMMIVA30YF,30-Year Fixed Rate Veterans Affairs Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
+DGS6MO,"Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1981-09-01,2026-10-30
+T10YFF,10-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+DFEDTARL,Federal Funds Target Range - Lower Limit,Percent,"Daily, 7-Day",Not Seasonally Adjusted,2008-12-16,2026-10-30
+DGS7,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1969-07-01,2026-10-30
+SOFRINDEX,SOFR Index,"Index Apr 2, 2018 = 1",Daily,Not Seasonally Adjusted,2018-04-02,2026-10-30
+WSHOMCB,Assets: Securities Held Outright: Mortgage-Backed Securities: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 IRLTLT01USM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United States,Percent,Monthly,Not Seasonally Adjusted,1953-04-01,2026-10-15
 IRLTLT01DEM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany,Percent,Monthly,Not Seasonally Adjusted,1956-05-01,2026-10-15
-FF,Federal Funds Effective Rate,Percent,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1954-07-07,2026-10-22
-OBMMIJUMBO30YF,30-Year Fixed Rate Jumbo Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
-DTB4WK,"4-Week Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,2001-07-31,2026-10-22
-DTB6,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,1958-12-09,2026-10-22
+FF,Federal Funds Effective Rate,Percent,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1954-07-07,2026-10-29
+OBMMIJUMBO30YF,30-Year Fixed Rate Jumbo Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
+DTB4WK,"4-Week Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,2001-07-31,2026-10-30
+DTB6,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,1958-12-09,2026-10-30
 IRLTLT01GBM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United Kingdom,Percent,Monthly,Not Seasonally Adjusted,1960-01-01,2026-10-15
-DTB1YR,"1-Year Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,1959-07-15,2026-10-22
-OBMMIFHA30YF,30-Year Fixed Rate FHA Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
+DTB1YR,"1-Year Treasury Bill Secondary Market Rate, Discount Basis",Percent,Daily,Not Seasonally Adjusted,1959-07-15,2026-10-30
+OBMMIFHA30YF,30-Year Fixed Rate FHA Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
 REAINTRATREARAT1YE,1-Year Real Interest Rate,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-14
 GS1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1953-04-01,2026-10-01
 RCMFLBBALDPDPCT30P,Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-SOFR180DAYAVG,180-Day Average SOFR,Percent,Daily,Not Seasonally Adjusted,2018-10-01,2026-10-22
-WGS1YR,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-19
+SOFR180DAYAVG,180-Day Average SOFR,Percent,Daily,Not Seasonally Adjusted,2018-10-01,2026-10-30
+WGS1YR,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-26
 MDSP,Mortgage Debt Service Payments as a Percent of Disposable Personal Income,Percent,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-22
 T10Y2YM,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,Percent,Monthly,Not Seasonally Adjusted,1976-06-01,2026-10-01
-OBMMIC30YF,30-Year Fixed Rate Conforming Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
+OBMMIC30YF,30-Year Fixed Rate Conforming Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
 GS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1977-02-01,2026-10-01
-WGS10YR,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-19
+WGS10YR,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-26
 IRLTLT01EZM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Euro Area (19 Countries),Percent,Monthly,Not Seasonally Adjusted,1970-01-01,2026-02-16
-RIFSPPFAAD90NB,90-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-21
+RIFSPPFAAD90NB,90-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-30
 GS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1976-06-01,2026-10-01
 IR3TIB01USM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United States,Percent,Monthly,Not Seasonally Adjusted,1964-06-01,2026-10-15
 MMTY,Treasury Yield: Money Market <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
-WSHOBL,Assets: Securities Held Outright: U.S. Treasury Securities: Bills: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WSHOBL,Assets: Securities Held Outright: U.S. Treasury Securities: Bills: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 INDIRLTLT01STM,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for India,Percent,Monthly,Not Seasonally Adjusted,2011-12-01,2026-10-15
 MVMTD027MNFRBDAL,Market Value of Marketable Treasury Debt,Billions of Dollars,Monthly,Not Seasonally Adjusted,1942-01-01,2026-09-16
 GS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1953-04-01,2026-10-01
@@ -68,49 +68,49 @@ IRLTLT01AUM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main 
 BOGZ1FL263061130Q,"Rest of the World; Treasury Securities Held by Foreign Official Institutions; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 HQMCB10YR,10-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 IRLTLT01FRM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for France,Percent,Monthly,Not Seasonally Adjusted,1960-01-01,2026-10-15
-RIFSPFFNB,Federal Funds Effective Rate,Percent,Daily,Not Seasonally Adjusted,1954-07-01,2026-10-22
-TMBACBW027SBOG,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-16
-TREAS10Y,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 10 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+RIFSPFFNB,Federal Funds Effective Rate,Percent,Daily,Not Seasonally Adjusted,1954-07-01,2026-10-30
+TMBACBW027SBOG,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-30
+TREAS10Y,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 10 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 GS20,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1953-04-01,2026-10-01
 IR3TIB01EZM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Euro Area (19 Countries),Percent,Monthly,Not Seasonally Adjusted,1994-01-01,2026-02-16
 IRLTLT01CAM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada,Percent,Monthly,Not Seasonally Adjusted,1955-01-01,2026-10-15
 RCMFLOORIG,Large Bank Consumer Mortgage Originations: New Originations,Billions of U.S. Dollars,"Quarterly, Sum",Not Seasonally Adjusted,2012-07-01,2026-10-07
 IR3TIB01GBM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United Kingdom,Percent,Monthly,Not Seasonally Adjusted,1957-01-01,2026-02-16
-THREEFY10,Fitted Yield on a 10 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-WGS5YR,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-19
-WSHOTSL,Assets: Securities Held Outright: U.S. Treasury Securities: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-CPFF,3-Month Commercial Paper Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-21
+THREEFY10,Fitted Yield on a 10 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+WGS5YR,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-26
+WSHOTSL,Assets: Securities Held Outright: U.S. Treasury Securities: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+CPFF,3-Month Commercial Paper Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-30
 IR3TIB01JPM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Japan,Percent,Monthly,Not Seasonally Adjusted,2002-04-01,2026-10-15
-EFFRVOL,Effective Federal Funds Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-22
+EFFRVOL,Effective Federal Funds Volume,Billions of U.S. Dollars,Daily,Not Seasonally Adjusted,2016-03-01,2026-10-30
 GS3M,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1981-09-01,2026-10-01
 IRLTLT01ITM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Italy,Percent,Monthly,Not Seasonally Adjusted,1991-03-01,2026-10-15
-OBMMIC30YFLVLE80FGE740,"30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Greater Than 740",Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
+OBMMIC30YFLVLE80FGE740,"30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Greater Than 740",Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
 DCPN3M,90-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-14
-WMTSECL1,Memorandum Items: Custody Holdings: Marketable U.S. Treasury Securities: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WMTSECL1,Memorandum Items: Custody Holdings: Marketable U.S. Treasury Securities: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 HQMCB10YRP,10-Year High Quality Market (HQM) Corporate Bond Par Yield,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 IRLTLT01CHM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Switzerland,Percent,Monthly,Not Seasonally Adjusted,1955-01-01,2026-10-15
-OBMMIUSDA30YF,30-Year Fixed Rate USDA Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
-DCPF3M,90-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-21
+OBMMIUSDA30YF,30-Year Fixed Rate USDA Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
+DCPF3M,90-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-30
 HQMCB20YR,20-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
-RPONTSYSAD,Overnight Repurchase Agreements: Amount of Treasury Securities Submitted,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-07-07,2026-10-22
-T5YFF,5-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
+RPONTSYSAD,Overnight Repurchase Agreements: Amount of Treasury Securities Submitted,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-07-07,2026-10-30
+T5YFF,5-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
 TB6MS,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,Monthly,Not Seasonally Adjusted,1958-12-01,2026-10-01
-WGS2YR,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1976-06-04,2026-10-19
+WGS2YR,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1976-06-04,2026-10-26
 IRLTLT01KRM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Korea,Percent,Monthly,Not Seasonally Adjusted,2000-10-01,2026-10-15
 REAINTRATREARAT1MO,1-Month Real Interest Rate,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-14
-T1YFF,1-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
+T1YFF,1-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
 TB3SMFFM,3-Month Treasury Bill Minus Federal Funds Rate,Percent,Monthly,Not Seasonally Adjusted,1954-07-01,2026-10-01
-USGSEC,"Treasury and Agency Securities, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
+USGSEC,"Treasury and Agency Securities, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
 HQMCB5YR,5-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
-RPTSYD,Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-22
+RPTSYD,Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-30
 TB1YR,"1-Year Treasury Bill Secondary Market Rate, Discount Basis",Percent,Monthly,Not Seasonally Adjusted,1959-07-01,2026-10-01
-WGS1MO,"Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2001-08-03,2026-10-19
-WGS30YR,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1977-02-18,2026-10-19
+WGS1MO,"Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2001-08-03,2026-10-26
+WGS30YR,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1977-02-18,2026-10-26
 GS1M,"Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,2001-07-01,2026-10-01
 T10Y3MM,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-01
 TY12MCD,Treasury Yield: 12 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
-WGS3YR,"Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-19
-WSHONBNL,"Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Nominal: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WGS3YR,"Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-26
+WSHONBNL,"Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Nominal: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 IR3TIB01CAM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada,Percent,Monthly,Not Seasonally Adjusted,1956-01-01,2026-10-15
 IR3TIB01CNM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for China,Percent,Monthly,Not Seasonally Adjusted,1997-06-01,2026-10-15
 IRLTLT01MXM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Mexico,Percent,Monthly,Not Seasonally Adjusted,2001-07-01,2026-10-15
@@ -125,37 +125,37 @@ HQMCB15YR,15-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Mon
 HQMCB30YRP,30-Year High Quality Market (HQM) Corporate Bond Par Yield,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 IRLTLT01GRM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Greece,Percent,Monthly,Not Seasonally Adjusted,1997-06-01,2026-10-15
 TB4WK,"4-Week Treasury Bill Secondary Market Rate, Discount Basis",Percent,Monthly,Not Seasonally Adjusted,2001-07-01,2026-10-01
-THREEFYTP2,Term Premium on a 2 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-WTB3MS,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1954-01-08,2026-10-19
+THREEFYTP2,Term Premium on a 2 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+WTB3MS,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1954-01-08,2026-10-26
 CPF3M,90-Day AA Financial Commercial Paper Interest Rate,Percent,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-01
 CPN3M,90-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-01
 DRSFRMT100S,"Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-TREAS1590,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 16 Days to 90 Days: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+TREAS1590,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 16 Days to 90 Days: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 DRSFRMACBN,"Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1991-01-01,2026-08-25
 DRSFRMOBN,"Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1991-01-01,2026-08-25
 FORLTTREASPOS42609,Foreign Portfolio Holdings of U.S. Long-Term Treasury Securities: Japan,Millions of Dollars,Monthly,Not Seasonally Adjusted,1984-12-01,2026-10-16
 GS3,"Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1953-04-01,2026-10-01
-H8B1301NCBCQG,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2009-10-01,2026-10-09
+H8B1301NCBCQG,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,2009-10-01,2026-10-23
 HQMCB100YR,100-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 HQMCB50YR,50-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
-THREEFY1,Fitted Yield on a 1 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
+THREEFY1,Fitted Yield on a 1 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
 IRLTLT01PLM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Poland,Percent,Monthly,Not Seasonally Adjusted,2001-01-01,2026-10-15
 RCMFLOLTVPCT50,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile,Ratio,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-RIFSPPAAAD90NB,90-Day AA Asset-Backed Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,2001-01-02,2026-10-22
+RIFSPPAAAD90NB,90-Day AA Asset-Backed Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,2001-01-02,2026-10-30
 ASTMA,"All Sectors; Total Mortgages; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 FGTSL,"Federal Government; Total Marketable Treasury Securities; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 IR3TIB01CHM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Switzerland,Percent,Monthly,Not Seasonally Adjusted,1974-01-01,2026-10-15
 IR3TIB01DEM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany,Percent,Monthly,Not Seasonally Adjusted,1960-01-01,2026-10-15
 IRLTLT01USQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United States,Percent,Quarterly,Not Seasonally Adjusted,1953-04-01,2026-10-15
-OBMMIC15YF,15-Year Fixed Rate Conforming Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
-RIFSPPNA2P2D90NB,90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1998-01-02,2026-10-22
-RRPTSYD,Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-22
-THREEFYTP5,Term Premium on a 5 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
+OBMMIC15YF,15-Year Fixed Rate Conforming Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
+RIFSPPNA2P2D90NB,90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1998-01-02,2026-10-30
+RRPTSYD,Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-30
+THREEFYTP5,Term Premium on a 5 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
 ASHMA,"All Sectors; One-to-Four-Family Residential Mortgages; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 DTCTLVENMNM,"Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted",Months,Monthly,Not Seasonally Adjusted,2008-03-01,2026-09-08
 HQMCB2YRP,2-Year High Quality Market (HQM) Corporate Bond Par Yield,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
-T3MFF,3-Month Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-22
-TREAS1T5,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 1 Year to 5 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+T3MFF,3-Month Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-30
+TREAS1T5,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 1 Year to 5 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 FORTREASPOS42609,Foreign Portfolio Holdings of U.S. Long-Term and Short-Term Treasury Securities: Japan,Millions of Dollars,Monthly,Not Seasonally Adjusted,2003-02-01,2026-10-16
 HQMCB12YR,12-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 HQMCB40YR,40-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
@@ -164,18 +164,18 @@ IRLTLT01DKM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main 
 IRLTLT01SEM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Sweden,Percent,Monthly,Not Seasonally Adjusted,1986-12-01,2026-10-15
 QBPBSTASSCMRTSEC,Balance Sheet: Total Assets: Securities: Mortgage-Backed Securities,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
 QBPBSTASSCUSTRSC,Balance Sheet: Total Assets: Securities: U.S. Treasury Securities,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
-RIFSPPNAAD30NB,30-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-22
-TREAS911Y,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 91 Days to 1 Year: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+RIFSPPNAAD30NB,30-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-30
+TREAS911Y,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 91 Days to 1 Year: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 HQMCB5YRP,5-Year High Quality Market (HQM) Corporate Bond Par Yield,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 IRLTLT01JPQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Japan,Percent,Quarterly,Not Seasonally Adjusted,1989-01-01,2026-10-15
 IRLTLT01NLM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Netherlands,Percent,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-15
-RPONMBSD,Overnight Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-22
+RPONMBSD,Overnight Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2000-01-03,2026-10-30
 IR3TIB01ZAM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for South Africa,Percent,Monthly,Not Seasonally Adjusted,1980-12-01,2026-10-15
 RCMFLBBALDPDPCT90P,Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 T10YFFM,10-Year Treasury Constant Maturity Minus Federal Funds Rate,Percent,Monthly,Not Seasonally Adjusted,1954-07-01,2026-10-01
-THREEFY5,Fitted Yield on a 5 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-TREAS15,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing Within 15 Days: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-WGS20YR,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-19
+THREEFY5,Fitted Yield on a 5 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+TREAS15,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing Within 15 Days: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+WGS20YR,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1962-01-05,2026-10-26
 DRTSSP,Net Percentage of Domestic Banks Tightening Standards for Subprime Mortgage Loans,Percent,Quarterly,Not Seasonally Adjusted,2007-04-01,2026-08-03
 HQMCB1YR,1-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
 INDIR3TIB01STM,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for India,Percent,Monthly,Not Seasonally Adjusted,2011-11-01,2026-10-15
@@ -184,50 +184,50 @@ IRLTLT01IEM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main 
 IRLTLT01LUM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Luxembourg,Percent,Monthly,Not Seasonally Adjusted,1993-10-01,2026-09-15
 RCMFLBACTDPDPCT90P,Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 RCMFLOACT,Large Bank Consumer Mortgage Originations: Number of New Accounts,Number,"Quarterly, Sum",Not Seasonally Adjusted,2012-07-01,2026-10-07
-RIFSPPNA2P2D30NB,30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-22
-TREAS5T10,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 5 Years to 10 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-WGS3MO,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1981-09-04,2026-10-19
+RIFSPPNA2P2D30NB,30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-30
+TREAS5T10,Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 5 Years to 10 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+WGS3MO,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1981-09-04,2026-10-26
 GS6M,"Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1981-09-01,2026-10-01
 IR3TIB01MXM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Mexico,Percent,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-15
 IRLTLT01GBQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United Kingdom,Percent,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-10-15
 IRLTLT01NZM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for New Zealand,Percent,Monthly,Not Seasonally Adjusted,1970-01-01,2026-10-15
 IRLTLT01PTM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Portugal,Percent,Monthly,Not Seasonally Adjusted,1993-07-01,2026-10-15
-OBMMIC30YFLVGT80FGE740,"30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Greater Than 740",Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
+OBMMIC30YFLVGT80FGE740,"30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Greater Than 740",Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
 RIFSPPNAAD90NB,90-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-14
-TASACBW027SBOG,"Treasury and Agency Securities, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
+TASACBW027SBOG,"Treasury and Agency Securities, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
 CORSFRMACBS,"Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1991-01-01,2026-08-25
 DCPF1M,30-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-21
 IR3TIB01IDM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Indonesia,Percent,Monthly,Not Seasonally Adjusted,1998-01-01,2026-01-15
 IRLTLT01BEM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Belgium,Percent,Monthly,Not Seasonally Adjusted,1955-01-01,2026-09-15
 RCMFLBACTDPDPCT30P,Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-WGS7YR,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1969-07-04,2026-10-19
+WGS7YR,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1969-07-04,2026-10-26
 BOGZ1FL313161110Q,"Federal Government; Total Marketable Treasury Bills; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 COLIRLTLT01STM,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Colombia,Percent,Monthly,Not Seasonally Adjusted,2003-01-01,2026-10-15
 FORTREASPOS69995,Foreign Portfolio Holdings of U.S. Long-Term and Short-Term Treasury Securities: All Countries,Millions of Dollars,Monthly,Not Seasonally Adjusted,2003-02-01,2026-10-16
 HNOTSAQ027S,"Households and Nonprofit Organizations; Treasury Securities; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 IR3TIB01SEM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Sweden,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-15
-OBMMIC30YFLVGT80FB720A739,"30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 720 and 739",Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
-OBMMIC30YFNA,30-Year Fixed Rate Conforming Non-Adjusted Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-22
+OBMMIC30YFLVGT80FB720A739,"30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 720 and 739",Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
+OBMMIC30YFNA,30-Year Fixed Rate Conforming Non-Adjusted Mortgage Index,Percent,Daily,Not Seasonally Adjusted,2017-01-03,2026-10-30
 TY6MCD,Treasury Yield: 6 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
-WTB6MS,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1958-12-12,2026-10-19
+WTB6MS,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1958-12-12,2026-10-26
 ASMRMA,"All Sectors; Multifamily Residential Mortgages; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 DRSFRMOBS,"Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
 HQMCB3YR,3-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
-RESPPALGUOXCH1NWW,Assets: Securities Held Outright: U.S. Treasury Securities: Change in Wednesday Level from Previous Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-RIFSPPAAAD30NB,30-Day AA Asset-Backed Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,2001-01-02,2026-10-22
+RESPPALGUOXCH1NWW,Assets: Securities Held Outright: U.S. Treasury Securities: Change in Wednesday Level from Previous Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+RIFSPPAAAD30NB,30-Day AA Asset-Backed Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,2001-01-02,2026-10-30
 FORTREASPOS13005,Foreign Portfolio Holdings of U.S. Long-Term and Short-Term Treasury Securities: United Kingdom,Millions of Dollars,Monthly,Not Seasonally Adjusted,2003-02-01,2026-10-16
 FORTREASPOS29998,Foreign Portfolio Holdings of U.S. Long-Term and Short-Term Treasury Securities: Canada,Millions of Dollars,Monthly,Not Seasonally Adjusted,2003-02-01,2026-10-16
 GS7,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis",Percent,Monthly,Not Seasonally Adjusted,1969-07-01,2026-10-01
 IR3TIB01NZM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for New Zealand,Percent,Monthly,Not Seasonally Adjusted,1973-12-01,2026-10-15
 IRLTLT01NOM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Norway,Percent,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-15
-THREEFY2,Fitted Yield on a 2 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-WGS6MO,"Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1981-09-04,2026-10-19
+THREEFY2,Fitted Yield on a 2 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+WGS6MO,"Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1981-09-04,2026-10-26
 AGSEBMPTCMAHDFS,"Agency-and GSE-Backed Mortgage Pools; Total Mortgages; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 DALLSRESFRMACBEP,"Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks",Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1991-01-01,2026-08-25
 FORTREASNET99996,Foreign Net Transactions of U.S. Long-Term and Short-Term Treasury Securities: Grand Total,Millions of Dollars,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-16
 IRLTLT01AUQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia,Percent,Quarterly,Not Seasonally Adjusted,1969-07-01,2026-10-15
-KCROROS,Risk-ON Risk-Off Index (KCRORO): Spreads,Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-22
-RRPONTSYSAD,Overnight Reverse Repurchase Agreements: Amount of Treasury Securities Submitted,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-22
+KCROROS,Risk-ON Risk-Off Index (KCRORO): Spreads,Percentage Points,Daily,Not Seasonally Adjusted,2003-05-09,2026-10-30
+RRPONTSYSAD,Overnight Reverse Repurchase Agreements: Amount of Treasury Securities Submitted,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-30
 TY3MCD,Treasury Yield: 3 Month CD <100M,Percent,Monthly,Not Seasonally Adjusted,2021-04-01,2026-10-19
 BOGZ1FL263061145Q,"Rest of the World; Treasury Securities Held by Private Foreigners; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 BOGZ1FL633061105Q,"Money Market Funds; Treasury Securities; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
@@ -241,19 +241,19 @@ IRLTLT01FIM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main 
 IRLTLT01ZAQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for South Africa,Percent,Quarterly,Not Seasonally Adjusted,1957-01-01,2026-10-15
 ASCMA,"All Sectors; Commercial Mortgages; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 CRIIRLTLT01STM,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Costa Rica,Percent,Monthly,Not Seasonally Adjusted,2011-08-01,2026-09-15
-EMVMACROINTEREST,Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-09-29
+EMVMACROINTEREST,Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-30
 HMLBSHNO,"Households and Nonprofit Organizations; One-to-Four-Family Residential Mortgages; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 IR3TIB01DKM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Denmark,Percent,Monthly,Not Seasonally Adjusted,1987-01-01,2026-10-15
 IRLTLT01CLM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile,Percent,Monthly,Not Seasonally Adjusted,2004-07-01,2026-10-15
 IRLTLT01HUM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Hungary,Percent,Monthly,Not Seasonally Adjusted,1999-02-01,2026-09-15
-MBS10Y,Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in over 10 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+MBS10Y,Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in over 10 Years: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 RCMFLOORIGPURPREFICASHOUT,Large Bank Consumer Mortgage Originations: Originations by Purpose Type: Refinance: Cashout,Billions of U.S. Dollars,"Quarterly, End of Quarter",Not Seasonally Adjusted,2013-07-01,2026-10-07
-RIFSPPFAAD07NB,7-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-22
-T6MFF,6-Month Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-22
-THREEFYTP1,Term Premium on a 1 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-TNMACBW027SBOG,"Treasury and Agency Securities: Non-MBS, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-16
-WCPN1M,30-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1997-01-03,2026-10-19
-WSHOTSA,Assets: Securities Held Outright: U.S. Treasury Securities: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+RIFSPPFAAD07NB,7-Day AA Financial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1997-01-02,2026-10-29
+T6MFF,6-Month Treasury Constant Maturity Minus Federal Funds Rate,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-30
+THREEFYTP1,Term Premium on a 1 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+TNMACBW027SBOG,"Treasury and Agency Securities: Non-MBS, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-30
+WCPN1M,30-Day AA Nonfinancial Commercial Paper Interest Rate,Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,1997-01-03,2026-10-26
+WSHOTSA,Assets: Securities Held Outright: U.S. Treasury Securities: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 CBLBSNNCB,"Nonfinancial Corporate Business; Corporate Bonds; Liability (Excluding Ereits), Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 DRISCFLM,Net Percentage of Domestic Banks Increasing Spreads of Loan Rates Over Banks' Cost of Funds to Large and Middle-Market Firms,Percent,Quarterly,Not Seasonally Adjusted,1990-04-01,2026-08-03
 HQMCB2YR,2-Year High Quality Market (HQM) Corporate Bond Spot Rate,Percent,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-06
@@ -261,12 +261,12 @@ IRLTLT01ATM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main 
 IRLTLT01DEQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany,Percent,Quarterly,Not Seasonally Adjusted,1956-07-01,2026-10-15
 IRLTLT01FRQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for France,Percent,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-10-15
 IRLTLT01ILM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Israel,Percent,Monthly,Not Seasonally Adjusted,1997-01-01,2026-10-15
-RIFSPPNA2P2D01NB,Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1998-01-02,2026-10-22
-THREEFY3,Fitted Yield on a 3 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-20
-WMBSEC,Assets: Securities Held Outright: Mortgage-Backed Securities: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+RIFSPPNA2P2D01NB,Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate,Percent,Daily,Not Seasonally Adjusted,1998-01-02,2026-10-30
+THREEFY3,Fitted Yield on a 3 Year Zero Coupon Bond,Percent,Daily,Not Seasonally Adjusted,1990-01-02,2026-10-27
+WMBSEC,Assets: Securities Held Outright: Mortgage-Backed Securities: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 FORLTTREASPOS41408,"Foreign Portfolio Holdings of U.S. Long-Term Treasury Securities: China, Mainland",Millions of Dollars,Monthly,Not Seasonally Adjusted,1984-12-01,2026-10-16
 IR3TIB01PLM156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Poland,Percent,Monthly,Not Seasonally Adjusted,1991-06-01,2026-10-15
 IRLTLT01CZM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Czech Republic,Percent,Monthly,Not Seasonally Adjusted,2000-04-01,2026-09-15
 IRLTLT01ITQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Italy,Percent,Quarterly,Not Seasonally Adjusted,1991-04-01,2026-10-15
 RCMFLBBALDPDPCT60P,Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-RESPPNTEPPNWW,"Collateralization of Currency: Holdings Against Federal Reserve Notes: Collateral Held Against Federal Reserve Notes: U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Pledged: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+RESPPNTEPPNWW,"Collateralization of Currency: Holdings Against Federal Reserve Notes: Collateral Held Against Federal Reserve Notes: U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Pledged: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29

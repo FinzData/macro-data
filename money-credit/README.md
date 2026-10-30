@@ -1,4 +1,4 @@
-# Money and Credit (181 series)
+# Money and Credit (182 series)
 
 Free package: the last 12 months of the latest values for every series in this category, refreshed weekly.
 

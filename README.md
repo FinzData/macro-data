@@ -1,10 +1,10 @@
 # FinzData macro data
 
-[![Series](https://img.shields.io/badge/series-7610-0B1B3F)](https://finzdata.com/datasets)
+[![Series](https://img.shields.io/badge/series-7615-0B1B3F)](https://finzdata.com/datasets)
 [![Point in time](https://img.shields.io/badge/vintages-every%20revision-9DB0CC)](https://finzdata.com/docs)
 [![PyPI](https://img.shields.io/pypi/v/finzdata?label=pip%20install%20finzdata)](https://pypi.org/project/finzdata/)
 
-Free, ready-to-use US and international macroeconomic data: **7,610 series in 23 categories**,
+Free, ready-to-use US and international macroeconomic data: **7,615 series in 23 categories**,
 one folder per category, each loading in one line of pandas. No API key, no sign-up, no scraping.
 
 ```python
@@ -20,14 +20,14 @@ df = pd.read_csv("https://raw.githubusercontent.com/FinzData/macro-data/main/inf
 | Trade | 1,432 | [trade/](trade/) | [FinzData/macro-trade](https://huggingface.co/datasets/FinzData/macro-trade) |
 | Inflation | 960 | [inflation/](inflation/) | [FinzData/macro-inflation](https://huggingface.co/datasets/FinzData/macro-inflation) |
 | Labor | 595 | [labor/](labor/) | [FinzData/macro-labor](https://huggingface.co/datasets/FinzData/macro-labor) |
-| Other Indicators | 359 | [other-indicators/](other-indicators/) | [FinzData/macro-other-indicators](https://huggingface.co/datasets/FinzData/macro-other-indicators) |
+| Other Indicators | 363 | [other-indicators/](other-indicators/) | [FinzData/macro-other-indicators](https://huggingface.co/datasets/FinzData/macro-other-indicators) |
 | Liquidity | 340 | [liquidity/](liquidity/) | [FinzData/macro-liquidity](https://huggingface.co/datasets/FinzData/macro-liquidity) |
 | Consumption, International | 326 | [consumption-international/](consumption-international/) | [FinzData/macro-consumption-international](https://huggingface.co/datasets/FinzData/macro-consumption-international) |
 | Housing | 273 | [housing/](housing/) | [FinzData/macro-housing](https://huggingface.co/datasets/FinzData/macro-housing) |
 | Rates | 271 | [rates/](rates/) | [FinzData/macro-rates](https://huggingface.co/datasets/FinzData/macro-rates) |
 | Electricity | 244 | [electricity/](electricity/) | [FinzData/macro-electricity](https://huggingface.co/datasets/FinzData/macro-electricity) |
 | Consumer Credit | 184 | [consumer-credit/](consumer-credit/) | [FinzData/macro-consumer-credit](https://huggingface.co/datasets/FinzData/macro-consumer-credit) |
-| Money and Credit | 181 | [money-credit/](money-credit/) | [FinzData/macro-money-credit](https://huggingface.co/datasets/FinzData/macro-money-credit) |
+| Money and Credit | 182 | [money-credit/](money-credit/) | [FinzData/macro-money-credit](https://huggingface.co/datasets/FinzData/macro-money-credit) |
 | Income and Spending | 166 | [income-spending/](income-spending/) | [FinzData/macro-income-spending](https://huggingface.co/datasets/FinzData/macro-income-spending) |
 | Productivity | 137 | [productivity/](productivity/) | [FinzData/macro-productivity](https://huggingface.co/datasets/FinzData/macro-productivity) |
 | Production | 120 | [production/](production/) | [FinzData/macro-production](https://huggingface.co/datasets/FinzData/macro-production) |

@@ -1,12 +1,12 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-GDP,Gross Domestic Product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-GDPC1,Real Gross Domestic Product,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-A939RX0Q048SBEA,Real gross domestic product per capita,Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-A191RL1Q225SBEA,Real Gross Domestic Product,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
+GDP,Gross Domestic Product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-10-29
+GDPC1,Real Gross Domestic Product,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
+A939RX0Q048SBEA,Real gross domestic product per capita,Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
+A191RL1Q225SBEA,Real Gross Domestic Product,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 GDPPOT,Real Potential Gross Domestic Product,Billions of Chained 2017 Dollars,Quarterly,Not Seasonally Adjusted,1949-01-01,2026-02-27
 NGDPSAXDCUSQ,Nominal Gross Domestic Product (GDP) for United States,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1950-01-01,2026-09-07
-STLENI,St. Louis Fed Economic News Index: Real GDP Nowcast,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2013-04-01,2026-10-16
-CFNAI,Chicago Fed National Activity Index,Index,Monthly,Not Seasonally Adjusted,1967-03-01,2026-09-21
+STLENI,St. Louis Fed Economic News Index: Real GDP Nowcast,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2013-04-01,2026-10-23
+CFNAI,Chicago Fed National Activity Index,Index,Monthly,Not Seasonally Adjusted,1967-03-01,2026-10-26
 NGDPRSAXDCCAQ,Real Gross Domestic Product (GDP) for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
 GNP,Gross National Product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
 VAPGDPMA,Value Added by Industry: Manufacturing as a Percentage of GDP,Percent,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-09-30

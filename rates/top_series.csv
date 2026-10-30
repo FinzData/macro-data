@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-DGS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-T10Y2Y,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-21
+DGS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+T10Y2Y,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-29
 FEDFUNDS,Federal Funds Effective Rate,Percent,Monthly,Not Seasonally Adjusted,1954-07-01,2026-10-01
-T10Y3M,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-21
-SOFR,Secured Overnight Financing Rate,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-22
-DGS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1977-02-15,2026-10-22
-DFF,Federal Funds Effective Rate,Percent,"Daily, 7-Day",Not Seasonally Adjusted,1954-07-01,2026-10-22
-DGS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-22
-DGS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-DGS1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-22
-DFEDTARU,Federal Funds Target Range - Upper Limit,Percent,"Daily, 7-Day",Not Seasonally Adjusted,2008-12-16,2026-10-22
+T10Y3M,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,Percent,Daily,Not Seasonally Adjusted,1982-01-04,2026-10-29
+SOFR,Secured Overnight Financing Rate,Percent,Daily,Not Seasonally Adjusted,2018-04-03,2026-10-30
+DGS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1977-02-15,2026-10-30
+DFF,Federal Funds Effective Rate,Percent,"Daily, 7-Day",Not Seasonally Adjusted,1954-07-01,2026-10-30
+DGS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1976-06-01,2026-10-30
+DGS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+DGS1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",Percent,Daily,Not Seasonally Adjusted,1962-01-02,2026-10-30
+DFEDTARU,Federal Funds Target Range - Upper Limit,Percent,"Daily, 7-Day",Not Seasonally Adjusted,2008-12-16,2026-10-30
 REAINTRATREARAT10Y,10-Year Real Interest Rate,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-10-14

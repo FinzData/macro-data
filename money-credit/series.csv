@@ -1,113 +1,114 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-M2SL,M2,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
+M2SL,M2,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-10-27
 GFDEBTN,Federal Debt: Total Public Debt,Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1966-01-01,2026-10-01
-GFDEGDQ188S,Federal Debt: Total Public Debt as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1966-01-01,2026-06-25
-WM2NS,M2,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1980-11-03,2026-09-22
-M2V,Velocity of M2 Money Stock,Ratio,Quarterly,Seasonally Adjusted,1959-01-01,2026-09-30
-M1SL,M1,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
-BOGMBASE,Monetary Base: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
-M2REAL,Real M2 Money Stock,Billions of 1982-84 Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
-TOTRESNS,Reserves of Depository Institutions: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
+GFDEGDQ188S,Federal Debt: Total Public Debt as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1966-01-01,2026-10-28
+WM2NS,M2,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1980-11-03,2026-10-27
+M2V,Velocity of M2 Money Stock,Ratio,Quarterly,Seasonally Adjusted,1959-01-01,2026-10-29
+M1SL,M1,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-10-27
+BOGMBASE,Monetary Base: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
+M2REAL,Real M2 Money Stock,Billions of 1982-84 Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-10-27
+TOTRESNS,Reserves of Depository Institutions: Total,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
 DRTSCILM,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Large and Middle-Market Firms,Percent,Quarterly,Not Seasonally Adjusted,1990-04-01,2026-08-03
 DRCLACBS,"Delinquency Rate on Consumer Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
-DPSACBW027SBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
-BUSLOANS,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
-TOTBKCR,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
-TOTLL,"Loans and Leases in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
+DPSACBW027SBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
+BUSLOANS,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
+TOTBKCR,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
+TOTLL,"Loans and Leases in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
 DRCRELEXFACBS,"Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
 FDHBFIN,Federal Debt Held by Foreign and International Investors,Billions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1970-01-01,2026-10-01
-WM1NS,M1,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-09-22
+WM1NS,M1,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-10-27
 DRALACBN,"Delinquency Rate on All Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1985-01-01,2026-08-25
-M1V,Velocity of M1 Money Stock,Ratio,Quarterly,Seasonally Adjusted,1959-01-01,2026-09-30
+FYGFGDQ188S,Federal Debt Held by the Public as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-10-28
+M1V,Velocity of M1 Money Stock,Ratio,Quarterly,Seasonally Adjusted,1959-01-01,2026-10-29
 DRBLACBS,"Delinquency Rate on Business Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
-M2NS,M2,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
+M2NS,M2,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
 TOTALSL,Total Consumer Credit Owned and Securitized,Millions of U.S. Dollars,Monthly,Seasonally Adjusted,1943-01-01,2026-10-07
 BCNSDODNS,"Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 FYGFDPUN,Federal Debt Held by the Public,Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1970-01-01,2026-10-09
-MBCURRCIR,Monetary Base: Currency in Circulation,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
-FYGFGDQ188S,Federal Debt Held by the Public as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-06-25
-WLCFLPCL,Assets: Liquidity and Credit Facilities: Loans: Primary Credit: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+MBCURRCIR,Monetary Base: Currency in Circulation,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
+WLCFLPCL,Assets: Liquidity and Credit Facilities: Loans: Primary Credit: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 FDHBFRBN,Federal Debt Held by Federal Reserve Banks,Billions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1970-01-01,2026-10-01
 TCMDO,"All Sectors; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 TERMCBAUTO48NS,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan",Percent,Monthly,Not Seasonally Adjusted,1972-02-01,2026-10-07
-DPCREDIT,Discount Window Primary Credit Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-09,2026-10-22
+DPCREDIT,Discount Window Primary Credit Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-09,2026-10-30
 BOGZ1FL663067003Q,"Security Brokers and Dealers; Receivables Due from Customers (Margin Loans and Other Receivables); Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-TOTCI,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
+TOTCI,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
 REVOLSL,Revolving Consumer Credit Owned and Securitized,Millions of U.S. Dollars,Monthly,Seasonally Adjusted,1968-01-01,2026-10-07
 RIFLPBCIANM60NM,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan",Percent,Monthly,Not Seasonally Adjusted,2006-08-01,2026-10-07
 DRALACBS,"Delinquency Rate on All Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1985-01-01,2026-08-25
 TERMCBPER24NS,"Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan",Percent,Monthly,Not Seasonally Adjusted,1972-02-01,2026-10-07
-WLODLL,Liabilities and Capital: Liabilities: Deposits: Other Deposits Held by Depository Institutions: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WLODLL,Liabilities and Capital: Liabilities: Deposits: Other Deposits Held by Depository Institutions: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 DRTSCIS,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms,Percent,Quarterly,Not Seasonally Adjusted,1990-04-01,2026-08-03
-M1REAL,Real M1 Money Stock,Billions of 1982-84 Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
-CREACBM027NBOG,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2004-06-01,2026-10-16
-LOANS,"Loans and Leases in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
+M1REAL,Real M1 Money Stock,Billions of 1982-84 Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-10-27
+CREACBM027NBOG,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2004-06-01,2026-10-30
+LOANS,"Loans and Leases in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
 BOGZ1FL193020005Q,"Households; Checkable Deposits and Currency; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-09-11
-CURRSL,Currency Component of M1,Billions of Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-09-22
+CURRSL,Currency Component of M1,Billions of Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-27
 TOTALSLAR,Percent Change of Total Consumer Credit,Percent Change at Annual Rate,Monthly,Seasonally Adjusted Annual Rate,1943-02-01,2026-10-07
-WLCFLL,Assets: Liquidity and Credit Facilities: Loans: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WLCFLL,Assets: Liquidity and Credit Facilities: Loans: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 CMDEBT,"Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
-DEMDEPSL,Demand Deposits,Billions of Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-09-22
-LNFACBW027SBOG,"Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2015-01-07,2026-10-16
+DEMDEPSL,Demand Deposits,Billions of Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-27
+LNFACBW027SBOG,"Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2015-01-07,2026-10-30
 NCBCMDPMVCE,"Nonfinancial Corporate Business; Debt as a Percentage of the Market Value of Corporate Equities, Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-CREACBW027SBOG,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2004-06-02,2026-10-16
+CREACBW027SBOG,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2004-06-02,2026-10-30
 RIFLPBCIANM72NM,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 72 Month Loan",Percent,Monthly,Not Seasonally Adjusted,2015-08-01,2026-10-07
 DRSREACBS,"Delinquency Rate on Loans Secured by Real Estate, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
 FDHBPIN,Federal Debt Held by Private Investors,Billions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1970-01-01,2026-10-01
-MDLM,Other Liquid Deposits: Total,Billions of Dollars,Monthly,Seasonally Adjusted,2020-05-01,2026-09-22
-CARACBW027SBOG,"Consumer Loans: Other Consumer Loans: Automobile Loans, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2015-01-07,2026-10-16
-CONSUMER,"Consumer Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
-M1NS,M1,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
-REALLN,"Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
+MDLM,Other Liquid Deposits: Total,Billions of Dollars,Monthly,Seasonally Adjusted,2020-05-01,2026-10-27
+CARACBW027SBOG,"Consumer Loans: Other Consumer Loans: Automobile Loans, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2015-01-07,2026-10-30
+CONSUMER,"Consumer Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
+M1NS,M1,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
+REALLN,"Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
 CORBLACBS,"Charge-Off Rate on Business Loans, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1985-01-01,2026-08-25
 CORCACBS,"Charge-Off Rate on Consumer Loans, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1985-01-01,2026-08-25
 DTCTLVENANM,Average Amount Financed for New Car Loans at Finance Companies,U.S. Dollars,Monthly,Not Seasonally Adjusted,2008-03-01,2026-09-08
-CLSACBW027SBOG,"Consumer Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
-H8B1001NCBCMG,"Bank Credit, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1947-02-01,2026-10-16
+CLSACBW027SBOG,"Consumer Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
+H8B1001NCBCMG,"Bank Credit, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1947-02-01,2026-10-30
 NCBDBIQ027S,"Nonfinancial Corporate Business; Debt Securities; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-DPSACBM027NBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-16
+DPSACBM027NBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-30
 MVGFD027MNFRBDAL,Market Value of Gross Federal Debt,Billions of Dollars,Monthly,Not Seasonally Adjusted,1942-01-01,2026-09-16
 BOGZ1FL624123035Q,"Hedge Funds (Domestic); Loans, Total Secured Borrowing Via Prime Brokerages; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-LOANINV,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
+HBFIGDQ188S,Federal Debt Held by Foreign and International Investors as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-10-28
+LOANINV,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
 RCCCBSHRMIN,Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
-STDSL,Small-Denomination Time Deposits: Total,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
+STDSL,Small-Denomination Time Deposits: Total,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-10-27
 DRSDCILM,Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial and Industrial Loans From Large and Middle-Market Firms,Percent,Quarterly,Not Seasonally Adjusted,1991-10-01,2026-08-03
 HCCSDODNS,"Households and Nonprofit Organizations; Consumer Credit; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 SLGSDODNS,"State and Local Governments; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 STDSAUTO,Net Percentage of Domestic Banks Tightening Standards for Auto Loans,Percent,Quarterly,Not Seasonally Adjusted,2011-04-01,2026-08-03
-CIBOARD,"Commercial and Industrial Loans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-16
-WDDNS,Demand Deposits,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-09-22
-DPSACBW027NBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-16
+CIBOARD,"Commercial and Industrial Loans, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-30
+WDDNS,Demand Deposits,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-10-27
+DPSACBW027NBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-30
 FGCCSAQ027S,"Federal Government; Consumer Credit, Student Loans; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 SLOASM,Student Loans Owned and Securitized,Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2006-03-01,2026-10-07
 TOTALNS,Total Consumer Credit Owned and Securitized,Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1943-01-01,2026-10-07
 ASTDSL,"All Sectors; Total Debt Securities; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-M2MSL,M2 Less Small Time Deposits,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-09-22
-MDLNWM,Other Liquid Deposits: Total,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,2020-05-04,2026-09-22
+M2MSL,M2 Less Small Time Deposits,Billions of Dollars,Monthly,Seasonally Adjusted,1959-01-01,2026-10-27
+MDLNWM,Other Liquid Deposits: Total,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,2020-05-04,2026-10-27
 BC0ACBQ158SBOG,"Bank Credit, All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-10-09
 RIELPCFANNM,"Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted",Percent,Monthly,Not Seasonally Adjusted,2008-03-01,2026-09-08
-RREACBW027SBOG,"Real Estate Loans: Residential Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2004-06-02,2026-10-16
-SBCACBW027SBOG,"Securities in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
-WCURRNS,Currency Component of M1,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-09-22
-WPC,Assets: Liquidity and Credit Facilities: Loans: Primary Credit: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+RREACBW027SBOG,"Real Estate Loans: Residential Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,Weekly,Seasonally Adjusted,2004-06-02,2026-10-30
+SBCACBW027SBOG,"Securities in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
+WCURRNS,Currency Component of M1,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-10-27
+WPC,Assets: Liquidity and Credit Facilities: Loans: Primary Credit: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 CILACBQ158SBOG,"Commercial and Industrial Loans, All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1947-04-01,2026-10-09
 CORCREXFACBS,"Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1991-01-01,2026-08-25
-DPSACBM027SBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-10-16
-CURRNS,Currency Component of M1,Billions of Dollars,Monthly,Not Seasonally Adjusted,1947-01-01,2026-09-22
-DPSSCBW027SBOG,"Deposits, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
+DPSACBM027SBOG,"Deposits, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1973-01-01,2026-10-30
+CURRNS,Currency Component of M1,Billions of Dollars,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-27
+DPSSCBW027SBOG,"Deposits, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
 DROCLACBS,"Delinquency Rate on Other Consumer Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-LOANINVNSA,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-16
+LOANINVNSA,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-30
 RCCCBACTIVEUTILPCT75,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 TCMILBSNNCB,"Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-WSMTMNS,Small-Denomination Time Deposits: Total,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-09-22
+WSMTMNS,Small-Denomination Time Deposits: Total,Billions of Dollars,"Weekly, Ending Monday",Not Seasonally Adjusted,1975-01-06,2026-10-27
 DRFAPGACBN,"Delinquency Rate on Loans to Finance Agricultural Production, All Commercial Banks",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1987-01-01,2026-08-25
-H8B1023NCBCMG,"Commercial and Industrial Loans, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1947-02-01,2026-10-16
+H8B1023NCBCMG,"Commercial and Industrial Loans, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1947-02-01,2026-10-23
 BOGZ1FL623069503Q,"Hedge Funds (Domestic); Leveraged Loans; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 CDCABSHNO,"Households and Nonprofit Organizations; Checkable Deposits and Currency; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 QBPLNTLNNTCGOFFR,Loan Performance: Total Loans and Leases: Net Charge-Off Rate,Percent,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
-RELACBW027SBOG,"Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
-TOTBKCRNSA,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-16
-TOTLLNSA,"Loans and Leases in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-16
+RELACBW027SBOG,"Real Estate Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
+TOTBKCRNSA,"Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-30
+TOTLLNSA,"Loans and Leases in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-30
 DALLCCACBEP,"Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, All Commercial Banks",Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1991-01-01,2026-08-25
 RCCCBSHRFULL,Large Bank Consumer Credit Card Balances: Share of Accounts Making the Full Balance Payment,Percent,"Quarterly, End of Quarter",Not Seasonally Adjusted,2012-07-01,2026-10-07
 SUBLPDRCSN,Net Percentage of Domestic Banks Tightening Standards for Commercial Real Estate Loans Secured by Nonfarm Nonresidential Structures,Percent,Quarterly,Not Seasonally Adjusted,2013-10-01,2026-08-03
@@ -115,68 +116,68 @@ DRBLACBN,"Delinquency Rate on Business Loans, All Commercial Banks",Percent,"Qua
 DRIWCIL,Net Percentage of Domestic Banks Reporting Increased Willingness to Make Consumer Installment Loans,Percent,Quarterly,Not Seasonally Adjusted,1982-04-01,2026-08-03
 DRSDCIS,Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial and Industrial Loans From Small Firms,Percent,Quarterly,Not Seasonally Adjusted,1991-10-01,2026-08-03
 FDHBATN,Federal Debt Held by Agencies and Trusts,Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1981-01-01,2026-10-09
-H8B1020NCBCMG,"Loans and Leases in Bank Credit, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1947-02-01,2026-10-16
+H8B1020NCBCMG,"Loans and Leases in Bank Credit, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1947-02-01,2026-10-30
 H8B1058NCBCMG,"Deposits, All Commercial Banks",Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1973-02-01,2026-10-09
-HBFRGDQ188S,Federal Debt Held by Federal Reserve Banks as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-06-25
-ODSACBW027SBOG,"Other Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-16
+ODSACBW027SBOG,"Other Deposits, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-30
 BOGZ1FL193030205Q,"Households; Other Deposits Including Time and Savings Deposits; Asset (IMA), Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-10-01,2026-09-11
 FGSDODNS,"Federal Government; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
+HBPIGDQ188S,Federal Debt Held by Private Investors as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-10-28
 MPCREDIT,Discount Window Primary Credit Rate,Percent,Monthly,Not Seasonally Adjusted,2003-02-01,2026-10-01
 NCBCMDPNWMV,"Nonfinancial Corporate Business; Debt as a Percentage of Net Worth (Market Value), Level",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 NONREVSL,Nonrevolving Consumer Credit Owned and Securitized,Millions of U.S. Dollars,Monthly,Seasonally Adjusted,1943-01-01,2026-10-07
-TOTCINSA,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-16
+TOTCINSA,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1973-01-03,2026-10-30
 REVOLSLAR,Percent Change of Total Revolving Consumer Credit,Percent Change at Annual Rate,Monthly,Seasonally Adjusted Annual Rate,1968-02-01,2026-10-07
 TBSDODNS,"Nonfinancial Business; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 TSDABSHNO,"Households and Nonprofit Organizations; Total Time and Savings Deposits; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-WLDLCL,Liabilities and Capital: Liabilities: Deposits (Less Eliminations from Consolidation): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WLDLCL,Liabilities and Capital: Liabilities: Deposits (Less Eliminations from Consolidation): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 CORALACBS,"Charge-Off Rate on All Loans, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1985-01-01,2026-08-25
 DEMAUTO,Net Percentage of Domestic Banks Reporting Stronger Demand for Auto Loans,Percent,Quarterly,Not Seasonally Adjusted,2011-04-01,2026-08-03
 DRCLACBN,"Delinquency Rate on Consumer Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Not Seasonally Adjusted,1987-01-01,2026-08-25
 DRFLACBS,"Delinquency Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-LTDACBM027NBOG,"Large Time Deposits, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-16
+HBFRGDQ188S,Federal Debt Held by Federal Reserve Banks as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-10-28
+LTDACBM027NBOG,"Large Time Deposits, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-30
 MVLOASM,Motor Vehicle Loans Owned and Securitized,Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1943-03-01,2026-10-07
-RELSCBM027SBOG,"Real Estate Loans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1985-04-01,2026-10-16
+RELSCBM027SBOG,"Real Estate Loans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1985-04-01,2026-10-30
 SUBLPDRCSM,Net Percentage of Domestic Banks Tightening Standards for Commercial Real Estate Loans Secured by Multifamily Residential Structures,Percent,Quarterly,Not Seasonally Adjusted,2013-10-01,2026-08-03
-WLCFLSECL,Assets: Liquidity and Credit Facilities: Loans: Seasonal Credit: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-BC0SCBM027SBOG,"Bank Credit, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1985-04-01,2026-10-16
+WLCFLSECL,Assets: Liquidity and Credit Facilities: Loans: Seasonal Credit: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+BC0SCBM027SBOG,"Bank Credit, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1985-04-01,2026-10-30
 BOGZ1FA663067003Q,"Security Brokers and Dealers; Receivables Due from Customers (Margin Loans and Other Receivables); Asset, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
 BOGZ1FA713068703Q,"Central Bank; Loans to Domestic Banks Through the Discount Window; Asset, Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1946-10-01,2026-09-11
 DODFS,"Domestic Financial Sectors; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 DPSACBQ158SBOG,"Deposits, All Commercial Banks",Percent Change at Annual Rate,Quarterly,Seasonally Adjusted,1973-04-01,2026-10-09
 DRCLOBS,"Delinquency Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
 DRCRELEXFT100S,"Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-HBPIGDQ188S,Federal Debt Held by Private Investors as Percent of Gross Domestic Product,Percent of GDP,Quarterly,Seasonally Adjusted,1970-01-01,2026-06-25
-LLBSCBW027SBOG,"Loans and Leases in Bank Credit, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-16
+LLBSCBW027SBOG,"Loans and Leases in Bank Credit, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-30
 SBDDSA,"Security Brokers and Dealers; Debt Securities; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 CORALACBN,"Charge-Off Rate on All Loans, All Commercial Banks",Percent,Quarterly,Not Seasonally Adjusted,1985-01-01,2026-08-25
 DABSHNO,"Households and Nonprofit Organizations; Total Currency and Deposits Including Money Market Fund Shares; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 DRALT100S,"Delinquency Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1985-01-01,2026-08-25
 DRBLOBS,"Delinquency Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1987-01-01,2026-08-25
 QBPLNTLNTOUT,Loan Performance: Total Loans and Leases: Total Outstanding,Million of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27
-ALLACBW027SBOG,"LESS: Allowance for Credit Losses on Loans and Leases, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-16
+ALLACBW027SBOG,"LESS: Allowance for Credit Losses on Loans and Leases, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2009-07-01,2026-10-30
 BOGZ1FR783130025Q,"Private Depository Institutions and Money Market Funds; Time and Savings Deposits Due to Money Market Funds, the Federal Government, and the Rest of the World; Liability (SRF), Revaluation",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1946-10-01,2026-09-11
 MVPHGFD027MNFRBDAL,Market Value of Privately Held Gross Federal Debt,Billions of Dollars,Monthly,Not Seasonally Adjusted,1942-01-01,2026-09-16
-NONBORRES,Reserves of Depository Institutions: Nonborrowed,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
+NONBORRES,Reserves of Depository Institutions: Nonborrowed,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
 REVOLNS,Revolving Consumer Credit Owned and Securitized,Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1968-01-01,2026-10-07
 SNBMONTBASE,Swiss Monetary Base Aggregate,CHF Millions,Monthly,Not Seasonally Adjusted,1950-01-01,2026-10-21
-WLCFOCEL,Assets: Liquidity and Credit Facilities: Loans: Other Credit Extensions: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-WLODL,Liabilities and Capital: Liabilities: Deposits: Other: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-AOLACBW027SBOG,"Other Loans and Leases: All Other Loans and Leases, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
-CILSCBW027SBOG,"Commercial and Industrial Loans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-16
+WLCFOCEL,Assets: Liquidity and Credit Facilities: Loans: Other Credit Extensions: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+WLODL,Liabilities and Capital: Liabilities: Deposits: Other: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+AOLACBW027SBOG,"Other Loans and Leases: All Other Loans and Leases, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
+CILSCBW027SBOG,"Commercial and Industrial Loans, Small Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-30
 PCREDIT8,Primary Credit Rate - Historical Dates of Changes and Rates for Federal Reserve District 8: St. Louis,Percent,Not Applicable,Not Seasonally Adjusted,2003-01-09,2026-09-17
 TODNS,"Domestic Nonfinancial Sectors; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 BLNECLBSNNCB,"Nonfinancial Corporate Business; Depository Institution Loans N.e.c.; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 BOGZ1FL713068703Q,"Central Bank; Loans to Domestic Banks Through the Discount Window; Asset, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
-BUSLOANSNSA,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-16
+BUSLOANSNSA,"Commercial and Industrial Loans, All Commercial Banks",Billions of U.S. Dollars,Monthly,Not Seasonally Adjusted,1947-01-01,2026-10-30
 DALLCIACBEP,"Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, All Commercial Banks",Millions of Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1987-01-01,2026-08-25
 DODFFSWCMI,"Rest of the World; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
-DPSLCBW027SBOG,"Deposits, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-16
-FEDDT,Assets: Securities Held Outright: Federal Agency Debt Securities: All: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-FLEXSC,Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis,Percent,"Biweekly, Beg. of Period",Not Seasonally Adjusted,1992-01-09,2026-10-15
-LNFACBM027SBOG,"Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2015-01-01,2026-10-16
-M2MNS,M2 Less Small Time Deposits,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-09-22
+DPSLCBW027SBOG,"Deposits, Large Domestically Chartered Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1985-04-03,2026-10-30
+FEDDT,Assets: Securities Held Outright: Federal Agency Debt Securities: All: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+FLEXSC,Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis,Percent,"Biweekly, Beg. of Period",Not Seasonally Adjusted,1992-01-09,2026-10-29
+LNFACBM027SBOG,"Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,2015-01-01,2026-10-30
+M2MNS,M2 Less Small Time Deposits,Billions of Dollars,Monthly,Not Seasonally Adjusted,1959-01-01,2026-10-27
 TCMDODNS,"Domestic Nonfinancial Sectors; Debt Securities and Loans; Liability, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 NCOALLACB,"Asset Quality Measures, Net Charge-Offs on All Loans and Leases, All Commercial Banks",Millions of Dollars,Quarterly,Not Seasonally Adjusted,1985-01-01,2026-08-25
-INVEST,"Securities in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
-DTCOLNVHFNM,"Consumer Motor Vehicle Loans Owned by Finance Companies, Level",Millions of Dollars,Monthly,Not Seasonally Adjusted,1943-01-01,2026-09-24
-DTCTHFNM,"Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level",Millions of Dollars,Monthly,Not Seasonally Adjusted,1943-01-01,2026-09-24
+INVEST,"Securities in Bank Credit, All Commercial Banks",Billions of U.S. Dollars,Monthly,Seasonally Adjusted,1947-01-01,2026-10-30
+DTCOLNVHFNM,"Consumer Motor Vehicle Loans Owned by Finance Companies, Level",Millions of Dollars,Monthly,Not Seasonally Adjusted,1943-01-01,2026-10-30
+DTCTHFNM,"Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level",Millions of Dollars,Monthly,Not Seasonally Adjusted,1943-01-01,2026-10-30

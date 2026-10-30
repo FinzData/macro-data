@@ -2,12 +2,12 @@ id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 INDPRO,Industrial Production: Total Index,Index 2017=100,Monthly,Seasonally Adjusted,1919-01-01,2026-10-16
 IPMAN,Industrial Production: Manufacturing (NAICS),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 TCU,Capacity Utilization: Total Index,Percent,Monthly,Seasonally Adjusted,1967-01-01,2026-10-16
-DGORDER,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1958-02-01,2026-10-02
+DGORDER,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1958-02-01,2026-10-27
 DAUPSA,Domestic Auto Production,Thousands of Units,Monthly,Seasonally Adjusted,1993-01-01,2026-09-30
 MCUMFN,Capacity Utilization: Manufacturing (NAICS),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 OUTMS,Manufacturing Sector: Real Sectoral Output for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1949-01-01,2026-09-03
-C307RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Manufacturing,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
+C307RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Manufacturing,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
 MNFCTRIRSA,Manufacturers: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-15
 IPG3344S,Industrial Production: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component (NAICS = 3344),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
-A34SNO,Manufacturers' New Orders: Computers and Electronic Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+A34SNO,Manufacturers' New Orders: Computers and Electronic Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 IPG3361T3S,Industrial Production: Manufacturing: Durable Goods: Motor Vehicles and Parts (NAICS = 3361-3),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16

@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1947-01-01,2026-10-14
-DFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-22
-T10YIE,10-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-21
-T5YIE,5-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-21
-PCEPI,Personal Consumption Expenditures: Chain-type Price Index,Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
+DFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-30
+T10YIE,10-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-29
+T5YIE,5-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-30
+PCEPI,Personal Consumption Expenditures: Chain-type Price Index,Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-10-29
 CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1957-01-01,2026-10-14
-T5YIFR,"5-Year, 5-Year Forward Inflation Expectation Rate",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-21
+T5YIFR,"5-Year, 5-Year Forward Inflation Expectation Rate",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-30
 CORESTICKM159SFRBATL,Sticky Price Consumer Price Index less Food and Energy,Percent Change from Year Ago,Monthly,Seasonally Adjusted,1967-12-01,2026-10-14
 CPIAUCNS,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-10-14
 PPIACO,Producer Price Index by Commodity: All Commodities,Index 1982=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-10-16
-DFII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-22
-DFII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2010-02-22,2026-10-22
+DFII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-10-30
+DFII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2010-02-22,2026-10-30

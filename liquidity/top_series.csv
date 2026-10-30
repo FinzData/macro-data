@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-WALCL,Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-RRPONTSYD,Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-22
-WTREGEN,"Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Week Average",Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1986-01-08,2026-10-22
-WRESBAL,Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1984-01-04,2026-10-22
-RRPONTSYAWARD,Overnight Reverse Repurchase Agreements Award Rate,Percent,Daily,Not Seasonally Adjusted,2013-09-23,2026-10-22
-WRBWFRBL,Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-RESPPANWW,Assets: Total Assets: Total Assets: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
-RRPONTTLD,Overnight Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-22
-WLRRAL,Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-22
+WALCL,Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+RRPONTSYD,Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-30
+WTREGEN,"Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Week Average",Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1986-01-08,2026-10-29
+WRESBAL,Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average,Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,1984-01-04,2026-10-29
+RRPONTSYAWARD,Overnight Reverse Repurchase Agreements Award Rate,Percent,Daily,Not Seasonally Adjusted,2013-09-23,2026-10-30
+WRBWFRBL,Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+RESPPANWW,Assets: Total Assets: Total Assets: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
+RRPONTTLD,Overnight Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations,Billions of US Dollars,Daily,Not Seasonally Adjusted,2003-02-07,2026-10-30
+WLRRAL,Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-10-29
 H41RESPPALDKNWW,"Assets: Liquidity and Credit Facilities: Loans: Bank Term Funding Program, Net: Wednesday Level (DISCONTINUED)",Millions of U.S. Dollars,"Weekly, Ending Wednesday",Not Seasonally Adjusted,2002-12-18,2026-05-21
-TLAACBW027SBOG,"Total Assets, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-16
+TLAACBW027SBOG,"Total Assets, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,1973-01-03,2026-10-30
 QBPBSTAS,Balance Sheet: Total Assets,Millions of U.S. Dollars,Quarterly,Not Seasonally Adjusted,1984-01-01,2026-08-27

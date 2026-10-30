@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
-PCEPILFE,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
-DPCCRV1Q225SBEA,Personal Consumption Expenditures (PCE) Excluding Food and Energy (Chain-Type Price Index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-09-30
-PCETRIM12M159SFRBDAL,Trimmed Mean PCE Inflation Rate,Percent Change from Year Ago,Monthly,Seasonally Adjusted,1978-01-01,2026-09-30
-PCECC96,Real Personal Consumption Expenditures,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-DPCERE1Q156NBEA,Shares of gross domestic product: Personal consumption expenditures,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-09-30
-PCEC,Personal Consumption Expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
-PCETRIM1M158SFRBDAL,Trimmed Mean PCE Inflation Rate,Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1977-02-01,2026-09-30
-PCEDG,Personal Consumption Expenditures: Durable Goods,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
-FDEFX,Federal Government: National Defense Consumption Expenditures and Gross Investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-IA001260M,Personal Consumption Expenditures: Services Excluding Energy and Housing (Chain-Type Price Index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-09-30
-PCECTPI,Personal Consumption Expenditures: Chain-type Price Index,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-30
-GCEC1,Real Government Consumption Expenditures and Gross Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
+PCEPILFE,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-10-29
+DPCCRV1Q225SBEA,Personal Consumption Expenditures (PCE) Excluding Food and Energy (Chain-Type Price Index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
+PCETRIM12M159SFRBDAL,Trimmed Mean PCE Inflation Rate,Percent Change from Year Ago,Monthly,Seasonally Adjusted,1978-01-01,2026-10-29
+PCECC96,Real Personal Consumption Expenditures,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
+DPCERE1Q156NBEA,Shares of gross domestic product: Personal consumption expenditures,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-10-29
+PCEC,Personal Consumption Expenditures,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-10-29
+PCETRIM1M158SFRBDAL,Trimmed Mean PCE Inflation Rate,Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1977-02-01,2026-10-29
+PCEDG,Personal Consumption Expenditures: Durable Goods,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-29
+FDEFX,Federal Government: National Defense Consumption Expenditures and Gross Investment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-10-29
+IA001260M,Personal Consumption Expenditures: Services Excluding Energy and Housing (Chain-Type Price Index),Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-10-29
+PCECTPI,Personal Consumption Expenditures: Chain-type Price Index,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-10-29
+GCEC1,Real Government Consumption Expenditures and Gross Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29

@@ -1,6 +1,6 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 DRCCLACBS,"Delinquency Rate on Credit Card Loans, All Commercial Banks",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25
-CCLACBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-16
+CCLACBW027SBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",Billions of U.S. Dollars,"Weekly, Ending Wednesday",Seasonally Adjusted,2000-06-28,2026-10-30
 TERMCBCCALLNS,"Commercial Bank Interest Rate on Credit Card Plans, All Accounts",Percent,Monthly,Not Seasonally Adjusted,1994-11-01,2026-10-07
 CORCCACBS,"Charge-Off Rate on Credit Card Loans, All Commercial Banks",Percent,Quarterly,Seasonally Adjusted,1985-01-01,2026-08-25
 DRCCLOBS,"Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets",Percent,"Quarterly, End of Period",Seasonally Adjusted,1991-01-01,2026-08-25

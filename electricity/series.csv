@@ -2,7 +2,7 @@ id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 WPU054,Producer Price Index by Commodity: Fuels and Related Products and Power: Electric Power,Index 1982=100,Monthly,Not Seasonally Adjusted,1958-01-01,2026-10-15
 WPS0543,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power,Index 1982=100,Monthly,Seasonally Adjusted,1975-01-01,2026-10-15
 WPU11710252,"Producer Price Index by Commodity: Machinery and Equipment: Porcelain, Steatite, and Other Ceramic Electrical Products",Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-15
-W003RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Power and communication,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-09-30
+W003RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Power and communication,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-10-29
 APU010072610,Average Price: Electricity per Kilowatt-Hour in the Northeast Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
 PCU3359313359319,Producer Price Index by Industry: Current-Carrying Wiring Device Manufacturing: Current-Carrying Wire Connectors for Electrical Circuitry,Index Dec 1981=100,Monthly,Not Seasonally Adjusted,1981-12-01,2026-10-15
 WPU10660101,"Producer Price Index by Commodity: Metals and Metal Products: Household Water Heaters, Electric, for Permanent Installation",Index 1982=100,Monthly,Not Seasonally Adjusted,1950-01-01,2026-06-11
@@ -27,7 +27,7 @@ WPS054,Producer Price Index by Commodity: Fuels and Related Products and Power: 
 A35ANO,Manufacturers' New Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
 CAPUTLG2211SQ,"Capacity Utilization: Utilities: Electric Power Generation, Transmission, and Distribution (NAICS = 2211)",Percent,Quarterly,Seasonally Adjusted,1967-01-01,2026-10-16
 IPN22112MS,Industrial Production: Utilities: Industrial Electricity Sales (NAICS = 22112pt.),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
-W003RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
+W003RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
 A35AVS,Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
 IP8501,Import Price Index (Harmonized System): Electric Motors and Generators (Excludes Generating Sets),Index 2000=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-10-16
 IPG22111S,Industrial Production: Utilities: Electric Power Generation (NAICS = 22111),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
@@ -103,7 +103,7 @@ PCU3351323351325,"Producer Price Index by Industry: Nonresidential Electric Ligh
 PCU3359993359994,Producer Price Index by Industry: Miscellaneous Electrical Equipment Manufacturing: All Miscellaneous Electrical Equipment Except Rectifying Apparatus,Index Jun 2008=100,Monthly,Not Seasonally Adjusted,2008-06-01,2026-10-15
 PCU3363203363202,Producer Price Index by Industry: Motor Vehicle Electrical and Electronic Equipment Manufacturing: Other Motor Vehicle Electrical and Electronic Equipment,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-15
 PCU4236004236001,"Producer Price Index by Industry: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers: Household Appliances, Electrical, and Electronics Wholesaler Services",Index Feb 2009=100,Monthly,Not Seasonally Adjusted,2009-02-01,2026-10-15
-W003RZ2Q224SBEA,Contributions to percent change in real private fixed investment: Nonresidential: Structures: Power and communication,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1958-04-01,2026-10-01
+W003RZ2Q224SBEA,Contributions to percent change in real private fixed investment: Nonresidential: Structures: Power and communication,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1958-04-01,2026-10-29
 WPS0542,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power,Index 1982=100,Monthly,Seasonally Adjusted,1975-01-01,2026-10-15
 WPS054221,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power,Index Dec 1990=100,Monthly,Seasonally Adjusted,1990-12-01,2026-10-15
 WPU0541,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1990-12-01,2026-10-15
@@ -207,8 +207,8 @@ RIWN22112RS,Relative Importance Weights: Utilities: Residential Electricity Sale
 TX43221100M175FRBDAL,"Utilities: Electric Power Generation, Transmission and Distribution Payroll Employment in Texas",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-08-21
 U35ANO,Manufacturers' New Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-02
 U35AUO,Manufacturers' Unfilled Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-10-02
-W003RA3Q086SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication (chain-type quantity index),Index 2017=100,Quarterly,Seasonally Adjusted,1958-01-01,2026-09-30
-W003RG3Q086SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1958-01-01,2026-09-30
+W003RA3Q086SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication (chain-type quantity index),Index 2017=100,Quarterly,Seasonally Adjusted,1958-01-01,2026-10-29
+W003RG3Q086SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1958-01-01,2026-10-29
 WPS0541,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power,Index Dec 1990=100,Monthly,Seasonally Adjusted,1990-12-01,2026-10-15
 WPS054121,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power,Index Dec 1990=100,Monthly,Seasonally Adjusted,1990-12-01,2026-10-15
 WPS0546,Producer Price Index by Commodity: Fuels and Related Products and Power: Transportation Electric Power,Index Dec 2010=100,Monthly,Seasonally Adjusted,2011-01-01,2026-10-15

@@ -2,21 +2,21 @@ id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 INDPRO,Industrial Production: Total Index,Index 2017=100,Monthly,Seasonally Adjusted,1919-01-01,2026-10-16
 IPMAN,Industrial Production: Manufacturing (NAICS),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 TCU,Capacity Utilization: Total Index,Percent,Monthly,Seasonally Adjusted,1967-01-01,2026-10-16
-DGORDER,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1958-02-01,2026-10-02
+DGORDER,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1958-02-01,2026-10-27
 DAUPSA,Domestic Auto Production,Thousands of Units,Monthly,Seasonally Adjusted,1993-01-01,2026-09-30
 MCUMFN,Capacity Utilization: Manufacturing (NAICS),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 OUTMS,Manufacturing Sector: Real Sectoral Output for All Workers,Index 2017=100,Quarterly,Seasonally Adjusted,1949-01-01,2026-09-03
-C307RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Manufacturing,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-09-30
+C307RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Manufacturing,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
 MNFCTRIRSA,Manufacturers: Inventories to Sales Ratio,Ratio,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-15
 IPG3344S,Industrial Production: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component (NAICS = 3344),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
-A34SNO,Manufacturers' New Orders: Computers and Electronic Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+A34SNO,Manufacturers' New Orders: Computers and Electronic Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 IPG3361T3S,Industrial Production: Manufacturing: Durable Goods: Motor Vehicles and Parts (NAICS = 3361-3),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPMANSICS,Industrial Production: Manufacturing (SIC),Index 2017=100,Monthly,Seasonally Adjusted,1919-01-01,2026-10-16
 GOMA,Gross Output by Industry: Manufacturing,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 CAPUTLG3311A2S,"Capacity Utilization: Manufacturing: Durable Goods: Iron and Steel Products (NAICS = 3311,2)",Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
-ADXTNO,Manufacturers' New Orders: Durable Goods Excluding Transportation,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+ADXTNO,Manufacturers' New Orders: Durable Goods Excluding Transportation,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 BSCICP02USM460S,Business Tendency Surveys (Manufacturing): Confidence Indicators: Composite Indicators: National Indicator for United States,Percent,Monthly,Seasonally Adjusted,1950-01-01,2026-10-15
-C307RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Manufacturing,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-09-30
+C307RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Manufacturing,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-10-29
 IPG325S,Industrial Production: Manufacturing: Nondurable Goods: Chemical (NAICS = 325),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 ACOGNO,Manufacturers' New Orders: Consumer Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
 IPB50001N,Industrial Production: Total Index,Index 2017=100,Monthly,Not Seasonally Adjusted,1919-01-01,2026-10-16
@@ -24,9 +24,9 @@ IPN3311A2RS,"Industrial Production: Manufacturing: Durable Goods: Raw Steel (NAI
 RVAMA,Real Value Added by Industry: Manufacturing,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 IPG334S,Industrial Production: Manufacturing: Durable Goods: Computer and Electronic Product (NAICS = 334),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPUTIL,"Industrial Production: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",Index 2017=100,Monthly,Seasonally Adjusted,1939-01-01,2026-10-16
-A33SNO,Manufacturers' New Orders: Machinery,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-A35SNO,"Manufacturers' New Orders: Electrical Equipment, Appliances and Components",Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-ANXAVS,Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
+A33SNO,Manufacturers' New Orders: Machinery,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
+A35SNO,"Manufacturers' New Orders: Electrical Equipment, Appliances and Components",Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
+ANXAVS,Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-27
 CAPUTLG3344S,Capacity Utilization: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component (NAICS = 3344),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPB52300S,Industrial Production: Equipment: Defense and Space Equipment,Index 2017=100,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
 IPG311A2S,"Industrial Production: Manufacturing: Nondurable Goods: Food, Beverage, and Tobacco (NAICS = 311,2)",Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
@@ -36,15 +36,15 @@ CUMFNS,Capacity Utilization: Manufacturing (SIC),Percent,Monthly,Seasonally Adju
 IPG331S,Industrial Production: Manufacturing: Durable Goods: Primary Metal (NAICS = 331),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPG3364S,Industrial Production: Manufacturing: Durable Goods: Aerospace Product and Parts (NAICS = 3364),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 MNFCTRSMSA,Manufacturers Sales,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-15
-ADXDNO,Manufacturers' New Orders: Durable Goods Excluding Defense,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-ATCGNO,Manufacturers' New Orders: Capital Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-CFSBCACTIVITYMFG,Chicago Fed Survey of Economic Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago,Index,Monthly,Not Seasonally Adjusted,2013-01-01,2026-09-22
+ADXDNO,Manufacturers' New Orders: Durable Goods Excluding Defense,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
+ATCGNO,Manufacturers' New Orders: Capital Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
+CFSBCACTIVITYMFG,Chicago Fed Survey of Economic Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago,Index,Monthly,Not Seasonally Adjusted,2013-01-01,2026-10-22
 IPG2211S,"Industrial Production: Utilities: Electric Power Generation, Transmission, and Distribution (NAICS = 2211)",Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPMINE,Industrial Production: Mining: Mining (NAICS = 21),Index 2017=100,Monthly,Seasonally Adjusted,1919-01-01,2026-10-16
 ACDGNO,Manufacturers' New Orders: Consumer Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-AMVPNO,Manufacturers' New Orders: Motor Vehicles and Parts,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+AMVPNO,Manufacturers' New Orders: Motor Vehicles and Parts,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 IPBUSEQ,Industrial Production: Equipment: Business Equipment,Index 2017=100,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
-A34SVS,Manufacturers' Value of Shipments: Computers and Electronic Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
+A34SVS,Manufacturers' Value of Shipments: Computers and Electronic Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-27
 IPG335S,"Industrial Production: Manufacturing: Durable Goods: Electrical Equipment, Appliance, and Component (NAICS = 335)",Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 VAMA,Value Added by Industry: Manufacturing,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 AMTMVS,Manufacturers' Value of Shipments: Total Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
@@ -65,15 +65,15 @@ IPG3311A2S,"Industrial Production: Manufacturing: Durable Goods: Iron and Steel 
 IPG332S,Industrial Production: Manufacturing: Durable Goods: Fabricated Metal Product (NAICS = 332),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPNMAN,Industrial Production: Nondurable Manufacturing (NAICS),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 UMTMNO,Manufacturers' New Orders: Total Manufacturing,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-02
-A32SNO,Manufacturers' New Orders: Fabricated Metal Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-ADEFNO,Manufacturers' New Orders: Defense Capital Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-09-25
+A32SNO,Manufacturers' New Orders: Fabricated Metal Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
+ADEFNO,Manufacturers' New Orders: Defense Capital Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 CAPB00004S,Industrial Capacity: Manufacturing (SIC),Index 2017=100,Monthly,Seasonally Adjusted,1948-01-01,2026-10-16
 IPG321S,Industrial Production: Manufacturing: Durable Goods: Wood Product (NAICS = 321),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 A36ZNO,Manufacturers' New Orders: Ships and Boats,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
 CAPUTLG333S,Capacity Utilization: Manufacturing: Durable Goods: Machinery (NAICS = 333),Percent,Monthly,Seasonally Adjusted,1967-01-01,2026-10-16
-CMRMT,Real Manufacturing and Trade Industries Sales,Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted,1997-01-01,2026-10-01
+CMRMT,Real Manufacturing and Trade Industries Sales,Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted,1997-01-01,2026-10-29
 IPG337S,Industrial Production: Manufacturing: Durable Goods: Furniture and Related Product (NAICS = 337),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
-A31SNO,Manufacturers' New Orders: Primary Metals,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+A31SNO,Manufacturers' New Orders: Primary Metals,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 A37SNO,Manufacturers' New Orders: Furniture and Related Products,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
 CAPB50001S,Industrial Capacity: Total Index,Index 2017=100,Monthly,Seasonally Adjusted,1967-01-01,2026-10-16
 CAPUTLG33611SQ,Capacity Utilization: Manufacturing: Durable Goods: Automobile and Light Duty Motor Vehicle (NAICS = 33611),Percent,Quarterly,Seasonally Adjusted,1972-01-01,2026-10-16
@@ -83,20 +83,20 @@ IPG333SQ,Industrial Production: Manufacturing: Durable Goods: Machinery (NAICS =
 IPG33612S,Industrial Production: Manufacturing: Durable Goods: Heavy Duty Truck (NAICS = 33612),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPN32221S,Industrial Production: Manufacturing: Nondurable Goods: Paperboard Container (NAICS = 32221),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-08-18
 A36CVS,Manufacturers' Value of Shipments: Heavy Duty Truck Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
-A36SNO,Manufacturers' New Orders: Transportation Equipment,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-AMDMVS,Manufacturers' Value of Shipments: Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
+A36SNO,Manufacturers' New Orders: Transportation Equipment,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
+AMDMVS,Manufacturers' Value of Shipments: Durable Goods,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-27
 IPG311S,Industrial Production: Manufacturing: Nondurable Goods: Food (NAICS = 311),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPG322S,Industrial Production: Manufacturing: Nondurable Goods: Paper (NAICS = 322),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPG3254S,Industrial Production: Manufacturing: Nondurable Goods: Pharmaceutical and Medicine (NAICS = 3254),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPG3273S,Industrial Production: Manufacturing: Durable Goods: Cement and Concrete Product (NAICS = 3273),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 AMTMUO,Manufacturers' Unfilled Orders: Total Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-02
-INVCMRMT,Real Manufacturing and Trade Inventories,Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted,1997-01-01,2026-10-01
+INVCMRMT,Real Manufacturing and Trade Inventories,Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted,1997-01-01,2026-10-29
 IPG3366S,Industrial Production: Manufacturing: Durable Goods: Ship and Boat Building (NAICS = 3366),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 S4243SM144NCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Notions Sales",Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-10
-UMDMNO,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-02
-UNXANO,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-02
+UMDMNO,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-27
+UNXANO,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-27
 A35BNO,Manufacturers' New Orders: Household Appliance Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
-ADAPNO,Manufacturers' New Orders: Defense Aircraft and Parts,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+ADAPNO,Manufacturers' New Orders: Defense Aircraft and Parts,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-27
 IPG327S,Industrial Production: Manufacturing: Durable Goods: Nonmetallic Mineral Product (NAICS = 327),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPG3313S,Industrial Production: Manufacturing: Durable Goods: Alumina and Aluminum Production and Processing (NAICS = 3313),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPG33591S,Industrial Production: Manufacturing: Durable Goods: Battery (NAICS = 33591),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16

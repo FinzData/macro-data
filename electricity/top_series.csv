@@ -2,7 +2,7 @@ id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 WPU054,Producer Price Index by Commodity: Fuels and Related Products and Power: Electric Power,Index 1982=100,Monthly,Not Seasonally Adjusted,1958-01-01,2026-10-15
 WPS0543,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power,Index 1982=100,Monthly,Seasonally Adjusted,1975-01-01,2026-10-15
 WPU11710252,"Producer Price Index by Commodity: Machinery and Equipment: Porcelain, Steatite, and Other Ceramic Electrical Products",Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-15
-W003RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Power and communication,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-09-30
+W003RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Power and communication,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-10-29
 APU010072610,Average Price: Electricity per Kilowatt-Hour in the Northeast Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
 PCU3359313359319,Producer Price Index by Industry: Current-Carrying Wiring Device Manufacturing: Current-Carrying Wire Connectors for Electrical Circuitry,Index Dec 1981=100,Monthly,Not Seasonally Adjusted,1981-12-01,2026-10-15
 WPU10660101,"Producer Price Index by Commodity: Metals and Metal Products: Household Water Heaters, Electric, for Permanent Installation",Index 1982=100,Monthly,Not Seasonally Adjusted,1950-01-01,2026-06-11

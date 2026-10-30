@@ -1,13 +1,13 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 APU0000703112,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1984-01-01,2026-10-14
 APU0000708111,"Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1980-01-01,2026-10-14
-GASREGW,US Regular All Formulations Gas Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1990-08-20,2026-10-20
+GASREGW,US Regular All Formulations Gas Price,Dollars per Gallon,"Weekly, Ending Monday",Not Seasonally Adjusted,1990-08-20,2026-10-27
 CP,Corporate Profits After Tax (without IVA and CCAdj),Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1946-01-01,2026-09-30
-DPRIME,Bank Prime Loan Rate,Percent,Daily,Not Seasonally Adjusted,1955-08-04,2026-10-22
+DPRIME,Bank Prime Loan Rate,Percent,Daily,Not Seasonally Adjusted,1955-08-04,2026-10-28
+FYFSD,Federal Surplus or Deficit [-],Millions of Dollars,"Annual, Fiscal Year",Not Seasonally Adjusted,1901-06-30,2026-10-28
 MMMFFAQ027S,"Money Market Funds; Total Financial Assets, Level",Millions of U.S. Dollars,"Quarterly, End of Period",Not Seasonally Adjusted,1945-10-01,2026-09-11
 APU000072610,Average Price: Electricity per Kilowatt-Hour in U.S. City Average,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
 APU0000709112,"Average Price: Milk, Fresh, Whole, Fortified (Cost per Gallon/3.8 Liters) in U.S. City Average",U.S. Dollars,Monthly,Not Seasonally Adjusted,1995-07-01,2026-10-14
 FEDTARMD,"FOMC Summary of Economic Projections for the Fed Funds Rate, Median",Percent,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
-GDPNOW,GDPNow,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-20
+GDPNOW,GDPNow,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-29
 PRIME,Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates,Percent,Not Applicable,Not Seasonally Adjusted,1955-08-04,2026-09-18
-WFRBST01134,Share of Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles),Percent of Aggregate,Quarterly,Not Seasonally Adjusted,1989-07-01,2026-09-18
